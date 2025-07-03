@@ -1,0 +1,3888 @@
+There's some pretty strictly good
+There's some pretty strictly good
+applications of AI that we can drive to
+applications of AI that we can drive to
+applications of AI that we can drive to
+really think how can we apply AI to
+really think how can we apply AI to
+really think how can we apply AI to
+actually completely solve all disease.
+actually completely solve all disease.
+actually completely solve all disease.
+Biochemists over the last 50 years,
+Biochemists over the last 50 years,
+Biochemists over the last 50 years,
+they've been working out these protein
+they've been working out these protein
+they've been working out these protein
+structures by hand. And now we've taken
+structures by hand. And now we've taken
+structures by hand. And now we've taken
+all of that data and trained a neural
+all of that data and trained a neural
+all of that data and trained a neural
+network to go just from the input of
+network to go just from the input of
+network to go just from the input of
+what is this molecule description to try
+what is this molecule description to try
+what is this molecule description to try
+and predict all of that data. That's
+and predict all of that data. That's
+and predict all of that data. That's
+where it begins. That's where the
+where it begins. That's where the
+where it begins. That's where the
+terminator starts. It's always the
+terminator starts. It's always the
+terminator starts. It's always the
+innocent dreamer who says this can
+innocent dreamer who says this can
+innocent dreamer who says this can
+change the world for such good.
+change the world for such good.
+change the world for such good.
+[Music]
+[Music]
+[Music]
+This is Star Talk special edition. Neil
+This is Star Talk special edition. Neil
+This is Star Talk special edition. Neil
+deGrasse Tyson, your personal
+deGrasse Tyson, your personal
+deGrasse Tyson, your personal
+astrophysicist. Special edition means
+astrophysicist. Special edition means
+astrophysicist. Special edition means
+we've got Gary O'Reilly in the house.
+we've got Gary O'Reilly in the house.
+we've got Gary O'Reilly in the house.
+Gary. Hi Neil. Former soccer pro
+Gary. Hi Neil. Former soccer pro
+Gary. Hi Neil. Former soccer pro
+apparently. Yeah. And soccer announcer.
+apparently. Yeah. And soccer announcer.
+apparently. Yeah. And soccer announcer.
+Yes, definitely. And you still do that,
+Yes, definitely. And you still do that,
+Yes, definitely. And you still do that,
+don't you? I do, Chuck. Nice, baby. Hey,
+don't you? I do, Chuck. Nice, baby. Hey,
+don't you? I do, Chuck. Nice, baby. Hey,
+announcing that I know nothing about
+announcing that I know nothing about
+announcing that I know nothing about
+soccer. You're in my club then.
+soccer. You're in my club then.
+soccer. You're in my club then.
+Announcing that you are American.
+Announcing that you are American.
+Announcing that you are American.
+American dog on it. Real football
+American dog on it. Real football
+American dog on it. Real football
+violence.
+violence.
+violence.
+So, we're talking about AI today. That's
+So, we're talking about AI today. That's
+So, we're talking about AI today. That's
+a favorite topic. We We revisit that
+a favorite topic. We We revisit that
+a favorite topic. We We revisit that
+often. Only Only the future of the
+often. Only Only the future of the
+often. Only Only the future of the
+entire world.
+entire world.
+entire world.
+AI as it matters in biology. Oh, wow.
+AI as it matters in biology. Oh, wow.
+AI as it matters in biology. Oh, wow.
+Now, that's a big deal. I know. Uh-huh.
+Now, that's a big deal. I know. Uh-huh.
+Now, that's a big deal. I know. Uh-huh.
+I know. Yeah, cuz people thinking about,
+I know. Yeah, cuz people thinking about,
+I know. Yeah, cuz people thinking about,
+you know, composing your term paper or
+you know, composing your term paper or
+you know, composing your term paper or
+or winning a chess or but it's got a
+or winning a chess or but it's got a
+or winning a chess or but it's got a
+whole frontier ready to be explored and
+whole frontier ready to be explored and
+whole frontier ready to be explored and
+so tell me what you and your producers
+so tell me what you and your producers
+so tell me what you and your producers
+cooked up today. Okay, so we've been on
+cooked up today. Okay, so we've been on
+cooked up today. Okay, so we've been on
+the case to get these guys involved for
+the case to get these guys involved for
+the case to get these guys involved for
+some time, but they are so busy. So here
+some time, but they are so busy. So here
+some time, but they are so busy. So here
+we go. I'll say it. I'm made of
+we go. I'll say it. I'm made of
+we go. I'll say it. I'm made of
+proteins. Yes, you're made of proteins
+proteins. Yes, you're made of proteins
+proteins. Yes, you're made of proteins
+from strings of amino acids that fold
+from strings of amino acids that fold
+from strings of amino acids that fold
+into shapes that put all together form
+into shapes that put all together form
+into shapes that put all together form
+us. But there's a fundamental problem in
+us. But there's a fundamental problem in
+us. But there's a fundamental problem in
+biology. Mhm. That has implications for
+biology. Mhm. That has implications for
+biology. Mhm. That has implications for
+all of medicine. How do these proteins
+all of medicine. How do these proteins
+all of medicine. How do these proteins
+fold up? Oh. For this solution, we
+fold up? Oh. For this solution, we
+fold up? Oh. For this solution, we
+looked at AI and a Google deep mind tool
+looked at AI and a Google deep mind tool
+looked at AI and a Google deep mind tool
+called Alphafold.
+called Alphafold.
+called Alphafold.
+The second iteration of Alphafold 2 won
+The second iteration of Alphafold 2 won
+The second iteration of Alphafold 2 won
+the Nobel Prize in chemistry last year
+the Nobel Prize in chemistry last year
+the Nobel Prize in chemistry last year
+for answering this very question. Who
+for answering this very question. Who
+for answering this very question. Who
+knew AI was smart, huh? Um, now AI win
+knew AI was smart, huh? Um, now AI win
+knew AI was smart, huh? Um, now AI win
+all the Nobel prizes, right? Yeah, just
+all the Nobel prizes, right? Yeah, just
+all the Nobel prizes, right? Yeah, just
+give them to now. Just pack them all up.
+give them to now. Just pack them all up.
+give them to now. Just pack them all up.
+Pack them up. Now, the Isomorphic Labs
+Pack them up. Now, the Isomorphic Labs
+Pack them up. Now, the Isomorphic Labs
+together with Google DeepMind developed
+together with Google DeepMind developed
+together with Google DeepMind developed
+and released AlphaFold 3. Yes, we're on
+and released AlphaFold 3. Yes, we're on
+and released AlphaFold 3. Yes, we're on
+the third iteration. And that was last
+the third iteration. And that was last
+the third iteration. And that was last
+year and applied these new AI models for
+year and applied these new AI models for
+year and applied these new AI models for
+drug discovery. Oh, that's great. All
+drug discovery. Oh, that's great. All
+drug discovery. Oh, that's great. All
+right, so think this through. Could our
+right, so think this through. Could our
+right, so think this through. Could our
+next generations of treatments be
+next generations of treatments be
+next generations of treatments be
+computergenerated?
+computergenerated?
+computergenerated?
+Oh, yeah. Oh, by the way, Neil, let's
+Oh, yeah. Oh, by the way, Neil, let's
+Oh, yeah. Oh, by the way, Neil, let's
+introduce our guest. I will. And we've
+introduce our guest. I will. And we've
+introduce our guest. I will. And we've
+got Max Yaderberg. Did I pronounce that
+got Max Yaderberg. Did I pronounce that
+got Max Yaderberg. Did I pronounce that
+correctly? Yeah, you got it. You got it
+correctly? Yeah, you got it. You got it
+correctly? Yeah, you got it. You got it
+right. Let's hear you say it. Yeah.
+right. Let's hear you say it. Yeah.
+right. Let's hear you say it. Yeah.
+Let's hear you say it. Me say it. Yeah.
+Let's hear you say it. Me say it. Yeah.
+Let's hear you say it. Me say it. Yeah.
+Max Yoderberg. That's exactly what I
+Max Yoderberg. That's exactly what I
+Max Yoderberg. That's exactly what I
+said.
+said.
+said.
+He copied. He was practicing. He was
+He copied. He was practicing. He was
+He copied. He was practicing. He was
+practicing. So you studied AI at Oxford.
+practicing. So you studied AI at Oxford.
+practicing. So you studied AI at Oxford.
+That's right. That's right. I hear
+That's right. That's right. I hear
+That's right. That's right. I hear
+that's a that's a community college.
+that's a that's a community college.
+that's a that's a community college.
+Oxford. Oxford Community College. That's
+Oxford. Oxford Community College. That's
+Oxford. Oxford Community College. That's
+exactly right. In Oxford, England. Yes.
+exactly right. In Oxford, England. Yes.
+exactly right. In Oxford, England. Yes.
+So specialized in deep learning
+So specialized in deep learning
+So specialized in deep learning
+algorithms. I got your little bio here
+algorithms. I got your little bio here
+algorithms. I got your little bio here
+for understanding images. Nice. That was
+for understanding images. Nice. That was
+for understanding images. Nice. That was
+a big advance when when a search can go
+a big advance when when a search can go
+a big advance when when a search can go
+into an image. I thought, you know, I'd
+into an image. I thought, you know, I'd
+into an image. I thought, you know, I'd
+died and gone to to computer heaven
+died and gone to to computer heaven
+died and gone to to computer heaven
+where that started. Yeah. Yeah. I mean,
+where that started. Yeah. Yeah. I mean,
+where that started. Yeah. Yeah. I mean,
+you know, this this was 1015 years ago
+you know, this this was 1015 years ago
+you know, this this was 1015 years ago
+back before AI was cool, right? Um where
+back before AI was cool, right? Um where
+back before AI was cool, right? Um where
+you know, you talk about AI and it's
+you know, you talk about AI and it's
+you know, you talk about AI and it's
+something from a sci-fi book, but
+something from a sci-fi book, but
+something from a sci-fi book, but
+understanding images and videos was like
+understanding images and videos was like
+understanding images and videos was like
+the big thing at that point in time. We
+the big thing at that point in time. We
+the big thing at that point in time. We
+couldn't actually do that. I searched my
+couldn't actually do that. I searched my
+couldn't actually do that. I searched my
+9,000 images on my computer for the word
+9,000 images on my computer for the word
+9,000 images on my computer for the word
+telescope and it found telescope written
+telescope and it found telescope written
+telescope and it found telescope written
+in Chinese on a photo taken at an angle
+in Chinese on a photo taken at an angle
+in Chinese on a photo taken at an angle
+in one of my images when I was visiting
+in one of my images when I was visiting
+in one of my images when I was visiting
+China. Yeah, this is it. Like during my
+China. Yeah, this is it. Like during my
+China. Yeah, this is it. Like during my
+PhD, we took all of the BBC's back
+PhD, we took all of the BBC's back
+PhD, we took all of the BBC's back
+catalog. No. and we ran my algorithm
+catalog. No. and we ran my algorithm
+catalog. No. and we ran my algorithm
+across it and created a search engine.
+across it and created a search engine.
+across it and created a search engine.
+So you could pull up footage from
+So you could pull up footage from
+So you could pull up footage from
+decades ago that had this text or these
+decades ago that had this text or these
+decades ago that had this text or these
+objects. And so that's seriously some
+objects. And so that's seriously some
+objects. And so that's seriously some
+when you do that, do you tie? So when
+when you do that, do you tie? So when
+when you do that, do you tie? So when
+the AI is looking at an image, it's not
+the AI is looking at an image, it's not
+the AI is looking at an image, it's not
+seeing the image the way we do. We're
+seeing the image the way we do. We're
+seeing the image the way we do. We're
+not even seeing a whole image. Our
+not even seeing a whole image. Our
+not even seeing a whole image. Our
+brains, we're we're really just
+brains, we're we're really just
+brains, we're we're really just
+intuiting an image when we see it as how
+intuiting an image when we see it as how
+intuiting an image when we see it as how
+we do it. But the AI, it's like a
+we do it. But the AI, it's like a
+we do it. But the AI, it's like a
+holistic process. Holistic processing AI
+holistic process. Holistic processing AI
+holistic process. Holistic processing AI
+actually sees the image and what it's
+actually sees the image and what it's
+actually sees the image and what it's
+seeing is pixels. That's right. And it
+seeing is pixels. That's right. And it
+seeing is pixels. That's right. And it
+really all it's doing is just oh this
+really all it's doing is just oh this
+really all it's doing is just oh this
+pixel, this pixel, this pixel in this
+pixel, this pixel, this pixel in this
+pixel, this pixel, this pixel in this
+arrangement that's this image. So do you
+arrangement that's this image. So do you
+arrangement that's this image. So do you
+tie that to language and that's how we
+tie that to language and that's how we
+tie that to language and that's how we
+search or is the search just the AI
+search or is the search just the AI
+search or is the search just the AI
+knows the actual image itself? This was
+knows the actual image itself? This was
+knows the actual image itself? This was
+like the big breakthrough back then when
+like the big breakthrough back then when
+like the big breakthrough back then when
+I was doing my PhD and this is what deep
+I was doing my PhD and this is what deep
+I was doing my PhD and this is what deep
+learning as well is all about, right?
+learning as well is all about, right?
+learning as well is all about, right?
+You can imagine if you have this pix
+You can imagine if you have this pix
+You can imagine if you have this pix
+this image full of pixels, how do you
+this image full of pixels, how do you
+this image full of pixels, how do you
+actually code up how to read text from
+actually code up how to read text from
+actually code up how to read text from
+there? How do you tie it to the language
+there? How do you tie it to the language
+there? How do you tie it to the language
+of the text, right? It's unimaginably
+of the text, right? It's unimaginably
+of the text, right? It's unimaginably
+hard to code that up by hand. Yes. So
+hard to code that up by hand. Yes. So
+hard to code that up by hand. Yes. So
+instead, what what you do is you you you
+instead, what what you do is you you you
+instead, what what you do is you you you
+put these what they're called neural
+put these what they're called neural
+put these what they're called neural
+networks. They look at all of the pixels
+networks. They look at all of the pixels
+networks. They look at all of the pixels
+of the image and and you give it lots
+of the image and and you give it lots
+of the image and and you give it lots
+and lots of examples of images that have
+and lots of examples of images that have
+and lots of examples of images that have
+somewhere it's got the text in it and
+somewhere it's got the text in it and
+somewhere it's got the text in it and
+you tell the neural network what the
+you tell the neural network what the
+you tell the neural network what the
+text is. I see. And a neural network
+text is. I see. And a neural network
+text is. I see. And a neural network
+through lots and lots of training starts
+through lots and lots of training starts
+through lots and lots of training starts
+to work out its internal algorithm to
+to work out its internal algorithm to
+to work out its internal algorithm to
+extract the information from these
+extract the information from these
+extract the information from these
+pixels, piece it all together and spit
+pixels, piece it all together and spit
+pixels, piece it all together and spit
+out the actual text or spit out what the
+out the actual text or spit out what the
+out the actual text or spit out what the
+objects are. Wow. So you're currently
+objects are. Wow. So you're currently
+objects are. Wow. So you're currently
+chief AI officer at Isomorphic Labs.
+chief AI officer at Isomorphic Labs.
+chief AI officer at Isomorphic Labs.
+This is a biology place. That's right.
+This is a biology place. That's right.
+This is a biology place. That's right.
+Do you have any biology in your
+Do you have any biology in your
+Do you have any biology in your
+background? Formal biology? No. No.
+background? Formal biology? No. No.
+background? Formal biology? No. No.
+Okay. No. So they want you for your AI.
+Okay. No. So they want you for your AI.
+Okay. No. So they want you for your AI.
+That's right. That's right. So I I I was
+That's right. That's right. So I I I was
+That's right. That's right. So I I I was
+at a place called Deep Mind beforehand.
+at a place called Deep Mind beforehand.
+at a place called Deep Mind beforehand.
+Google Google Deep Mind. Exactly. Um I
+Google Google Deep Mind. Exactly. Um I
+Google Google Deep Mind. Exactly. Um I
+was there for a long time. I absolutely
+was there for a long time. I absolutely
+was there for a long time. I absolutely
+love this this core AI technology called
+love this this core AI technology called
+love this this core AI technology called
+deep learning. That's what I've been
+deep learning. That's what I've been
+deep learning. That's what I've been
+developing my whole career so far. At
+developing my whole career so far. At
+developing my whole career so far. At
+Deep Mind, we were working on some crazy
+Deep Mind, we were working on some crazy
+Deep Mind, we were working on some crazy
+stuff, you know, learning to play chess
+stuff, you know, learning to play chess
+stuff, you know, learning to play chess
+and go and beating top professionals at
+and go and beating top professionals at
+and go and beating top professionals at
+games like Starcraft. You know, back
+games like Starcraft. You know, back
+games like Starcraft. You know, back
+then it was about that was a big deal.
+then it was about that was a big deal.
+then it was about that was a big deal.
+Yeah. And and because the world didn't
+Yeah. And and because the world didn't
+Yeah. And and because the world didn't
+know what AI was, so we were trying to
+know what AI was, so we were trying to
+know what AI was, so we were trying to
+prove that this was even a thing, right?
+prove that this was even a thing, right?
+prove that this was even a thing, right?
+Right? It seems crazy now, but back then
+Right? It seems crazy now, but back then
+Right? It seems crazy now, but back then
+it was just proving that this was
+it was just proving that this was
+it was just proving that this was
+actually a real thing. But at the core,
+actually a real thing. But at the core,
+actually a real thing. But at the core,
+you know, I love this technology. I want
+you know, I love this technology. I want
+you know, I love this technology. I want
+to see it have profound impact on our
+to see it have profound impact on our
+to see it have profound impact on our
+world. And I was thinking these things
+world. And I was thinking these things
+world. And I was thinking these things
+where it begins. Yep. That's where
+where it begins. Yep. That's where
+where it begins. Yep. That's where
+Terminator starts. It's always the
+Terminator starts. It's always the
+Terminator starts. It's always the
+innocent dreamer
+innocent dreamer
+innocent dreamer
+who says, "This can change the world for
+who says, "This can change the world for
+who says, "This can change the world for
+such good and it's in my closet now.
+such good and it's in my closet now.
+such good and it's in my closet now.
+Would you like to see?" Exactly. And
+Would you like to see?" Exactly. And
+Would you like to see?" Exactly. And
+then it's always like some evil
+then it's always like some evil
+then it's always like some evil
+businessman who's just like with my
+businessman who's just like with my
+businessman who's just like with my
+weather machine I will one day rule the
+weather machine I will one day rule the
+weather machine I will one day rule the
+world you know so apart apart from that
+world you know so apart apart from that
+world you know so apart apart from that
+carry on. Yes the good thing is there's
+carry on. Yes the good thing is there's
+carry on. Yes the good thing is there's
+some pretty strictly good applications
+some pretty strictly good applications
+some pretty strictly good applications
+of AI that we can drive and um you know
+of AI that we can drive and um you know
+of AI that we can drive and um you know
+Demis yes started isomorphic labs
+Demis yes started isomorphic labs
+Demis yes started isomorphic labs
+spinning that out of Google deep mind to
+spinning that out of Google deep mind to
+spinning that out of Google deep mind to
+really think how can we apply AI to
+really think how can we apply AI to
+really think how can we apply AI to
+actually you know completely solve all
+actually you know completely solve all
+actually you know completely solve all
+disease. Okay. So, it has genetic links
+disease. Okay. So, it has genetic links
+disease. Okay. So, it has genetic links
+back to its origin story. It was in deep
+back to its origin story. It was in deep
+back to its origin story. It was in deep
+mind. I feel better about that now.
+mind. I feel better about that now.
+mind. I feel better about that now.
+Okay. I'm happier now. Yes. So, I moved
+Okay. I'm happier now. Yes. So, I moved
+Okay. I'm happier now. Yes. So, I moved
+over as part of that founding team to
+over as part of that founding team to
+over as part of that founding team to
+head up AI in this space and um you
+head up AI in this space and um you
+head up AI in this space and um you
+know, it's been about three and a half
+know, it's been about three and a half
+know, it's been about three and a half
+years now. Been a crazy journey, but
+years now. Been a crazy journey, but
+years now. Been a crazy journey, but
+it's it's fascinating. It's so much fun.
+it's it's fascinating. It's so much fun.
+it's it's fascinating. It's so much fun.
+So, you got this AI expertise and
+So, you got this AI expertise and
+So, you got this AI expertise and
+AlphaFold spins off this biological
+AlphaFold spins off this biological
+AlphaFold spins off this biological
+application of it. First, tell me the
+application of it. First, tell me the
+application of it. First, tell me the
+word isomorphic. What does that mean in
+word isomorphic. What does that mean in
+word isomorphic. What does that mean in
+biology? Isomorphic is this is this
+biology? Isomorphic is this is this
+biology? Isomorphic is this is this
+technical term which is you know a
+technical term which is you know a
+technical term which is you know a
+onetoone mapping of of of space right
+onetoone mapping of of of space right
+onetoone mapping of of of space right
+and the reason we're called isomeorphic
+and the reason we're called isomeorphic
+and the reason we're called isomeorphic
+labs is is really that we believe that
+labs is is really that we believe that
+labs is is really that we believe that
+biology is really really complicated in
+biology is really really complicated in
+biology is really really complicated in
+in in in the world of physics we can
+in in in the world of physics we can
+in in in the world of physics we can
+write down equations for physics with
+write down equations for physics with
+write down equations for physics with
+maths and maths is that perfect
+maths and maths is that perfect
+maths and maths is that perfect
+description language for physics but you
+description language for physics but you
+description language for physics but you
+can't really just write down equations
+can't really just write down equations
+can't really just write down equations
+in maths for biology for the cell is
+in maths for biology for the cell is
+in maths for biology for the cell is
+just too complicated biology is the most
+just too complicated biology is the most
+just too complicated biology is the most
+complex expression of chemistry that we
+complex expression of chemistry that we
+complex expression of chemistry that we
+know Oh, that's just there's just so
+know Oh, that's just there's just so
+know Oh, that's just there's just so
+many moving parts. Did you just make
+many moving parts. Did you just make
+many moving parts. Did you just make
+that up? Yeah, that's we're looking for
+that up? Yeah, that's we're looking for
+that up? Yeah, that's we're looking for
+a rose at the stone here for for the
+a rose at the stone here for for the
+a rose at the stone here for for the
+language of biology. Exactly. So, so
+language of biology. Exactly. So, so
+language of biology. Exactly. So, so
+what could be that perfect description
+what could be that perfect description
+what could be that perfect description
+language for biology? We believe AI and
+language for biology? We believe AI and
+language for biology? We believe AI and
+machine learning is that so that there
+machine learning is that so that there
+machine learning is that so that there
+could exist an isomorphism, a mapping
+could exist an isomorphism, a mapping
+could exist an isomorphism, a mapping
+between the biological world and the
+between the biological world and the
+between the biological world and the
+world of AI, machine learning, hence the
+world of AI, machine learning, hence the
+world of AI, machine learning, hence the
+name. Hence the name. Gotcha. Gotcha.
+name. Hence the name. Gotcha. Gotcha.
+name. Hence the name. Gotcha. Gotcha.
+Gotcha. All right. So uh tell us about
+Gotcha. All right. So uh tell us about
+Gotcha. All right. So uh tell us about
+protein folding because you know when we
+protein folding because you know when we
+protein folding because you know when we
+learn about chemistry we learn about
+learn about chemistry we learn about
+learn about chemistry we learn about
+chemical reactions and we're not really
+chemical reactions and we're not really
+chemical reactions and we're not really
+taught that the shape of the molecule
+taught that the shape of the molecule
+taught that the shape of the molecule
+should have anything to do with
+should have anything to do with
+should have anything to do with
+anything. It's just what is the chemical
+anything. It's just what is the chemical
+anything. It's just what is the chemical
+symbol and when you write down the
+symbol and when you write down the
+symbol and when you write down the
+chemical equations there there's no
+chemical equations there there's no
+chemical equations there there's no
+shape in there. There's just what
+shape in there. There's just what
+shape in there. There's just what
+elements and molecules right comprise
+elements and molecules right comprise
+elements and molecules right comprise
+it. So, and and those and those
+it. So, and and those and those
+it. So, and and those and those
+equations don't really ever represent
+equations don't really ever represent
+equations don't really ever represent
+the three-dimensional nature. Exactly.
+the three-dimensional nature. Exactly.
+the three-dimensional nature. Exactly.
+You don't even know which if it's it has
+You don't even know which if it's it has
+You don't even know which if it's it has
+handedness. Yes. Right. So, take us from
+handedness. Yes. Right. So, take us from
+handedness. Yes. Right. So, take us from
+there. We think about proteins. Proteins
+there. We think about proteins. Proteins
+there. We think about proteins. Proteins
+are these fundamental building blocks of
+are these fundamental building blocks of
+are these fundamental building blocks of
+life. Yeah. They're inside of everyone.
+life. Yeah. They're inside of everyone.
+life. Yeah. They're inside of everyone.
+They make up everything we we have
+They make up everything we we have
+They make up everything we we have
+basically. And they're made up of of
+basically. And they're made up of of
+basically. And they're made up of of
+what's called a sequence of amino acids.
+what's called a sequence of amino acids.
+what's called a sequence of amino acids.
+Each amino acid is a molecule. Mhm.
+Each amino acid is a molecule. Mhm.
+Each amino acid is a molecule. Mhm.
+There's about 20 different amino acids
+There's about 20 different amino acids
+There's about 20 different amino acids
+and you put them together in a long or
+and you put them together in a long or
+and you put them together in a long or
+just in life. In in in life, you can
+just in life. In in in life, you can
+just in life. In in in life, you can
+have non-natural amino acids as well
+have non-natural amino acids as well
+have non-natural amino acids as well
+that you that you can make as well. You
+that you that you can make as well. You
+that you that you can make as well. You
+can make them. You can make them and
+can make them. You can make them and
+can make them. You can make them and
+actually use those for drugs. Sometimes
+actually use those for drugs. Sometimes
+actually use those for drugs. Sometimes
+you string these amino acids together
+you string these amino acids together
+you string these amino acids together
+and that becomes a protein, but they
+and that becomes a protein, but they
+and that becomes a protein, but they
+don't exist as these strings. They fold
+don't exist as these strings. They fold
+don't exist as these strings. They fold
+up spontaneously in the cell, right, to
+up spontaneously in the cell, right, to
+up spontaneously in the cell, right, to
+create these 3D shapes. And why that's
+create these 3D shapes. And why that's
+create these 3D shapes. And why that's
+important is that these proteins,
+important is that these proteins,
+important is that these proteins,
+they're basically molecular machines.
+they're basically molecular machines.
+they're basically molecular machines.
+They don't just exist by themselves.
+They don't just exist by themselves.
+They don't just exist by themselves.
+They actually like create these little
+They actually like create these little
+They actually like create these little
+pieces of machinery. They they interact
+pieces of machinery. They they interact
+pieces of machinery. They they interact
+with other proteins. They interact with
+with other proteins. They interact with
+with other proteins. They interact with
+other biomolelecules like DNA and RNA.
+other biomolelecules like DNA and RNA.
+other biomolelecules like DNA and RNA.
+Right. Um and that interaction is a
+Right. Um and that interaction is a
+Right. Um and that interaction is a
+shape fitting. Exactly. Exactly. So
+shape fitting. Exactly. Exactly. So
+shape fitting. Exactly. Exactly. So
+these proteact
+3D jigsaw puzzle and it's not static.
+3D jigsaw puzzle and it's not static.
+This is way harder than a 2D jigsaw
+This is way harder than a 2D jigsaw
+This is way harder than a 2D jigsaw
+puzzle. And these are not static things.
+puzzle. And these are not static things.
+puzzle. And these are not static things.
+It's not just static puzzle pieces
+It's not just static puzzle pieces
+It's not just static puzzle pieces
+coming together. They change shape. So
+coming together. They change shape. So
+coming together. They change shape. So
+something comes in contact and that
+something comes in contact and that
+something comes in contact and that
+opens up something else on the other
+opens up something else on the other
+opens up something else on the other
+side of the protein which changes the
+side of the protein which changes the
+side of the protein which changes the
+machine and and on and on it goes. And
+machine and and on and on it goes. And
+machine and and on and on it goes. And
+that's what I was going to ask you. What
+that's what I was going to ask you. What
+that's what I was going to ask you. What
+speeds is this folding taking place? Is
+speeds is this folding taking place? Is
+speeds is this folding taking place? Is
+it continuous? Once it folds, that's it.
+it continuous? Once it folds, that's it.
+it continuous? Once it folds, that's it.
+But you've just told me, no, it just
+But you've just told me, no, it just
+But you've just told me, no, it just
+keeps moving through the whole thing.
+keeps moving through the whole thing.
+keeps moving through the whole thing.
+Yeah, these these these are really
+Yeah, these these these are really
+Yeah, these these these are really
+really complex dynamical systems, you
+really complex dynamical systems, you
+really complex dynamical systems, you
+know, composed of, you know, thousands,
+know, composed of, you know, thousands,
+know, composed of, you know, thousands,
+millions, trillions of atoms within our
+millions, trillions of atoms within our
+millions, trillions of atoms within our
+cells unfolding over the course of, you
+cells unfolding over the course of, you
+cells unfolding over the course of, you
+know, micros secondsonds and and and
+know, micros secondsonds and and and
+know, micros secondsonds and and and
+beyond. And this dynism that you're
+beyond. And this dynism that you're
+beyond. And this dynism that you're
+talking about, what word is that?
+talking about, what word is that?
+talking about, what word is that?
+Dinism. That's a word. Isn't that a
+Dinism. That's a word. Isn't that a
+Dinism. That's a word. Isn't that a
+word? Dinism. I think I just made it up.
+word? Dinism. I think I just made it up.
+word? Dinism. I think I just made it up.
+Oh, dynism. No, dynamism. Dynamism.
+Oh, dynism. No, dynamism. Dynamism.
+Oh, dynism. No, dynamism. Dynamism.
+Thank you. I'm correcting grammar. This
+Thank you. I'm correcting grammar. This
+Thank you. I'm correcting grammar. This
+is a first. This is
+is a first. This is
+is a first. This is
+dynamism. Dynamism. Kind of dinosaur.
+dynamism. Dynamism. Kind of dinosaur.
+dynamism. Dynamism. Kind of dinosaur.
+Dynamism. Dinosaur. Dinosaurs. Dinosaur.
+Dynamism. Dinosaur. Dinosaurs. Dinosaur.
+Dynamism. Dinosaur. Dinosaurs. Dinosaur.
+Not dinosaur. But the dynamism that
+Not dinosaur. But the dynamism that
+Not dinosaur. But the dynamism that
+you're talking about within the cell
+you're talking about within the cell
+you're talking about within the cell
+when you look at each one of us since
+when you look at each one of us since
+when you look at each one of us since
+each one of us is so different even
+each one of us is so different even
+each one of us is so different even
+though there's a general like execution
+though there's a general like execution
+though there's a general like execution
+and blueprint we all come out so
+and blueprint we all come out so
+and blueprint we all come out so
+different. Is that part of the process
+different. Is that part of the process
+different. Is that part of the process
+that you are looking at and mapping? I I
+that you are looking at and mapping? I I
+that you are looking at and mapping? I I
+would say to a jellyfish we all look
+would say to a jellyfish we all look
+would say to a jellyfish we all look
+identical. True. Okay. They're not
+identical. True. Okay. They're not
+identical. True. Okay. They're not
+saying oh is your skin color slightly
+saying oh is your skin color slightly
+saying oh is your skin color slightly
+different or you slightly taller. Yes.
+different or you slightly taller. Yes.
+different or you slightly taller. Yes.
+You're describing functions at a
+You're describing functions at a
+You're describing functions at a
+cellular level. Is your job to
+cellular level. Is your job to
+cellular level. Is your job to
+understand that or is your job to figure
+understand that or is your job to figure
+understand that or is your job to figure
+out extra ways to fold proteins that
+out extra ways to fold proteins that
+out extra ways to fold proteins that
+maybe biology has yet to even figure out
+maybe biology has yet to even figure out
+maybe biology has yet to even figure out
+that can then solve problems that we
+that can then solve problems that we
+that can then solve problems that we
+encounter that the natural universe has
+encounter that the natural universe has
+encounter that the natural universe has
+not. So, oh that was a good question.
+not. So, oh that was a good question.
+not. So, oh that was a good question.
+So, you're happy with yourself today? So
+So, you're happy with yourself today? So
+So, you're happy with yourself today? So
+happy with yourself. So happy with
+happy with yourself. So happy with
+happy with yourself. So happy with
+myself today. Yeah. This is really
+myself today. Yeah. This is really
+myself today. Yeah. This is really
+interesting. We we have these little
+interesting. We we have these little
+interesting. We we have these little
+molecular machines, these proteins and
+molecular machines, these proteins and
+molecular machines, these proteins and
+we care about that 3D structure and how
+we care about that 3D structure and how
+we care about that 3D structure and how
+they work for two reasons. One, we want
+they work for two reasons. One, we want
+they work for two reasons. One, we want
+to understand, you know, how our cells
+to understand, you know, how our cells
+to understand, you know, how our cells
+work because if something goes wrong
+work because if something goes wrong
+work because if something goes wrong
+with that, which is the case for
+with that, which is the case for
+with that, which is the case for
+disease, then we want to understand,
+disease, then we want to understand,
+disease, then we want to understand,
+okay, where can we or where do we
+okay, where can we or where do we
+okay, where can we or where do we
+actually need to go in and start fixing
+actually need to go in and start fixing
+actually need to go in and start fixing
+that, right? And how we can stop it from
+that, right? And how we can stop it from
+that, right? And how we can stop it from
+actually going wrong in the first place.
+actually going wrong in the first place.
+actually going wrong in the first place.
+Exactly. Exactly. So, that that's one
+Exactly. Exactly. So, that that's one
+Exactly. Exactly. So, that that's one
+thing. And then when we think about,
+thing. And then when we think about,
+thing. And then when we think about,
+okay, how can we go and fix that? What
+okay, how can we go and fix that? What
+okay, how can we go and fix that? What
+we're actually saying when we're doing
+we're actually saying when we're doing
+we're actually saying when we're doing
+drug design, we're saying can we create
+drug design, we're saying can we create
+drug design, we're saying can we create
+another molecule that will come into the
+another molecule that will come into the
+another molecule that will come into the
+cell and actually start modulating these
+cell and actually start modulating these
+cell and actually start modulating these
+molecular machines, it's going this this
+molecular machines, it's going this this
+molecular machines, it's going this this
+drug molecule is going to actually
+drug molecule is going to actually
+drug molecule is going to actually
+attach to this protein over here and
+attach to this protein over here and
+attach to this protein over here and
+that's going to cause this protein to
+that's going to cause this protein to
+that's going to cause this protein to
+change shape for example and so it won't
+change shape for example and so it won't
+change shape for example and so it won't
+operate how it normally does or and so
+operate how it normally does or and so
+operate how it normally does or and so
+we stop that protein working or we make
+we stop that protein working or we make
+we stop that protein working or we make
+it work better. These are the sort of
+it work better. These are the sort of
+it work better. These are the sort of
+things we do in kind of reminds me of
+things we do in kind of reminds me of
+things we do in kind of reminds me of
+messenger RNA
+messenger RNA
+messenger RNA
+vaccines that we develop for co Yeah.
+vaccines that we develop for co Yeah.
+vaccines that we develop for co Yeah.
+You know, there's so many different
+You know, there's so many different
+You know, there's so many different
+types of molecular mechanisms that we
+types of molecular mechanisms that we
+types of molecular mechanisms that we
+take advantage for for drug design. Wow.
+take advantage for for drug design. Wow.
+take advantage for for drug design. Wow.
+Are the folding proteins generally
+Are the folding proteins generally
+Are the folding proteins generally
+following a set pattern in the way that
+following a set pattern in the way that
+following a set pattern in the way that
+they do fold and you're able to map them
+they do fold and you're able to map them
+they do fold and you're able to map them
+and when they misfold, that's when
+and when they misfold, that's when
+and when they misfold, that's when
+you're able to flag that up. Or have I
+you're able to flag that up. Or have I
+you're able to flag that up. Or have I
+just reinvented something or talked
+just reinvented something or talked
+just reinvented something or talked
+rubbish? That would be cool. No, no,
+rubbish? That would be cool. No, no,
+rubbish? That would be cool. No, no,
+you're you're you're on to something.
+you're you're you're on to something.
+you're you're you're on to something.
+So, so great. So you know like the I
+So, so great. So you know like the I
+So, so great. So you know like the I
+mean the amazing thing is that we can
+mean the amazing thing is that we can
+mean the amazing thing is that we can
+actually turns out predict how these
+actually turns out predict how these
+actually turns out predict how these
+proteins fold. So they are so modeling
+proteins fold. So they are so modeling
+proteins fold. So they are so modeling
+that yeah we're modeling that with deep
+that yeah we're modeling that with deep
+that yeah we're modeling that with deep
+learning with neural networks. That's
+learning with neural networks. That's
+learning with neural networks. That's
+what alphafold you know and all its
+what alphafold you know and all its
+what alphafold you know and all its
+generations are all about. And um that
+generations are all about. And um that
+generations are all about. And um that
+means that we can actually just take in
+means that we can actually just take in
+means that we can actually just take in
+a sequence of amino acids knowing
+a sequence of amino acids knowing
+a sequence of amino acids knowing
+nothing about this protein before and
+nothing about this protein before and
+nothing about this protein before and
+then get out the 3D structure. And
+then get out the 3D structure. And
+then get out the 3D structure. And
+normally this would take people months
+normally this would take people months
+normally this would take people months
+if not years to work out this 3D
+if not years to work out this 3D
+if not years to work out this 3D
+structure. So, how is it that AlphaFold
+structure. So, how is it that AlphaFold
+structure. So, how is it that AlphaFold
+knows how a large molecule wants to
+knows how a large molecule wants to
+knows how a large molecule wants to
+fold? Again, it's got to know that in
+fold? Again, it's got to know that in
+fold? Again, it's got to know that in
+some way. It it's it's learned this from
+some way. It it's it's learned this from
+some way. It it's it's learned this from
+a few hundred,000 examples. So,
+a few hundred,000 examples. So,
+a few hundred,000 examples. So,
+chemists, biochemists over the last 50
+chemists, biochemists over the last 50
+chemists, biochemists over the last 50
+years, they've been working out these
+years, they've been working out these
+years, they've been working out these
+protein structures by hand. They've been
+protein structures by hand. They've been
+protein structures by hand. They've been
+literally synthesizing protein,
+literally synthesizing protein,
+literally synthesizing protein,
+crystallizing it, then shooting X-rays
+crystallizing it, then shooting X-rays
+crystallizing it, then shooting X-rays
+at this to like look at the electron
+at this to like look at the electron
+at this to like look at the electron
+scattering and from that you can resolve
+scattering and from that you can resolve
+scattering and from that you can resolve
+the protein structure. It's it's a
+the protein structure. It's it's a
+the protein structure. It's it's a
+pretty hard process, but people have
+pretty hard process, but people have
+pretty hard process, but people have
+been doing that. That's your way to
+been doing that. That's your way to
+been doing that. That's your way to
+photograph what the shape of the
+photograph what the shape of the
+photograph what the shape of the
+molecule. That's a way to photograph in
+molecule. That's a way to photograph in
+molecule. That's a way to photograph in
+reality with the with that kind of it's
+reality with the with that kind of it's
+reality with the with that kind of it's
+basically an electron microscope at that
+basically an electron microscope at that
+basically an electron microscope at that
+level. Yeah. Similar. It's like electron
+level. Yeah. Similar. It's like electron
+level. Yeah. Similar. It's like electron
+scattering. Yeah. Exactly. And so people
+scattering. Yeah. Exactly. And so people
+scattering. Yeah. Exactly. And so people
+have been doing that for the last 50
+have been doing that for the last 50
+have been doing that for the last 50
+years and depositing these structures.
+years and depositing these structures.
+years and depositing these structures.
+And now we've taken all of that data and
+And now we've taken all of that data and
+And now we've taken all of that data and
+trained a neural network to go just from
+trained a neural network to go just from
+trained a neural network to go just from
+the input of what is this molecule
+the input of what is this molecule
+the input of what is this molecule
+description to try and predict all of
+description to try and predict all of
+description to try and predict all of
+that data. Right? And the amazing thing
+that data. Right? And the amazing thing
+that data. Right? And the amazing thing
+is and this this is really remarkable is
+is and this this is really remarkable is
+is and this this is really remarkable is
+that you can then train this on the last
+that you can then train this on the last
+that you can then train this on the last
+50 years of data. That's a couple of
+50 years of data. That's a couple of
+50 years of data. That's a couple of
+hundred thousand protein and
+hundred thousand protein and
+hundred thousand protein and
+biomolelecular systems. But you can
+biomolelecular systems. But you can
+biomolelecular systems. But you can
+apply it seemingly to everything we know
+apply it seemingly to everything we know
+apply it seemingly to everything we know
+about in the protein universe in the
+about in the protein universe in the
+about in the protein universe in the
+proteome. It has proteeration
+with its predictions because AI's been
+with its predictions because AI's been
+around a little while as you've already
+around a little while as you've already
+around a little while as you've already
+said and you're not the only AI tool
+said and you're not the only AI tool
+said and you're not the only AI tool
+that's out there but how accurate is
+that's out there but how accurate is
+that's out there but how accurate is
+this particular tool? Yes. So, so
+this particular tool? Yes. So, so
+this particular tool? Yes. So, so
+Alphold 2, right, was that big jump
+Alphold 2, right, was that big jump
+Alphold 2, right, was that big jump
+where we started to get experimental
+where we started to get experimental
+where we started to get experimental
+level accuracy for just proteins and
+level accuracy for just proteins and
+level accuracy for just proteins and
+that's what won the Nobel Prize. So, you
+that's what won the Nobel Prize. So, you
+that's what won the Nobel Prize. So, you
+balance it off against empirical
+balance it off against empirical
+balance it off against empirical
+experiment. The benchmark is doing the
+experiment. The benchmark is doing the
+experiment. The benchmark is doing the
+real lab work itself, right? So, Alpha 2
+real lab work itself, right? So, Alpha 2
+real lab work itself, right? So, Alpha 2
+reached that level. Now, AlphaFold 3
+reached that level. Now, AlphaFold 3
+reached that level. Now, AlphaFold 3
+expands from just just proteins to
+expands from just just proteins to
+expands from just just proteins to
+incorporate other biomolelecular types.
+incorporate other biomolelecular types.
+incorporate other biomolelecular types.
+So proteins with other proteins,
+So proteins with other proteins,
+So proteins with other proteins,
+proteins with DNA, with RNA, with what's
+proteins with DNA, with RNA, with what's
+proteins with DNA, with RNA, with what's
+called small molecules, which are the
+called small molecules, which are the
+called small molecules, which are the
+neighborhood, they start mixing all that
+neighborhood, they start mixing all that
+neighborhood, they start mixing all that
+up. Or maybe not the neighborhood. Maybe
+up. Or maybe not the neighborhood. Maybe
+up. Or maybe not the neighborhood. Maybe
+that neighborhood gets a little bit of
+that neighborhood gets a little bit of
+that neighborhood gets a little bit of
+an upgrade.
+an upgrade.
+an upgrade.
+No, that's that's when you make the
+No, that's that's when you make the
+No, that's that's when you make the
+superhuman so
+superhuman so
+superhuman so
+it's not going to be the Terminator.
+it's not going to be the Terminator.
+it's not going to be the Terminator.
+It's going to be the superhuman. And
+It's going to be the superhuman. And
+It's going to be the superhuman. And
+then they're going to be like us and
+then they're going to be like us and
+then they're going to be like us and
+they're going to look down on us and go,
+they're going to look down on us and go,
+they're going to look down on us and go,
+you know, why do we need you guys? And
+you know, why do we need you guys? And
+you know, why do we need you guys? And
+that's it. So anyway, you're able to
+that's it. So anyway, you're able to
+that's it. So anyway, you're able to
+predict these and has have you actually
+predict these and has have you actually
+predict these and has have you actually
+taken any of the modeled predictions and
+taken any of the modeled predictions and
+taken any of the modeled predictions and
+made the proteins? Yeah. Oh yeah. Or or
+made the proteins? Yeah. Oh yeah. Or or
+made the proteins? Yeah. Oh yeah. Or or
+tell us where you expect these to lead
+tell us where you expect these to lead
+tell us where you expect these to lead
+to new and innovative drugs cuz
+to new and innovative drugs cuz
+to new and innovative drugs cuz
+otherwise it's just a it's just a puzzle
+otherwise it's just a it's just a puzzle
+otherwise it's just a it's just a puzzle
+exercise. Yeah. It's a great Lego set.
+exercise. Yeah. It's a great Lego set.
+exercise. Yeah. It's a great Lego set.
+Lego set.
+Lego set.
+Lego set.
+We want the guests to enjoy this. Yeah.
+We want the guests to enjoy this. Yeah.
+We want the guests to enjoy this. Yeah.
+It's like, "Oh my god, how much that
+It's like, "Oh my god, how much that
+It's like, "Oh my god, how much that
+Lego set cost?" Only $10 billion.
+Lego set cost?" Only $10 billion.
+Lego set cost?" Only $10 billion.
+[Laughter]
+[Laughter]
+[Laughter]
+Sorry. Go ahead. Yeah. Yeah. So, so, so
+Sorry. Go ahead. Yeah. Yeah. So, so, so
+Sorry. Go ahead. Yeah. Yeah. So, so, so
+if you take a particular disease and we
+if you take a particular disease and we
+if you take a particular disease and we
+we, you know, we we we think that we can
+we, you know, we we we think that we can
+we, you know, we we we think that we can
+actually, you know, solve this disease
+actually, you know, solve this disease
+actually, you know, solve this disease
+by modulating a particular protein. Mhm.
+by modulating a particular protein. Mhm.
+by modulating a particular protein. Mhm.
+The question is how we do that. So, we
+The question is how we do that. So, we
+The question is how we do that. So, we
+design a drug molecule and we want it to
+design a drug molecule and we want it to
+design a drug molecule and we want it to
+fit to this protein in a certain way.
+fit to this protein in a certain way.
+fit to this protein in a certain way.
+Oh. And so this is where traditionally
+Oh. And so this is where traditionally
+Oh. And so this is where traditionally
+you would have to actually either just
+you would have to actually either just
+you would have to actually either just
+guess or go into
+guess or go into
+guess or go into
+crystallize each one of those
+crystallize each one of those
+crystallize each one of those
+combinations and then photograph them
+combinations and then photograph them
+combinations and then photograph them
+and see if it worked. But now you can
+and see if it worked. But now you can
+and see if it worked. But now you can
+model it and the AI can do a thousand of
+model it and the AI can do a thousand of
+model it and the AI can do a thousand of
+those in like a minute. Isn't this what
+those in like a minute. Isn't this what
+those in like a minute. Isn't this what
+you call the target target proteins?
+you call the target target proteins?
+you call the target target proteins?
+Yes. Wow. So if you know you've got a
+Yes. Wow. So if you know you've got a
+Yes. Wow. So if you know you've got a
+certain target protein, do you not then
+certain target protein, do you not then
+certain target protein, do you not then
+run that against a list of drugs and
+run that against a list of drugs and
+run that against a list of drugs and
+think this one drug A works better with
+think this one drug A works better with
+think this one drug A works better with
+this or maybe it's drug D or whichever
+this or maybe it's drug D or whichever
+this or maybe it's drug D or whichever
+letter of the alphabet you're on and now
+letter of the alphabet you're on and now
+letter of the alphabet you're on and now
+we become the sort of detective and has
+we become the sort of detective and has
+we become the sort of detective and has
+this Alpha Fold 3 produced how many
+this Alpha Fold 3 produced how many
+this Alpha Fold 3 produced how many
+clues and how many answers or are we
+clues and how many answers or are we
+clues and how many answers or are we
+still grappling? Yeah. Instead of trying
+still grappling? Yeah. Instead of trying
+still grappling? Yeah. Instead of trying
+to figure out the drug, the AI actually
+to figure out the drug, the AI actually
+to figure out the drug, the AI actually
+figures out the drug for you. Drug
+figures out the drug for you. Drug
+figures out the drug for you. Drug
+discovery. Well, exactly. You know, if
+discovery. Well, exactly. You know, if
+discovery. Well, exactly. You know, if
+you let the guy speak, we might hear the
+you let the guy speak, we might hear the
+you let the guy speak, we might hear the
+the two of you. Okay. We're figuring out
+the two of you. Okay. We're figuring out
+the two of you. Okay. We're figuring out
+this whole industry ourselves, Gary.
+this whole industry ourselves, Gary.
+this whole industry ourselves, Gary.
+Yes. Yeah. You know, this is exactly
+Yes. Yeah. You know, this is exactly
+Yes. Yeah. You know, this is exactly
+what where it's going. So, right, we can
+what where it's going. So, right, we can
+what where it's going. So, right, we can
+start actually rationally designing
+start actually rationally designing
+start actually rationally designing
+these drugs, right? Traditionally, you
+these drugs, right? Traditionally, you
+these drugs, right? Traditionally, you
+would take, you know, a million random
+would take, you know, a million random
+would take, you know, a million random
+molecules and you would just throw them
+molecules and you would just throw them
+molecules and you would just throw them
+at these proteins and see what sticks.
+at these proteins and see what sticks.
+at these proteins and see what sticks.
+And and and that's how so many drugs
+And and and that's how so many drugs
+And and and that's how so many drugs
+have been created historically. Yeah.
+have been created historically. Yeah.
+have been created historically. Yeah.
+you you go back further and you're
+you you go back further and you're
+you you go back further and you're
+sifting through mud to find these sort
+sifting through mud to find these sort
+sifting through mud to find these sort
+of molecules. This is why there's been
+of molecules. This is why there's been
+of molecules. This is why there's been
+such a a low percentage of success rates
+such a a low percentage of success rates
+such a a low percentage of success rates
+with the sort of drugs for whatever the
+with the sort of drugs for whatever the
+with the sort of drugs for whatever the
+problem is. That's part of it because,
+problem is. That's part of it because,
+problem is. That's part of it because,
+you know, we we we we don't necessarily
+you know, we we we we don't necessarily
+you know, we we we we don't necessarily
+understand how these molecules are
+understand how these molecules are
+understand how these molecules are
+working. M but with something like
+working. M but with something like
+working. M but with something like
+Alphaold 3 you can you know put the
+Alphaold 3 you can you know put the
+Alphaold 3 you can you know put the
+molecule put the target protein into the
+molecule put the target protein into the
+molecule put the target protein into the
+system into the into the neural network
+system into the into the neural network
+system into the into the neural network
+and you get out the 3D structure and as
+and you get out the 3D structure and as
+and you get out the 3D structure and as
+a chemist you can start to understand
+a chemist you can start to understand
+a chemist you can start to understand
+okay how is it this small molecule drug
+okay how is it this small molecule drug
+okay how is it this small molecule drug
+modulating this protein now still the
+modulating this protein now still the
+modulating this protein now still the
+problem is well how do you find that
+problem is well how do you find that
+problem is well how do you find that
+small molecule in the first place that's
+small molecule in the first place that's
+small molecule in the first place that's
+going to be good for this protein you
+going to be good for this protein you
+going to be good for this protein you
+know it's estimated there's like 10 to
+know it's estimated there's like 10 to
+know it's estimated there's like 10 to
+the^ of 60 possible drug-like molecules
+the^ of 60 possible drug-like molecules
+the^ of 60 possible drug-like molecules
+out there that's you know 10 with 60
+out there that's you know 10 with 60
+out there that's you know 10 with 60
+zeros is so even people know what 10 to
+zeros is so even people know what 10 to
+zeros is so even people know what 10 to
+the 16 yeah
+the 16 yeah
+the 16 yeah
+so don't be rude
+so don't be rude
+so don't be rude
+even if you had the perfect alpha fold
+even if you had the perfect alpha fold
+even if you had the perfect alpha fold
+you'd have to run that across 10 ^ the^
+you'd have to run that across 10 ^ the^
+you'd have to run that across 10 ^ the^
+60 molecules which is just
+60 molecules which is just
+60 molecules which is just
+computationally impossible it's
+computationally impossible it's
+computationally impossible it's
+unfeasible right until quantum computing
+unfeasible right until quantum computing
+unfeasible right until quantum computing
+until
+until
+until
+and so then what we need is is something
+and so then what we need is is something
+and so then what we need is is something
+that we call a generative model or an
+that we call a generative model or an
+that we call a generative model or an
+agent which is able to actually search
+agent which is able to actually search
+agent which is able to actually search
+through that space understand that
+through that space understand that
+through that space understand that
+entire entire molecular space and come
+entire entire molecular space and come
+entire entire molecular space and come
+up with molecule designs for you. Oh,
+up with molecule designs for you. Oh,
+up with molecule designs for you. Oh,
+cuz the 10 to the 60 is if you just did
+cuz the 10 to the 60 is if you just did
+cuz the 10 to the 60 is if you just did
+it randomly. Exactly. Right. Right. But
+it randomly. Exactly. Right. Right. But
+it randomly. Exactly. Right. Right. But
+just throwing it out anyway. Right.
+just throwing it out anyway. Right.
+just throwing it out anyway. Right.
+Right. If you don't do it randomly, then
+Right. If you don't do it randomly, then
+Right. If you don't do it randomly, then
+you can Yeah. But but but randomly is
+you can Yeah. But but but randomly is
+you can Yeah. But but but randomly is
+the state-of-the-art method, right? That
+the state-of-the-art method, right? That
+the state-of-the-art method, right? That
+That's how people do it. It's how people
+That's how people do it. It's how people
+That's how people do it. It's how people
+currently do it. That's how people
+currently do it. That's how people
+currently do it. That's how people
+currently do it. Well, he call it
+currently do it. Well, he call it
+currently do it. Well, he call it
+state-of-the-art. You're the state of
+state-of-the-art. You're the state of
+state-of-the-art. You're the state of
+the art. Well, thank you. Let's let's
+the art. Well, thank you. Let's let's
+the art. Well, thank you. Let's let's
+use the word properly here. So what if
+use the word properly here. So what if
+use the word properly here. So what if
+what if the protein turns left when
+what if the protein turns left when
+what if the protein turns left when
+you've predict when you've mapped it to
+you've predict when you've mapped it to
+you've predict when you've mapped it to
+turn right. Is that when we have issues
+turn right. Is that when we have issues
+turn right. Is that when we have issues
+that even Alpha Fold 3 has a problem
+that even Alpha Fold 3 has a problem
+that even Alpha Fold 3 has a problem
+with? Exactly. These are uh not perfect
+with? Exactly. These are uh not perfect
+with? Exactly. These are uh not perfect
+models at the end of the day. They're
+models at the end of the day. They're
+models at the end of the day. They're
+very very accurate, but they will make
+very very accurate, but they will make
+very very accurate, but they will make
+some mistakes. So you still do currently
+some mistakes. So you still do currently
+some mistakes. So you still do currently
+need to go into the lab occasionally,
+need to go into the lab occasionally,
+need to go into the lab occasionally,
+but the amount of lab work you have to
+but the amount of lab work you have to
+but the amount of lab work you have to
+do is so much less, right, than and and
+do is so much less, right, than and and
+do is so much less, right, than and and
+you and often you can find the area of
+you and often you can find the area of
+you and often you can find the area of
+molecular space where these these models
+molecular space where these these models
+molecular space where these these models
+work, you know, really really well. And
+work, you know, really really well. And
+work, you know, really really well. And
+we then go out to the lab later down the
+we then go out to the lab later down the
+we then go out to the lab later down the
+line, we crystallize these things and we
+line, we crystallize these things and we
+line, we crystallize these things and we
+see, yeah, like this is a perfect
+see, yeah, like this is a perfect
+see, yeah, like this is a perfect
+mapping of what the model predicted.
+mapping of what the model predicted.
+mapping of what the model predicted.
+All right. So, back to an earlier point.
+All right. So, back to an earlier point.
+All right. So, back to an earlier point.
+Yeah. In the old days, like last month,
+Yeah. In the old days, like last month,
+Yeah. In the old days, like last month,
+you the the pharmaceutical companies,
+you the the pharmaceutical companies,
+you the the pharmaceutical companies,
+big pharma, would spend millions, maybe
+big pharma, would spend millions, maybe
+big pharma, would spend millions, maybe
+not quite a billion, hundreds of
+not quite a billion, hundreds of
+not quite a billion, hundreds of
+millions of dollars developing a drug.
+millions of dollars developing a drug.
+millions of dollars developing a drug.
+We think that, holding aside what might
+We think that, holding aside what might
+We think that, holding aside what might
+be abuses of pricing, the fact that it
+be abuses of pricing, the fact that it
+be abuses of pricing, the fact that it
+there's some truth to this first pill
+there's some truth to this first pill
+there's some truth to this first pill
+Mhm. cost $50 million. The second pill
+Mhm. cost $50 million. The second pill
+Mhm. cost $50 million. The second pill
+cost 10 cents because they had to
+cost 10 cents because they had to
+cost 10 cents because they had to
+research to get the formula for that
+research to get the formula for that
+research to get the formula for that
+first pill. If you have narrow the
+first pill. If you have narrow the
+first pill. If you have narrow the
+search space, then the cost of
+search space, then the cost of
+search space, then the cost of
+developing that first pill can be
+developing that first pill can be
+developing that first pill can be
+manifold smaller. I mean, it costs on
+manifold smaller. I mean, it costs on
+manifold smaller. I mean, it costs on
+average $3 billion to create a new drug.
+average $3 billion to create a new drug.
+average $3 billion to create a new drug.
+Wow. That's that's that's that's on
+Wow. That's that's that's that's on
+Wow. That's that's that's that's on
+average. Yeah. And so yeah, there's a
+average. Yeah. And so yeah, there's a
+average. Yeah. And so yeah, there's a
+that was low when I said hundred
+that was low when I said hundred
+that was low when I said hundred
+billion. You were lowballing was
+billion. You were lowballing was
+billion. You were lowballing was
+lowballing it. Okay. Um, so this is a
+lowballing it. Okay. Um, so this is a
+lowballing it. Okay. Um, so this is a
+massive opportunity to like completely
+massive opportunity to like completely
+massive opportunity to like completely
+change just like the cost, the speed,
+change just like the cost, the speed,
+change just like the cost, the speed,
+the business model, the efficacy and the
+the business model, the efficacy and the
+the business model, the efficacy and the
+business model as we do that. Is it
+business model as we do that. Is it
+business model as we do that. Is it
+proprietary? So here's my real cuz
+proprietary? So here's my real cuz
+proprietary? So here's my real cuz
+here's where you would revolutionize. So
+here's where you would revolutionize. So
+here's where you would revolutionize. So
+if I come up with it and I'm I'm company
+if I come up with it and I'm I'm company
+if I come up with it and I'm I'm company
+A, right? It's mine and I get to
+A, right? It's mine and I get to
+A, right? It's mine and I get to
+determine everything. If you're an AI
+determine everything. If you're an AI
+determine everything. If you're an AI
+company and you're just doing this,
+company and you're just doing this,
+company and you're just doing this,
+okay, so that you can sell it, then it's
+okay, so that you can sell it, then it's
+okay, so that you can sell it, then it's
+yours. Which one will be will make
+yours. Which one will be will make
+yours. Which one will be will make
+prices lower for the consumer? Our goal
+prices lower for the consumer? Our goal
+prices lower for the consumer? Our goal
+is to is to like really redefine this
+is to is to like really redefine this
+is to is to like really redefine this
+way you do drug design so it becomes so
+way you do drug design so it becomes so
+way you do drug design so it becomes so
+much cheaper. We have so much more
+much cheaper. We have so much more
+much cheaper. We have so much more
+abundance of potential drugs and
+abundance of potential drugs and
+abundance of potential drugs and
+chemical matter that it really does
+chemical matter that it really does
+chemical matter that it really does
+change the business model and it changes
+change the business model and it changes
+change the business model and it changes
+the economics of the space. So you can
+the economics of the space. So you can
+the economics of the space. So you can
+actually revolutionize
+actually revolutionize
+actually revolutionize
+the the cost of making drugs. Yeah,
+the the cost of making drugs. Yeah,
+the the cost of making drugs. Yeah,
+that's that's where we're going. That's
+that's that's where we're going. That's
+that's that's where we're going. That's
+where we're going. All right. is one of
+where we're going. All right. is one of
+where we're going. All right. is one of
+satisfied is one of the next steps with
+satisfied is one of the next steps with
+satisfied is one of the next steps with
+alpha fold whichever it's three or maybe
+alpha fold whichever it's three or maybe
+alpha fold whichever it's three or maybe
+the next iteration or so going to
+the next iteration or so going to
+the next iteration or so going to
+investigate why and what drives the
+investigate why and what drives the
+investigate why and what drives the
+misfolding of a protein so as you can
+misfolding of a protein so as you can
+misfolding of a protein so as you can
+kind of get ahead of even the story of
+kind of get ahead of even the story of
+kind of get ahead of even the story of
+that happening. Wow. So so actually the
+that happening. Wow. So so actually the
+that happening. Wow. So so actually the
+misfolding of a protein is another thing
+misfolding of a protein is another thing
+misfolding of a protein is another thing
+that that's what causes some types of
+that that's what causes some types of
+that that's what causes some types of
+disease. Yeah. where you'll have a
+disease. Yeah. where you'll have a
+disease. Yeah. where you'll have a
+genetic mutation, a mutation in your DNA
+genetic mutation, a mutation in your DNA
+genetic mutation, a mutation in your DNA
+which will change a particular amino
+which will change a particular amino
+which will change a particular amino
+acid in that protein and so it doesn't
+acid in that protein and so it doesn't
+acid in that protein and so it doesn't
+fold the normal way it should fold and
+fold the normal way it should fold and
+fold the normal way it should fold and
+so it doesn't function as as it normally
+so it doesn't function as as it normally
+so it doesn't function as as it normally
+should as a molecular machine and so
+should as a molecular machine and so
+should as a molecular machine and so
+things like alphafold can help us
+things like alphafold can help us
+things like alphafold can help us
+understand what are those mutations that
+understand what are those mutations that
+understand what are those mutations that
+cause misfolding they're called
+cause misfolding they're called
+cause misfolding they're called
+misssense mutations right and then you
+misssense mutations right and then you
+misssense mutations right and then you
+know these could be potential drug
+know these could be potential drug
+know these could be potential drug
+targets so we could you know think about
+targets so we could you know think about
+targets so we could you know think about
+molecules that could you know mitigate
+molecules that could you know mitigate
+molecules that could you know mitigate
+against that if I understand correctly
+against that if I understand correctly
+against that if I understand correctly
+If you look at the the PDR, it is this
+If you look at the the PDR, it is this
+If you look at the the PDR, it is this
+thick. And what's PDR? The physician's
+thick. And what's PDR? The physician's
+thick. And what's PDR? The physician's
+desk reference. Thank you. Uh is this
+desk reference. Thank you. Uh is this
+desk reference. Thank you. Uh is this
+thick. So it's the size of an old style
+thick. So it's the size of an old style
+thick. So it's the size of an old style
+Manhattan phone book. Okay. It's very
+Manhattan phone book. Okay. It's very
+Manhattan phone book. Okay. It's very
+thick, multiple inches across. And it's
+thick, multiple inches across. And it's
+thick, multiple inches across. And it's
+chalk full of existing medicines
+chalk full of existing medicines
+chalk full of existing medicines
+available to the doctor to prescribe. Is
+available to the doctor to prescribe. Is
+available to the doctor to prescribe. Is
+it true that 100% of those medicines are
+it true that 100% of those medicines are
+it true that 100% of those medicines are
+interacting with the patient chemically
+interacting with the patient chemically
+interacting with the patient chemically
+rather than through protein folding?
+rather than through protein folding?
+rather than through protein folding?
+So that if that's the case, does that
+So that if that's the case, does that
+So that if that's the case, does that
+mean that where proteins misfold, we
+mean that where proteins misfold, we
+mean that where proteins misfold, we
+can't combat it with any kind of folding
+can't combat it with any kind of folding
+can't combat it with any kind of folding
+algorithm? We just prescribe
+algorithm? We just prescribe
+algorithm? We just prescribe
+chemistry for your body to handle the
+chemistry for your body to handle the
+chemistry for your body to handle the
+impact of that. Is that did I say any of
+impact of that. Is that did I say any of
+impact of that. Is that did I say any of
+that right? I think that that that is
+that right? I think that that that is
+that right? I think that that that is
+the majority of drugs. They are they are
+the majority of drugs. They are they are
+the majority of drugs. They are they are
+chemicals that we take. We are we you
+chemicals that we take. We are we you
+chemicals that we take. We are we you
+know chemical is not going to fix the
+know chemical is not going to fix the
+know chemical is not going to fix the
+fold. It's going to treat the symptoms
+fold. It's going to treat the symptoms
+fold. It's going to treat the symptoms
+of the of the misfolding that happen.
+of the of the misfolding that happen.
+of the of the misfolding that happen.
+We're not we're not changing the
+We're not we're not changing the
+We're not we're not changing the
+mutations of the proteins. That that
+mutations of the proteins. That that
+mutations of the proteins. That that
+could be something like gene therapy. Um
+could be something like gene therapy. Um
+could be something like gene therapy. Um
+but these are these are chemicals that
+but these are these are chemicals that
+but these are these are chemicals that
+come in and will attach themselves to
+come in and will attach themselves to
+come in and will attach themselves to
+these proteins and somehow mitigate the
+these proteins and somehow mitigate the
+these proteins and somehow mitigate the
+you know something like a misfold or
+you know something like a misfold or
+you know something like a misfold or
+it'll change an interface change how
+it'll change an interface change how
+it'll change an interface change how
+these molecular machines work.
+these molecular machines work.
+these molecular machines work.
+That's why is there a particular disease
+That's why is there a particular disease
+That's why is there a particular disease
+isomorphic labs are focusing upon right
+isomorphic labs are focusing upon right
+isomorphic labs are focusing upon right
+now or is this a more of a broad
+now or is this a more of a broad
+now or is this a more of a broad
+spectrum? Let's do let's let's go for
+spectrum? Let's do let's let's go for
+spectrum? Let's do let's let's go for
+proteins and cherry pick out certain
+proteins and cherry pick out certain
+proteins and cherry pick out certain
+things or we really looking at one
+things or we really looking at one
+things or we really looking at one
+particular the technology we're creating
+particular the technology we're creating
+particular the technology we're creating
+it's really really general. We want to
+it's really really general. We want to
+it's really really general. We want to
+be able to apply this drug design engine
+be able to apply this drug design engine
+be able to apply this drug design engine
+on any protein any target any disease
+on any protein any target any disease
+on any protein any target any disease
+area that comes our way. Now saying that
+area that comes our way. Now saying that
+area that comes our way. Now saying that
+you know practically as a company and
+you know practically as a company and
+you know practically as a company and
+and you want to focus on a particular
+and you want to focus on a particular
+and you want to focus on a particular
+area we're focusing at the moment on you
+area we're focusing at the moment on you
+area we're focusing at the moment on you
+know a lot on cancer course and a lot on
+know a lot on cancer course and a lot on
+know a lot on cancer course and a lot on
+immunology of course two biggies and the
+immunology of course two biggies and the
+immunology of course two biggies and the
+two that probably lend themselves best
+two that probably lend themselves best
+two that probably lend themselves best
+to what you're trying to accomplish
+to what you're trying to accomplish
+to what you're trying to accomplish
+actually. Okay. The question everyone's
+actually. Okay. The question everyone's
+actually. Okay. The question everyone's
+going to want me to ask right now that's
+going to want me to ask right now that's
+going to want me to ask right now that's
+watching this and listening to this is
+watching this and listening to this is
+watching this and listening to this is
+how you getting on?
+how you getting on?
+how you getting on?
+Would I mean it's going really well to
+Would I mean it's going really well to
+Would I mean it's going really well to
+be honest. um we're seeing these
+be honest. um we're seeing these
+be honest. um we're seeing these
+algorithms actually, you know, change
+algorithms actually, you know, change
+algorithms actually, you know, change
+the way that we're able to do drug
+the way that we're able to do drug
+the way that we're able to do drug
+design. We're able to discover, you
+design. We're able to discover, you
+design. We're able to discover, you
+know, completely novel chemical matter
+know, completely novel chemical matter
+know, completely novel chemical matter
+against some of these targets that, you
+against some of these targets that, you
+against some of these targets that, you
+know, people have been working on for,
+know, people have been working on for,
+know, people have been working on for,
+you know, even over a decade, right? So,
+you know, even over a decade, right? So,
+you know, even over a decade, right? So,
+really, really hard stuff. Making
+really, really hard stuff. Making
+really, really hard stuff. Making
+amazing progress. Still still really
+amazing progress. Still still really
+amazing progress. Still still really
+early in the company, but um it's super
+early in the company, but um it's super
+early in the company, but um it's super
+exciting. And have you sent anything to
+exciting. And have you sent anything to
+exciting. And have you sent anything to
+be photographed yet?
+be photographed yet?
+be photographed yet?
+We we we we sent some things for for
+We we we we sent some things for for
+We we we we sent some things for for
+molecular photographs. Yeah. Okay. Yeah.
+molecular photographs. Yeah. Okay. Yeah.
+molecular photographs. Yeah. Okay. Yeah.
+Yeah. I know you're not allowed to talk
+Yeah. I know you're not allowed to talk
+Yeah. I know you're not allowed to talk
+about it. I know. I get it. But we're
+about it. I know. I get it. But we're
+about it. I know. I get it. But we're
+all very happy. Okay. There you go.
+all very happy. Okay. There you go.
+all very happy. Okay. There you go.
+That's Listen, I'm I'm with you. I'm
+That's Listen, I'm I'm with you. I'm
+That's Listen, I'm I'm with you. I'm
+picking up what you're putting down.
+picking up what you're putting down.
+picking up what you're putting down.
+That's cool. Yeah. But so if you if you
+That's cool. Yeah. But so if you if you
+That's cool. Yeah. But so if you if you
+I see this work as fundamental research
+I see this work as fundamental research
+I see this work as fundamental research
+so that you publish a result, you
+so that you publish a result, you
+so that you publish a result, you
+publish the image as they published the
+publish the image as they published the
+publish the image as they published the
+image of the DNA molecule to know that
+image of the DNA molecule to know that
+image of the DNA molecule to know that
+it was a double helix. That becomes
+it was a double helix. That becomes
+it was a double helix. That becomes
+public knowledge at that point. So
+public knowledge at that point. So
+public knowledge at that point. So
+someone with tools access to AlphaFold
+someone with tools access to AlphaFold
+someone with tools access to AlphaFold
+3, would any company have access to this
+3, would any company have access to this
+3, would any company have access to this
+once you have published the blueprint
+once you have published the blueprint
+once you have published the blueprint
+for it? In in drug design, often these
+for it? In in drug design, often these
+for it? In in drug design, often these
+blueprints come out in the patents. So
+blueprints come out in the patents. So
+blueprints come out in the patents. So
+when you're when you're going to go into
+when you're when you're going to go into
+when you're when you're going to go into
+clinical trial, you need to patent these
+clinical trial, you need to patent these
+clinical trial, you need to patent these
+molecules and in those patents, you'll
+molecules and in those patents, you'll
+molecules and in those patents, you'll
+have a lot of data around the molecules,
+have a lot of data around the molecules,
+have a lot of data around the molecules,
+the formula, how they work. I was
+the formula, how they work. I was
+the formula, how they work. I was
+talking about earlier. Yeah. Yeah. Yeah.
+talking about earlier. Yeah. Yeah. Yeah.
+talking about earlier. Yeah. Yeah. Yeah.
+Okay. Yeah. All right. So the
+Okay. Yeah. All right. So the
+Okay. Yeah. All right. So the
+immune system, the the cancer Mhm. These
+immune system, the the cancer Mhm. These
+immune system, the the cancer Mhm. These
+are leading causes of malades in this
+are leading causes of malades in this
+are leading causes of malades in this
+world. What of the genetic disorders
+world. What of the genetic disorders
+world. What of the genetic disorders
+that affect one in 100,000 people? Wow.
+that affect one in 100,000 people? Wow.
+that affect one in 100,000 people? Wow.
+You you bring them together, there's
+You you bring them together, there's
+You you bring them together, there's
+enough of them, you know, they'll fill a
+enough of them, you know, they'll fill a
+enough of them, you know, they'll fill a
+stadium in the world, but that's so
+stadium in the world, but that's so
+stadium in the world, but that's so
+uncommon as to not really trigger
+uncommon as to not really trigger
+uncommon as to not really trigger
+anybody's interest. Yeah. It's also not
+anybody's interest. Yeah. It's also not
+anybody's interest. Yeah. It's also not
+profitable because you don't have you
+profitable because you don't have you
+profitable because you don't have you
+don't have enough of a market there to
+don't have enough of a market there to
+don't have enough of a market there to
+sell the drug. I mean, you know, it's
+sell the drug. I mean, you know, it's
+sell the drug. I mean, you know, it's
+exactly that that point, Chuck. It's um
+exactly that that point, Chuck. It's um
+exactly that that point, Chuck. It's um
+traditionally it might not be that
+traditionally it might not be that
+traditionally it might not be that
+attractive commercially to go after, you
+attractive commercially to go after, you
+attractive commercially to go after, you
+know, very small patient populations.
+know, very small patient populations.
+know, very small patient populations.
+But in a world where it's so much
+But in a world where it's so much
+But in a world where it's so much
+cheaper, so much easier to get to these
+cheaper, so much easier to get to these
+cheaper, so much easier to get to these
+drug molecules, then that opens up like
+drug molecules, then that opens up like
+drug molecules, then that opens up like
+all of this space. The cheaper it is,
+all of this space. The cheaper it is,
+all of this space. The cheaper it is,
+the the easier you can justify going
+the the easier you can justify going
+the the easier you can justify going
+down that risk. Down the risk list. And
+down that risk. Down the risk list. And
+down that risk. Down the risk list. And
+this is a big guiding star for us. Like
+this is a big guiding star for us. Like
+this is a big guiding star for us. Like
+that's this is why we're doing this.
+that's this is why we're doing this.
+that's this is why we're doing this.
+That's beautiful. I see what you did
+That's beautiful. I see what you did
+That's beautiful. I see what you did
+there. Guiding star. Yeah. You know, it
+there. Guiding star. Yeah. You know, it
+there. Guiding star. Yeah. You know, it
+would be great though. He's picked up in
+would be great though. He's picked up in
+would be great though. He's picked up in
+the environment. He's not sitting. How's
+the environment. He's not sitting. How's
+the environment. He's not sitting. How's
+chief AI officer? Yeah. I'm interested
+chief AI officer? Yeah. I'm interested
+chief AI officer? Yeah. I'm interested
+to how active the company is in shaping
+to how active the company is in shaping
+to how active the company is in shaping
+policy around what you're doing because
+policy around what you're doing because
+policy around what you're doing because
+there's going to be a great deal of
+there's going to be a great deal of
+there's going to be a great deal of
+legislative policy that is going to be
+legislative policy that is going to be
+legislative policy that is going to be
+tied to what you're doing. All the
+tied to what you're doing. All the
+tied to what you're doing. All the
+patent implications, there's going to
+patent implications, there's going to
+patent implications, there's going to
+be, you know, research implications.
+be, you know, research implications.
+be, you know, research implications.
+There going to be a lot of things tied
+There going to be a lot of things tied
+There going to be a lot of things tied
+to this. Yeah. Yeah. Yeah. I mean, we've
+to this. Yeah. Yeah. Yeah. I mean, we've
+to this. Yeah. Yeah. Yeah. I mean, we've
+been talking in this conversation about
+been talking in this conversation about
+been talking in this conversation about
+drug design, but then once you've
+drug design, but then once you've
+drug design, but then once you've
+designed the drug, you've got to go into
+designed the drug, you've got to go into
+designed the drug, you've got to go into
+patients in clinical trials and that's a
+patients in clinical trials and that's a
+patients in clinical trials and that's a
+really long process. Yeah. Which is why
+really long process. Yeah. Which is why
+really long process. Yeah. Which is why
+we have mice. But even these mice
+we have mice. But even these mice
+we have mice. But even these mice
+models, they're not actually very
+models, they're not actually very
+models, they're not actually very
+predictive. Like you do all these
+predictive. Like you do all these
+predictive. Like you do all these
+studies in mice and then they don't, you
+studies in mice and then they don't, you
+studies in mice and then they don't, you
+know, it doesn't translate into success
+know, it doesn't translate into success
+know, it doesn't translate into success
+in people, right? You got to go up the
+in people, right? You got to go up the
+in people, right? You got to go up the
+evolutionary scale and then get to the
+evolutionary scale and then get to the
+evolutionary scale and then get to the
+human bit. Yeah. Exactly. And so
+human bit. Yeah. Exactly. And so
+human bit. Yeah. Exactly. And so
+there's, you know, you can imagine a
+there's, you know, you can imagine a
+there's, you know, you can imagine a
+world where we can design loads of new
+world where we can design loads of new
+world where we can design loads of new
+drugs. we've got to be changing the way
+drugs. we've got to be changing the way
+drugs. we've got to be changing the way
+that we're doing clinical trials, you
+that we're doing clinical trials, you
+that we're doing clinical trials, you
+know, how we can actually get these
+know, how we can actually get these
+know, how we can actually get these
+drugs to patients who really really need
+drugs to patients who really really need
+drugs to patients who really really need
+them in a timely manner. Um, so I think
+them in a timely manner. Um, so I think
+them in a timely manner. Um, so I think
+there's a lot to be done and like
+there's a lot to be done and like
+there's a lot to be done and like
+rethought that rethought that is the
+rethought that rethought that is the
+rethought that rethought that is the
+ultimate goal for AlphaFold and I think
+ultimate goal for AlphaFold and I think
+ultimate goal for AlphaFold and I think
+medical science as a whole to be able to
+medical science as a whole to be able to
+medical science as a whole to be able to
+bespoke medication for you as the
+bespoke medication for you as the
+bespoke medication for you as the
+individual rather than the broader
+individual rather than the broader
+individual rather than the broader
+spectrum medication that we find
+spectrum medication that we find
+spectrum medication that we find
+ourselves with all the side effects. So,
+ourselves with all the side effects. So,
+ourselves with all the side effects. So,
+are you able to then design a drug or a
+are you able to then design a drug or a
+are you able to then design a drug or a
+medication that has zero side effects
+medication that has zero side effects
+medication that has zero side effects
+and works exactly for me? This is the
+and works exactly for me? This is the
+and works exactly for me? This is the
+goal, right? This is this is what we're
+goal, right? This is this is what we're
+goal, right? This is this is what we're
+shooting for. You know, imagine a world
+shooting for. You know, imagine a world
+shooting for. You know, imagine a world
+where we can sequence your particular
+where we can sequence your particular
+where we can sequence your particular
+cancer mutations, right? And then based
+cancer mutations, right? And then based
+cancer mutations, right? And then based
+on those your individual mutations be
+on those your individual mutations be
+on those your individual mutations be
+generating specific drugs for you,
+generating specific drugs for you,
+generating specific drugs for you,
+right? That even these are like, you
+right? That even these are like, you
+right? That even these are like, you
+know, 3D printed or something around the
+know, 3D printed or something around the
+know, 3D printed or something around the
+corner. Okay. Yeah. This is um we're not
+corner. Okay. Yeah. This is um we're not
+corner. Okay. Yeah. This is um we're not
+there yet, right? We're in the very nent
+there yet, right? We're in the very nent
+there yet, right? We're in the very nent
+stages of that right now with the
+stages of that right now with the
+stages of that right now with the
+imunotherapy for cancer treatments and
+imunotherapy for cancer treatments and
+imunotherapy for cancer treatments and
+but how many of these yet to be cured
+but how many of these yet to be cured
+but how many of these yet to be cured
+diseases lend themselves to solutions
+diseases lend themselves to solutions
+diseases lend themselves to solutions
+that involve protein folding and how
+that involve protein folding and how
+that involve protein folding and how
+many are just plain old oldfashioned
+many are just plain old oldfashioned
+many are just plain old oldfashioned
+chemistry. Proteins make up like pretty
+chemistry. Proteins make up like pretty
+chemistry. Proteins make up like pretty
+much all of our molecular machinery. So
+much all of our molecular machinery. So
+much all of our molecular machinery. So
+there's there's a class of disease which
+there's there's a class of disease which
+there's there's a class of disease which
+is due to misfolding but then there's
+is due to misfolding but then there's
+is due to misfolding but then there's
+many many other diseases which are due
+many many other diseases which are due
+many many other diseases which are due
+to for example a protein not being
+to for example a protein not being
+to for example a protein not being
+expressed properly or you know a cell
+expressed properly or you know a cell
+expressed properly or you know a cell
+going wrong in a certain tissue. If I
+going wrong in a certain tissue. If I
+going wrong in a certain tissue. If I
+have a bacterial infection I give myself
+have a bacterial infection I give myself
+have a bacterial infection I give myself
+antibacterial chemicals and then I'm
+antibacterial chemicals and then I'm
+antibacterial chemicals and then I'm
+done. Do I need you for that? But those
+done. Do I need you for that? But those
+done. Do I need you for that? But those
+chemicals are interacting with the
+chemicals are interacting with the
+chemicals are interacting with the
+proteins in the bacteria. Okay. So
+proteins in the bacteria. Okay. So
+proteins in the bacteria. Okay. So
+proteins are the fundamental machinery
+proteins are the fundamental machinery
+proteins are the fundamental machinery
+and the chemicals which are drugs are
+and the chemicals which are drugs are
+and the chemicals which are drugs are
+modulating those proteins whether it's
+modulating those proteins whether it's
+modulating those proteins whether it's
+like in our cells in bacteria. All
+like in our cells in bacteria. All
+like in our cells in bacteria. All
+right. So it's basically everything
+right. So it's basically everything
+right. So it's basically everything
+you're talking about is it's all
+you're talking about is it's all
+you're talking about is it's all
+happening on the cellular level. If what
+happening on the cellular level. If what
+happening on the cellular level. If what
+you're describing is happening inside of
+you're describing is happening inside of
+you're describing is happening inside of
+cells, proteins doing their thing, the
+cells, proteins doing their thing, the
+cells, proteins doing their thing, the
+3D jigsaw puzzle and you have a solution
+3D jigsaw puzzle and you have a solution
+3D jigsaw puzzle and you have a solution
+for that a remedy. You have to get your
+for that a remedy. You have to get your
+for that a remedy. You have to get your
+remedy inside the cell to interact with
+remedy inside the cell to interact with
+remedy inside the cell to interact with
+that folding the delivery system. And
+that folding the delivery system. And
+that folding the delivery system. And
+how do you do that other than through
+how do you do that other than through
+how do you do that other than through
+like a Trojan horse virus or something?
+like a Trojan horse virus or something?
+like a Trojan horse virus or something?
+Cuz viruses get in there pretty uh on
+Cuz viruses get in there pretty uh on
+Cuz viruses get in there pretty uh on
+command. Yeah. Well, if you think about
+command. Yeah. Well, if you think about
+command. Yeah. Well, if you think about
+the drugs that you take as pills, drug
+the drugs that you take as pills, drug
+the drugs that you take as pills, drug
+design is really hard because it's not
+design is really hard because it's not
+design is really hard because it's not
+just about targeting these proteins. We
+just about targeting these proteins. We
+just about targeting these proteins. We
+got to get them to the right place. We
+got to get them to the right place. We
+got to get them to the right place. We
+might want a pill that you take. So you
+might want a pill that you take. So you
+might want a pill that you take. So you
+take this pill, it's got to be absorbed
+take this pill, it's got to be absorbed
+take this pill, it's got to be absorbed
+by the body. So it's got to be soluble,
+by the body. So it's got to be soluble,
+by the body. So it's got to be soluble,
+right? It's got to go through the gut
+right? It's got to go through the gut
+right? It's got to go through the gut
+wall. It's got to go through the
+wall. It's got to go through the
+wall. It's got to go through the
+bloodstream to the particular tissue
+bloodstream to the particular tissue
+bloodstream to the particular tissue
+type, the cell type you care about. then
+type, the cell type you care about. then
+type, the cell type you care about. then
+it's got to go through the cell membrane
+it's got to go through the cell membrane
+it's got to go through the cell membrane
+to be able to actually target maybe a
+to be able to actually target maybe a
+to be able to actually target maybe a
+target which is within the cell. So you
+target which is within the cell. So you
+target which is within the cell. So you
+need all of these properties in a single
+need all of these properties in a single
+need all of these properties in a single
+molecule. So we're actually designing
+molecule. So we're actually designing
+molecule. So we're actually designing
+these molecules not just to hit the
+these molecules not just to hit the
+these molecules not just to hit the
+protein but also to be soluble to be
+protein but also to be soluble to be
+protein but also to be soluble to be
+cell permeable. There's so many
+cell permeable. There's so many
+cell permeable. There's so many
+different factors and then you don't
+different factors and then you don't
+different factors and then you don't
+want this molecule to be toxic. So you
+want this molecule to be toxic. So you
+want this molecule to be toxic. So you
+want it to hit the target of interest
+want it to hit the target of interest
+want it to hit the target of interest
+but not hit anything else. So I can see
+but not hit anything else. So I can see
+but not hit anything else. So I can see
+how a molecule gets through the cell
+how a molecule gets through the cell
+how a molecule gets through the cell
+wall. Yeah. a simple molecule, but a a
+wall. Yeah. a simple molecule, but a a
+wall. Yeah. a simple molecule, but a a
+fullup protein, red-blooded protein,
+fullup protein, red-blooded protein,
+fullup protein, red-blooded protein,
+how's that getting through the cell
+how's that getting through the cell
+how's that getting through the cell
+wall? Exactly. There's different types
+wall? Exactly. There's different types
+wall? Exactly. There's different types
+of drugs. Some are what we call small
+of drugs. Some are what we call small
+of drugs. Some are what we call small
+molecules, things you could take as
+molecules, things you could take as
+molecules, things you could take as
+pills. Others are made from proteins
+pills. Others are made from proteins
+pills. Others are made from proteins
+there. They're often things that you
+there. They're often things that you
+there. They're often things that you
+would inject directly inside. So you um
+would inject directly inside. So you um
+would inject directly inside. So you um
+and some of those might be cell
+and some of those might be cell
+and some of those might be cell
+permeable. They would be things like
+permeable. They would be things like
+permeable. They would be things like
+peptides, but often these these protein
+peptides, but often these these protein
+peptides, but often these these protein
+based drugs, things like antibodies, uh
+based drugs, things like antibodies, uh
+based drugs, things like antibodies, uh
+they're injected, but they don't go in
+they're injected, but they don't go in
+they're injected, but they don't go in
+the cell. they're just interacting with
+the cell. they're just interacting with
+the cell. they're just interacting with
+proteins on the surface of cells. So,
+proteins on the surface of cells. So,
+proteins on the surface of cells. So,
+you don't need that permeability. So, it
+you don't need that permeability. So, it
+you don't need that permeability. So, it
+really depends on what your target is
+really depends on what your target is
+really depends on what your target is
+and how do you want people to be able to
+and how do you want people to be able to
+and how do you want people to be able to
+take that drug. Sometimes a pill is the
+take that drug. Sometimes a pill is the
+take that drug. Sometimes a pill is the
+best thing, but actually sometimes
+best thing, but actually sometimes
+best thing, but actually sometimes
+injecting is the best thing. Yes. And
+injecting is the best thing. Yes. And
+injecting is the best thing. Yes. And
+remind me what a peptide is. A peptide
+remind me what a peptide is. A peptide
+remind me what a peptide is. A peptide
+is a really small protein. Um, so you
+is a really small protein. Um, so you
+is a really small protein. Um, so you
+got full-blown proteins which are these
+got full-blown proteins which are these
+got full-blown proteins which are these
+big molecular machines and then you've
+big molecular machines and then you've
+big molecular machines and then you've
+got small proteins um made up of, you
+got small proteins um made up of, you
+got small proteins um made up of, you
+know, five to 50 amino acids. Those are
+know, five to 50 amino acids. Those are
+know, five to 50 amino acids. Those are
+peptides. Those are peptides. They're
+peptides. Those are peptides. They're
+peptides. Those are peptides. They're
+smaller. So in sometimes in some
+smaller. So in sometimes in some
+smaller. So in sometimes in some
+configurations they can get through the
+configurations they can get through the
+configurations they can get through the
+cell wall.
+cell wall.
+cell wall.
+So with this computer science are we
+So with this computer science are we
+So with this computer science are we
+upending chemistry as we've known it and
+upending chemistry as we've known it and
+upending chemistry as we've known it and
+are we going to find it kind of moving
+are we going to find it kind of moving
+are we going to find it kind of moving
+off even with AI with the AI is it then
+off even with AI with the AI is it then
+off even with AI with the AI is it then
+sort of moving into the other sciences?
+sort of moving into the other sciences?
+sort of moving into the other sciences?
+Are we going to just see it stick in one
+Are we going to just see it stick in one
+Are we going to just see it stick in one
+particular area? Chemistry is always
+particular area? Chemistry is always
+particular area? Chemistry is always
+going to exist. It's it it it's like I
+going to exist. It's it it it's like I
+going to exist. It's it it it's like I
+to me it's like any field of science at
+to me it's like any field of science at
+to me it's like any field of science at
+the moment doing science like chemistry
+the moment doing science like chemistry
+the moment doing science like chemistry
+without maths. You wouldn't think about
+without maths. You wouldn't think about
+without maths. You wouldn't think about
+that now. And it's going to be the same
+that now. And it's going to be the same
+that now. And it's going to be the same
+thing with AI. It already is in my mind.
+thing with AI. It already is in my mind.
+thing with AI. It already is in my mind.
+You just wouldn't do chemistry without
+You just wouldn't do chemistry without
+You just wouldn't do chemistry without
+AI. You wouldn't do biology without AI.
+AI. You wouldn't do biology without AI.
+AI. You wouldn't do biology without AI.
+It's just that fundamental tool that
+It's just that fundamental tool that
+It's just that fundamental tool that
+allows us to understand the world
+allows us to understand the world
+allows us to understand the world
+better. So chemists will not one day be
+better. So chemists will not one day be
+better. So chemists will not one day be
+like coal miners. Just like I remember
+like coal miners. Just like I remember
+like coal miners. Just like I remember
+my grandpappa used to go into the lab.
+So it's going back to an issue coming
+So it's going back to an issue coming
+home smelling like chemicals.
+Who's actually going to be able to
+Who's actually going to be able to
+access Alpha Fold 3 or AIS of this
+access Alpha Fold 3 or AIS of this
+access Alpha Fold 3 or AIS of this
+iteration? Is it exclusively Isomeorphic
+iteration? Is it exclusively Isomeorphic
+iteration? Is it exclusively Isomeorphic
+Labs or this comes out in license? I
+Labs or this comes out in license? I
+Labs or this comes out in license? I
+want a home kit. That's it. Exactly.
+want a home kit. That's it. Exactly.
+want a home kit. That's it. Exactly.
+Right. Right. Right. My DNA goes in.
+Right. Right. Right. My DNA goes in.
+Right. Right. Right. My DNA goes in.
+There's an alpha fold going on. Out
+There's an alpha fold going on. Out
+There's an alpha fold going on. Out
+comes a pill and I take it and I don't
+comes a pill and I take it and I don't
+comes a pill and I take it and I don't
+even need you at that point. That would
+even need you at that point. That would
+even need you at that point. That would
+be so cool. You just finger prick or
+be so cool. You just finger prick or
+be so cool. You just finger prick or
+like put your finger on a sensor or
+like put your finger on a sensor or
+like put your finger on a sensor or
+something and it figures it all out.
+something and it figures it all out.
+something and it figures it all out.
+Make your own pill in the at home. Home.
+Make your own pill in the at home. Home.
+Make your own pill in the at home. Home.
+Yeah. Yeah. Look up the Thranos story
+Yeah. Yeah. Look up the Thranos story
+Yeah. Yeah. Look up the Thranos story
+for that one.
+for that one.
+for that one.
+Wow. That's the woman that went to
+Wow. That's the woman that went to
+Wow. That's the woman that went to
+prison, right? But no, you can access
+prison, right? But no, you can access
+prison, right? But no, you can access
+Alphafold. So if you search for Alphold
+Alphafold. So if you search for Alphold
+Alphafold. So if you search for Alphold
+server, um there's a whole web-based
+server, um there's a whole web-based
+server, um there's a whole web-based
+system where you can you can fold
+system where you can you can fold
+system where you can you can fold
+proteins there for, you know, academic
+proteins there for, you know, academic
+proteins there for, you know, academic
+use. It's it's it's really cool. So you
+use. It's it's it's really cool. So you
+use. It's it's it's really cool. So you
+can just put your system in, get the 3D
+can just put your system in, get the 3D
+can just put your system in, get the 3D
+fold out from Alfold 3, download it.
+fold out from Alfold 3, download it.
+fold out from Alfold 3, download it.
+Yeah. Oh, cool, man. I mean, how far
+Yeah. Oh, cool, man. I mean, how far
+Yeah. Oh, cool, man. I mean, how far
+away are we from modeling an entire
+away are we from modeling an entire
+away are we from modeling an entire
+human being, which I suppose touches
+human being, which I suppose touches
+human being, which I suppose touches
+onto your fears? Modeling or creating?
+onto your fears? Modeling or creating?
+onto your fears? Modeling or creating?
+Either or. Once you model, Mhm. the next
+Either or. Once you model, Mhm. the next
+Either or. Once you model, Mhm. the next
+step is creating. Yeah, that's true.
+step is creating. Yeah, that's true.
+step is creating. Yeah, that's true.
+That's all there is to it. That's true.
+That's all there is to it. That's true.
+That's all there is to it. That's true.
+That that's the dream. We kind of need
+That that's the dream. We kind of need
+That that's the dream. We kind of need
+to work up the scales here. So, you
+to work up the scales here. So, you
+to work up the scales here. So, you
+know, we we we can model how two atoms
+know, we we we can model how two atoms
+know, we we we can model how two atoms
+interact. We can write down those
+interact. We can write down those
+interact. We can write down those
+equations. We can simulate small atomic
+equations. We can simulate small atomic
+equations. We can simulate small atomic
+systems. With things like alpha fold, we
+systems. With things like alpha fold, we
+systems. With things like alpha fold, we
+get into bigger atomic systems, things
+get into bigger atomic systems, things
+get into bigger atomic systems, things
+on the scale of like multiple proteins.
+on the scale of like multiple proteins.
+on the scale of like multiple proteins.
+Now we've got very very accurate alpha
+Now we've got very very accurate alpha
+Now we've got very very accurate alpha
+3. Maybe we can actually bootstrap off
+3. Maybe we can actually bootstrap off
+3. Maybe we can actually bootstrap off
+that to get to more sort of even bigger
+that to get to more sort of even bigger
+that to get to more sort of even bigger
+systems, what we call pathways, how all
+systems, what we call pathways, how all
+systems, what we call pathways, how all
+of these things interact. It's only just
+of these things interact. It's only just
+of these things interact. It's only just
+now clicking within me because you can
+now clicking within me because you can
+now clicking within me because you can
+look up in a book the tables of um
+look up in a book the tables of um
+look up in a book the tables of um
+action potentials for the interactions
+action potentials for the interactions
+action potentials for the interactions
+of of atoms and molecules. And so you'd
+of of atoms and molecules. And so you'd
+of of atoms and molecules. And so you'd
+have a very good sense of which
+have a very good sense of which
+have a very good sense of which
+molecules will combine. Is it
+molecules will combine. Is it
+molecules will combine. Is it
+exothermic? Is it endothermic? But these
+exothermic? Is it endothermic? But these
+exothermic? Is it endothermic? But these
+are atoms and molecules. And as powerful
+are atoms and molecules. And as powerful
+are atoms and molecules. And as powerful
+and as convenient as that is, that's
+and as convenient as that is, that's
+and as convenient as that is, that's
+just the first rung in this ascending
+just the first rung in this ascending
+just the first rung in this ascending
+ladder of complexity that you are
+ladder of complexity that you are
+ladder of complexity that you are
+gaining control over. Yeah. And there's
+gaining control over. Yeah. And there's
+gaining control over. Yeah. And there's
+there's trillions of atoms within a
+there's trillions of atoms within a
+there's trillions of atoms within a
+single cell, let alone the whole human
+single cell, let alone the whole human
+single cell, let alone the whole human
+body, right? It's just unfeasible to
+body, right? It's just unfeasible to
+body, right? It's just unfeasible to
+simulate the whole thing. But what you
+simulate the whole thing. But what you
+simulate the whole thing. But what you
+can do is you can, you know, we do have
+can do is you can, you know, we do have
+can do is you can, you know, we do have
+good measurement techniques at different
+good measurement techniques at different
+good measurement techniques at different
+levels of scale. So we can measure
+levels of scale. So we can measure
+levels of scale. So we can measure
+things like protein folding. We can
+things like protein folding. We can
+things like protein folding. We can
+measure the amount of protein within a
+measure the amount of protein within a
+measure the amount of protein within a
+cell. We can measure the number of cells
+cell. We can measure the number of cells
+cell. We can measure the number of cells
+of certain type within a tissue. And so
+of certain type within a tissue. And so
+of certain type within a tissue. And so
+we have these the bigger it is, the
+we have these the bigger it is, the
+we have these the bigger it is, the
+easier it would be to measure. So we
+easier it would be to measure. So we
+easier it would be to measure. So we
+have these little windows into this sort
+have these little windows into this sort
+have these little windows into this sort
+of microscopic world. And then we can
+of microscopic world. And then we can
+of microscopic world. And then we can
+use AI to sort of fill in the gaps and
+use AI to sort of fill in the gaps and
+use AI to sort of fill in the gaps and
+bootstrap off the stuff we can do well
+bootstrap off the stuff we can do well
+bootstrap off the stuff we can do well
+the the atomic level and start building
+the the atomic level and start building
+the the atomic level and start building
+up that scale of modeling. If that makes
+up that scale of modeling. If that makes
+up that scale of modeling. If that makes
+it I read this article like god knows
+it I read this article like god knows
+it I read this article like god knows
+how long ago. God, how long did read the
+how long ago. God, how long did read the
+how long ago. God, how long did read the
+article? Because you know, God
+article? Because you know, God
+article? Because you know, God
+anyway, it was talking about when a
+anyway, it was talking about when a
+anyway, it was talking about when a
+fertilized cell starts to uh proliferate
+fertilized cell starts to uh proliferate
+fertilized cell starts to uh proliferate
+and become a person. And basically what
+and become a person. And basically what
+and become a person. And basically what
+it determined, what the scientists
+it determined, what the scientists
+it determined, what the scientists
+determined at that point, and this is
+determined at that point, and this is
+determined at that point, and this is
+many years ago, is that the only way
+many years ago, is that the only way
+many years ago, is that the only way
+that could describe it is there's a
+that could describe it is there's a
+that could describe it is there's a
+bunch of noise. Like there's just a
+bunch of noise. Like there's just a
+bunch of noise. Like there's just a
+bunch of noise. We can't really see
+bunch of noise. We can't really see
+bunch of noise. We can't really see
+anything. We can't make sense of any of
+anything. We can't make sense of any of
+anything. We can't make sense of any of
+it because it's just basically if we
+it because it's just basically if we
+it because it's just basically if we
+were to look at it as data it would just
+were to look at it as data it would just
+were to look at it as data it would just
+be noise. Are you able to pierce that
+be noise. Are you able to pierce that
+be noise. Are you able to pierce that
+veil and see into that? I mean we we
+veil and see into that? I mean we we
+veil and see into that? I mean we we
+haven't been looking at that specific
+haven't been looking at that specific
+haven't been looking at that specific
+thing. Okay. But this is where you start
+thing. Okay. But this is where you start
+thing. Okay. But this is where you start
+to understand more about you know a
+to understand more about you know a
+to understand more about you know a
+really granular scale and then you you
+really granular scale and then you you
+really granular scale and then you you
+can integrate that and create these sort
+can integrate that and create these sort
+can integrate that and create these sort
+of I don't know coarser measurements and
+of I don't know coarser measurements and
+of I don't know coarser measurements and
+and coarser predictions. This is what we
+and coarser predictions. This is what we
+and coarser predictions. This is what we
+do in in lots of areas of science,
+do in in lots of areas of science,
+do in in lots of areas of science,
+right? We we don't simulate the whole
+right? We we don't simulate the whole
+right? We we don't simulate the whole
+universe at the atomic scale, but we we
+universe at the atomic scale, but we we
+universe at the atomic scale, but we we
+find these rules of thumb or ways to
+find these rules of thumb or ways to
+find these rules of thumb or ways to
+describe sort of broader collections of
+describe sort of broader collections of
+describe sort of broader collections of
+molecules and that's what we can start
+molecules and that's what we can start
+molecules and that's what we can start
+to build up and actually learn with
+to build up and actually learn with
+to build up and actually learn with
+these neural networks. Cool.
+these neural networks. Cool.
+these neural networks. Cool.
+So, question on behalf of Chuck. Could
+So, question on behalf of Chuck. Could
+So, question on behalf of Chuck. Could
+Alpha discover a hallucinogenic that
+Alpha discover a hallucinogenic that
+Alpha discover a hallucinogenic that
+could make him see God
+could make him see God
+could make him see God
+or any other deity or being? Thank you
+or any other deity or being? Thank you
+or any other deity or being? Thank you
+for asking. Welcome. I would like a very
+for asking. Welcome. I would like a very
+for asking. Welcome. I would like a very
+real answer, please.
+real answer, please.
+real answer, please.
+You You can go on the Alphael server and
+You You can go on the Alphael server and
+You You can go on the Alphael server and
+try that out. Okay. All right.
+try that out. Okay. All right.
+try that out. Okay. All right.
+Invitation. Hey, listen. I'm all about
+Invitation. Hey, listen. I'm all about
+Invitation. Hey, listen. I'm all about
+it. So, we've looked at in previous
+it. So, we've looked at in previous
+it. So, we've looked at in previous
+shows talking to Biome Medical
+shows talking to Biome Medical
+shows talking to Biome Medical
+Engineering. And if we are to travel off
+Engineering. And if we are to travel off
+Engineering. And if we are to travel off
+world and deep space, we are probably
+world and deep space, we are probably
+world and deep space, we are probably
+going to need a different upgrades for
+going to need a different upgrades for
+going to need a different upgrades for
+us to be able to do that. Can we are we
+us to be able to do that. Can we are we
+us to be able to do that. Can we are we
+going to be able to with Alpha Fold or
+going to be able to with Alpha Fold or
+going to be able to with Alpha Fold or
+AI like this be able to upgrade
+AI like this be able to upgrade
+AI like this be able to upgrade
+ourselves to make this sort of deep
+ourselves to make this sort of deep
+ourselves to make this sort of deep
+space travel or or upgrade ourselves for
+space travel or or upgrade ourselves for
+space travel or or upgrade ourselves for
+anything any needi
+anything any needi
+anything any needi
+you know yeah now now we're sort of
+you know yeah now now we're sort of
+you know yeah now now we're sort of
+beyond you know solving disease into
+beyond you know solving disease into
+beyond you know solving disease into
+like actually can we enhance ourselves
+like actually can we enhance ourselves
+like actually can we enhance ourselves
+right I don't know I think like there's
+right I don't know I think like there's
+right I don't know I think like there's
+there's probably potential right to to
+there's probably potential right to to
+there's probably potential right to to
+think about creating chemical matter
+think about creating chemical matter
+think about creating chemical matter
+that we can take or ingest that that I
+that we can take or ingest that that I
+that we can take or ingest that that I
+mean aging alone would be a huge
+mean aging alone would be a huge
+mean aging alone would be a huge
+application for this. I mean, there's
+application for this. I mean, there's
+application for this. I mean, there's
+crazy research on aging. Aging is
+crazy research on aging. Aging is
+crazy research on aging. Aging is
+basically cellular degeneration
+basically cellular degeneration
+basically cellular degeneration
+and if you're able to on a molecular
+and if you're able to on a molecular
+and if you're able to on a molecular
+level kind of restart that process or
+level kind of restart that process or
+level kind of restart that process or
+jumpst start it or you know boost it.
+jumpst start it or you know boost it.
+jumpst start it or you know boost it.
+Aging is an interesting one. You know,
+Aging is an interesting one. You know,
+Aging is an interesting one. You know,
+this is a really nent area of research
+this is a really nent area of research
+this is a really nent area of research
+where people are just starting to work
+where people are just starting to work
+where people are just starting to work
+out what are some of the um factors that
+out what are some of the um factors that
+out what are some of the um factors that
+that reverse the age of cells are these
+that reverse the age of cells are these
+that reverse the age of cells are these
+things called Yamanaka factors. Yes. Um,
+things called Yamanaka factors. Yes. Um,
+things called Yamanaka factors. Yes. Um,
+and there's even potential that people
+and there's even potential that people
+and there's even potential that people
+are finding of creating molecules that
+are finding of creating molecules that
+are finding of creating molecules that
+stabilize particular protein. Yamanaka
+stabilize particular protein. Yamanaka
+stabilize particular protein. Yamanaka
+factors are proteins. They're
+factors are proteins. They're
+factors are proteins. They're
+transcription factors that read DNA can
+transcription factors that read DNA can
+transcription factors that read DNA can
+stabilize these things. Maybe that is
+stabilize these things. Maybe that is
+stabilize these things. Maybe that is
+what reverses some of the age of cells.
+what reverses some of the age of cells.
+what reverses some of the age of cells.
+This is super nent. So, what is the
+This is super nent. So, what is the
+This is super nent. So, what is the
+connection between wanting to modify a
+connection between wanting to modify a
+connection between wanting to modify a
+genome and your ability to fold proteins
+genome and your ability to fold proteins
+genome and your ability to fold proteins
+to interact with our physiology? I asked
+to interact with our physiology? I asked
+to interact with our physiology? I asked
+that because I'm reminded there was a
+that because I'm reminded there was a
+that because I'm reminded there was a
+scene in the film Gatka where they they
+scene in the film Gatka where they they
+scene in the film Gatka where they they
+didn't manipulate your genome, but they
+didn't manipulate your genome, but they
+didn't manipulate your genome, but they
+selected your pre-existing genome for
+selected your pre-existing genome for
+selected your pre-existing genome for
+certain properties. And there's a person
+certain properties. And there's a person
+certain properties. And there's a person
+giving a piano recital and it was very
+giving a piano recital and it was very
+giving a piano recital and it was very
+rich sound. I mean, it was beautiful.
+rich sound. I mean, it was beautiful.
+rich sound. I mean, it was beautiful.
+And then the camera came around to the
+And then the camera came around to the
+And then the camera came around to the
+front and the person had 12 fingers.
+front and the person had 12 fingers.
+front and the person had 12 fingers.
+That's right. And
+That's right. And
+That's right. And
+bread for that. Yes. Right. You get two
+bread for that. Yes. Right. You get two
+bread for that. Yes. Right. You get two
+extra notes for every for everything.
+extra notes for every for everything.
+extra notes for every for everything.
+Right. Everything going on. She could
+Right. Everything going on. She could
+Right. Everything going on. She could
+only play the stuff like nobody could
+only play the stuff like nobody could
+only play the stuff like nobody could
+play with. Nobody could play with nobody
+play with. Nobody could play with nobody
+play with. Nobody could play with nobody
+could play with. So this would be
+could play with. So this would be
+could play with. So this would be
+modifying not to go into space
+modifying not to go into space
+modifying not to go into space
+necessarily, but just to sort of enrich
+necessarily, but just to sort of enrich
+necessarily, but just to sort of enrich
+the diversity of the human species.
+the diversity of the human species.
+the diversity of the human species.
+We're not doing genetic modification. So
+We're not doing genetic modification. So
+We're not doing genetic modification. So
+he says he's English. You must trust him
+he says he's English. You must trust him
+he says he's English. You must trust him
+to be honest. Yes. Thank you. Thank you.
+to be honest. Yes. Thank you. Thank you.
+to be honest. Yes. Thank you. Thank you.
+Well done. Well, well played.
+Well done. Well, well played.
+Well done. Well, well played.
+Wait. So, but can you is it the same
+Wait. So, but can you is it the same
+Wait. So, but can you is it the same
+thing? Some particular types of drugs
+thing? Some particular types of drugs
+thing? Some particular types of drugs
+are, you know, things that would
+are, you know, things that would
+are, you know, things that would
+manipulate your genome. Um, that's how
+manipulate your genome. Um, that's how
+manipulate your genome. Um, that's how
+people, you know, start to target some
+people, you know, start to target some
+people, you know, start to target some
+diseases. This is not a class of drugs
+diseases. This is not a class of drugs
+diseases. This is not a class of drugs
+we're working on. When we think about
+we're working on. When we think about
+we're working on. When we think about
+the big ambition of solving all disease,
+the big ambition of solving all disease,
+the big ambition of solving all disease,
+maybe this is something that we need to
+maybe this is something that we need to
+maybe this is something that we need to
+be um doing over time as as we want to
+be um doing over time as as we want to
+be um doing over time as as we want to
+really crack like the whole spectrum of
+really crack like the whole spectrum of
+really crack like the whole spectrum of
+disease, right? Can is it even possible
+disease, right? Can is it even possible
+disease, right? Can is it even possible
+to consider that without considering the
+to consider that without considering the
+to consider that without considering the
+whole area itself as it all bleeds in
+whole area itself as it all bleeds in
+whole area itself as it all bleeds in
+together at some point? Yeah, I mean we
+together at some point? Yeah, I mean we
+together at some point? Yeah, I mean we
+need to understand the genome and and
+need to understand the genome and and
+need to understand the genome and and
+all the effect how how you how changing
+all the effect how how you how changing
+all the effect how how you how changing
+a particular base pair on your DNA is
+a particular base pair on your DNA is
+a particular base pair on your DNA is
+going to change you know what proteins
+going to change you know what proteins
+going to change you know what proteins
+are expressed or in what abundance and
+are expressed or in what abundance and
+are expressed or in what abundance and
+how that all the knock on effect on the
+how that all the knock on effect on the
+how that all the knock on effect on the
+pathways. you you really want this like
+pathways. you you really want this like
+pathways. you you really want this like
+basically this virtual cell to be able
+basically this virtual cell to be able
+basically this virtual cell to be able
+to manipulate this cell on a computer
+to manipulate this cell on a computer
+to manipulate this cell on a computer
+right to do experiments there here's
+right to do experiments there here's
+right to do experiments there here's
+what I want you like your cell template
+what I want you like your cell template
+what I want you like your cell template
+that you talking about prioritizing and
+that you talking about prioritizing and
+that you talking about prioritizing and
+I'm not asking much because it already
+I'm not asking much because it already
+I'm not asking much because it already
+happens in the animal kingdom you know
+happens in the animal kingdom you know
+happens in the animal kingdom you know
+for so long decades even centuries we
+for so long decades even centuries we
+for so long decades even centuries we
+imagined ourselves at the top of some
+imagined ourselves at the top of some
+imagined ourselves at the top of some
+evolutionary yeah tri
+evolutionary yeah tri
+evolutionary yeah tri
+without any arrogance whatsoever yeah
+without any arrogance whatsoever yeah
+without any arrogance whatsoever yeah
+and all right Yet a noot can regenerate
+and all right Yet a noot can regenerate
+and all right Yet a noot can regenerate
+a limb and we can't. Yeah. And so it
+a limb and we can't. Yeah. And so it
+a limb and we can't. Yeah. And so it
+seems to and they're vertebrates. So it
+seems to and they're vertebrates. So it
+seems to and they're vertebrates. So it
+seems to me there ought to be some way
+seems to me there ought to be some way
+seems to me there ought to be some way
+to extract from animals that do things
+to extract from animals that do things
+to extract from animals that do things
+that we could benefit from and then make
+that we could benefit from and then make
+that we could benefit from and then make
+that a priority. So people, especially
+that a priority. So people, especially
+that a priority. So people, especially
+veterans who've lost limbs, right, in in
+veterans who've lost limbs, right, in in
+veterans who've lost limbs, right, in in
+in conflict, uh so or or even geckos
+in conflict, uh so or or even geckos
+in conflict, uh so or or even geckos
+with their sticky hands like maybe um I
+with their sticky hands like maybe um I
+with their sticky hands like maybe um I
+could be Spider-Man one day. Well, so
+could be Spider-Man one day. Well, so
+could be Spider-Man one day. Well, so
+organiz Prioritize that truck.
+organiz Prioritize that truck.
+organiz Prioritize that truck.
+They'll become superheroes.
+So the regeneration of limbs that's
+So the regeneration of limbs that's
+that's got to be a protein thing going
+that's got to be a protein thing going
+that's got to be a protein thing going
+on in there, isn't it? Yeah. I mean, you
+on in there, isn't it? Yeah. I mean, you
+on in there, isn't it? Yeah. I mean, you
+know, all of our mechanisms are
+know, all of our mechanisms are
+know, all of our mechanisms are
+proteins. Same for nukes as well. So
+proteins. Same for nukes as well. So
+proteins. Same for nukes as well. So
+there is some mechanism there. I don't
+there is some mechanism there. I don't
+there is some mechanism there. I don't
+know what it is. Okay. Yeah. But that
+know what it is. Okay. Yeah. But that
+know what it is. Okay. Yeah. But that
+would be a mechanism to emulate if you
+would be a mechanism to emulate if you
+would be a mechanism to emulate if you
+could. If you could. Yeah. And then
+could. If you could. Yeah. And then
+could. If you could. Yeah. And then
+install it into our own physiology. It's
+install it into our own physiology. It's
+install it into our own physiology. It's
+a big if. Yeah. It's a lot. Yeah. How
+a big if. Yeah. It's a lot. Yeah. How
+a big if. Yeah. It's a lot. Yeah. How
+about this? Would you be able to look at
+about this? Would you be able to look at
+about this? Would you be able to look at
+drugs that are already here and there
+drugs that are already here and there
+drugs that are already here and there
+are some drugs that are just not well
+are some drugs that are just not well
+are some drugs that are just not well
+tolerated and you be able to reconfigure
+tolerated and you be able to reconfigure
+tolerated and you be able to reconfigure
+them in such a way that you get the
+them in such a way that you get the
+them in such a way that you get the
+benefit of the drug without the side
+benefit of the drug without the side
+benefit of the drug without the side
+effects. Yeah. Exactly. So you often
+effects. Yeah. Exactly. So you often
+effects. Yeah. Exactly. So you often
+have these first generation of drugs
+have these first generation of drugs
+have these first generation of drugs
+that do something but they have these
+that do something but they have these
+that do something but they have these
+side effects. Then there's a big
+side effects. Then there's a big
+side effects. Then there's a big
+opportunity to understand better how
+opportunity to understand better how
+opportunity to understand better how
+these drugs work. things like alphab 3s,
+these drugs work. things like alphab 3s,
+these drugs work. things like alphab 3s,
+things like our models that understand
+things like our models that understand
+things like our models that understand
+toxicity of of drugs can then allow us
+toxicity of of drugs can then allow us
+toxicity of of drugs can then allow us
+to potentially modify these to become
+to potentially modify these to become
+to potentially modify these to become
+better drugs and have less side effects,
+better drugs and have less side effects,
+better drugs and have less side effects,
+less toxic effects. Cool. Well, that's
+less toxic effects. Cool. Well, that's
+less toxic effects. Cool. Well, that's
+going back through the medical catalog
+going back through the medical catalog
+going back through the medical catalog
+and reanalyze it, which is exactly what
+and reanalyze it, which is exactly what
+and reanalyze it, which is exactly what
+an AI would be perfect for, right?
+an AI would be perfect for, right?
+an AI would be perfect for, right?
+Exactly. Yeah. Yeah. You guys are going
+Exactly. Yeah. Yeah. You guys are going
+Exactly. Yeah. Yeah. You guys are going
+to make a lot of money, man. I don't
+to make a lot of money, man. I don't
+to make a lot of money, man. I don't
+know how I get seen dollar signs. I see
+know how I get seen dollar signs. I see
+know how I get seen dollar signs. I see
+some I get a huge company you want to
+some I get a huge company you want to
+some I get a huge company you want to
+invest. You need to get a piece of this
+invest. You need to get a piece of this
+invest. You need to get a piece of this
+company you guys are going to make. I
+company you guys are going to make. I
+company you guys are going to make. I
+mean I can't even imagine the amount the
+mean I can't even imagine the amount the
+mean I can't even imagine the amount the
+gobs and gobs of money more money than
+gobs and gobs of money more money than
+gobs and gobs of money more money than
+cells in my body. This is amazing. You
+cells in my body. This is amazing. You
+cells in my body. This is amazing. You
+we're in the doorstep of quantum
+we're in the doorstep of quantum
+we're in the doorstep of quantum
+computing and I know what impact that
+computing and I know what impact that
+computing and I know what impact that
+would have in my field. In your field
+would have in my field. In your field
+would have in my field. In your field
+would it make your entire life's work
+would it make your entire life's work
+would it make your entire life's work
+look like it was done on an abacus?
+look like it was done on an abacus?
+look like it was done on an abacus?
+Yeah. I mean I mean this is this is
+Yeah. I mean I mean this is this is
+Yeah. I mean I mean this is this is
+going to change things. I think open
+going to change things. I think open
+going to change things. I think open
+question how this changes machine
+question how this changes machine
+question how this changes machine
+learning like what can AI do with
+learning like what can AI do with
+learning like what can AI do with
+quantum computing but for chemistry even
+quantum computing but for chemistry even
+quantum computing but for chemistry even
+near-term there are some real
+near-term there are some real
+near-term there are some real
+applications of quantum computers for
+applications of quantum computers for
+applications of quantum computers for
+understanding the properties of small
+understanding the properties of small
+understanding the properties of small
+molecule drugs because actually some of
+molecule drugs because actually some of
+molecule drugs because actually some of
+the things that people do do today with
+the things that people do do today with
+the things that people do do today with
+quantum computers is simulate simulate
+quantum computers is simulate simulate
+quantum computers is simulate simulate
+these small chemical systems like we
+these small chemical systems like we
+these small chemical systems like we
+actually even even in the company we
+actually even even in the company we
+actually even even in the company we
+have a quantum simulation team um that
+have a quantum simulation team um that
+have a quantum simulation team um that
+are you know not using quantum computers
+are you know not using quantum computers
+are you know not using quantum computers
+but simulating know the the quantum
+but simulating know the the quantum
+but simulating know the the quantum
+effects of molecules. Now if you had a
+effects of molecules. Now if you had a
+effects of molecules. Now if you had a
+quantum computer that could work on that
+quantum computer that could work on that
+quantum computer that could work on that
+scale you could use that instead. So wow
+scale you could use that instead. So wow
+scale you could use that instead. So wow
+I think of so many needs on the frontier
+I think of so many needs on the frontier
+I think of so many needs on the frontier
+of chemistry in modern society. Uh one
+of chemistry in modern society. Uh one
+of chemistry in modern society. Uh one
+of them is you know what do we do with
+of them is you know what do we do with
+of them is you know what do we do with
+all the plastic that's in our
+all the plastic that's in our
+all the plastic that's in our
+environment that's still there in the
+environment that's still there in the
+environment that's still there in the
+ocean. Is there some life form you can
+ocean. Is there some life form you can
+ocean. Is there some life form you can
+create that'll digest the plastic and
+create that'll digest the plastic and
+create that'll digest the plastic and
+turn it back into its original
+turn it back into its original
+turn it back into its original
+molecules? Is are proteins something
+molecules? Is are proteins something
+molecules? Is are proteins something
+that could be applied there? If not in
+that could be applied there? If not in
+that could be applied there? If not in
+your world, then you're describing an
+your world, then you're describing an
+your world, then you're describing an
+ability more than you're describing a
+ability more than you're describing a
+ability more than you're describing a
+specific solution to a problem. You're
+specific solution to a problem. You're
+specific solution to a problem. You're
+you're empowering the chemist in ways
+you're empowering the chemist in ways
+you're empowering the chemist in ways
+never previously imagined. Yes. So you
+never previously imagined. Yes. So you
+never previously imagined. Yes. So you
+can use the capability of of Alphafold
+can use the capability of of Alphafold
+can use the capability of of Alphafold
+to understand, you know, understanding
+to understand, you know, understanding
+to understand, you know, understanding
+structural proteins. People are using
+structural proteins. People are using
+structural proteins. People are using
+this outside of drug drug design. People
+this outside of drug drug design. People
+this outside of drug drug design. People
+people are using this for example to
+people are using this for example to
+people are using this for example to
+create bacteria that have enzymes that
+create bacteria that have enzymes that
+create bacteria that have enzymes that
+could potentially digest plastics like
+could potentially digest plastics like
+could potentially digest plastics like
+you're talking about. You could think
+you're talking about. You could think
+you're talking about. You could think
+about this for engineering um you know
+about this for engineering um you know
+about this for engineering um you know
+more resilient types of crops these sort
+more resilient types of crops these sort
+more resilient types of crops these sort
+of things. Yeah. So just like AI this is
+of things. Yeah. So just like AI this is
+of things. Yeah. So just like AI this is
+a platform upon which you can rest the
+a platform upon which you can rest the
+a platform upon which you can rest the
+technology of any field. So yeah that's
+technology of any field. So yeah that's
+technology of any field. So yeah that's
+the amazing thing about the protein
+the amazing thing about the protein
+the amazing thing about the protein
+folding problem. Once you start to solve
+folding problem. Once you start to solve
+folding problem. Once you start to solve
+that you unlock so many new things for a
+that you unlock so many new things for a
+that you unlock so many new things for a
+whole broad spectrum of science right
+whole broad spectrum of science right
+whole broad spectrum of science right
+there's a lot of downstream benefits I
+there's a lot of downstream benefits I
+there's a lot of downstream benefits I
+would say.
+would say.
+would say.
+Okay, last thing. Here's the last thing.
+Okay, last thing. Here's the last thing.
+Okay, last thing. Here's the last thing.
+How How do I How do I get a piece of
+How How do I How do I get a piece of
+How How do I How do I get a piece of
+this coming? Chuck has got dollar signs
+this coming? Chuck has got dollar signs
+this coming? Chuck has got dollar signs
+in his eye. How do I get a piece of
+in his eye. How do I get a piece of
+in his eye. How do I get a piece of
+this? Last thing. La last thing. What is
+this? Last thing. La last thing. What is
+this? Last thing. La last thing. What is
+the worst possible outcome of your work?
+the worst possible outcome of your work?
+the worst possible outcome of your work?
+Oo, what a question.
+Oo, what a question.
+Oo, what a question.
+What guard rails are necessary as we go
+What guard rails are necessary as we go
+What guard rails are necessary as we go
+forward? Because any new technology with
+forward? Because any new technology with
+forward? Because any new technology with
+awesome power comes awesome
+awesome power comes awesome
+awesome power comes awesome
+responsibility. Yeah. I mean, I I think
+responsibility. Yeah. I mean, I I think
+responsibility. Yeah. I mean, I I think
+um you know, you have this with AI, you
+um you know, you have this with AI, you
+um you know, you have this with AI, you
+have this, you know, creating new
+have this, you know, creating new
+have this, you know, creating new
+biology or or or chemicals, you know,
+biology or or or chemicals, you know,
+biology or or or chemicals, you know,
+you you just need to think about how to
+you you just need to think about how to
+you you just need to think about how to
+use this responsibly, like what you're
+use this responsibly, like what you're
+use this responsibly, like what you're
+putting out into the world openly versus
+putting out into the world openly versus
+putting out into the world openly versus
+what you um close off for, you know,
+what you um close off for, you know,
+what you um close off for, you know,
+many safety reasons. So, I think there's
+many safety reasons. So, I think there's
+many safety reasons. So, I think there's
+there's a lot of things to consider
+there's a lot of things to consider
+there's a lot of things to consider
+there. Yeah. Cuz famously in one of the
+there. Yeah. Cuz famously in one of the
+there. Yeah. Cuz famously in one of the
+Jurassic Park films, they withheld
+Jurassic Park films, they withheld
+Jurassic Park films, they withheld
+lysine,
+lysine,
+lysine,
+amino acid, from one of the dinosaurs in
+amino acid, from one of the dinosaurs in
+amino acid, from one of the dinosaurs in
+case it escaped. Mhm. It would die
+case it escaped. Mhm. It would die
+case it escaped. Mhm. It would die
+because it would need the lysine for its
+because it would need the lysine for its
+because it would need the lysine for its
+survival. And that was a kind of a an
+survival. And that was a kind of a an
+survival. And that was a kind of a an
+insurance plan that put in, but life
+insurance plan that put in, but life
+insurance plan that put in, but life
+always finds a way. Yeah, there you go.
+always finds a way. Yeah, there you go.
+always finds a way. Yeah, there you go.
+Anyway,
+Anyway,
+Anyway,
+Maxwell Yatterberg.
+Maxwell Yatterberg.
+Maxwell Yatterberg.
+Yeah. Thank you for joining us on Star
+Yeah. Thank you for joining us on Star
+Yeah. Thank you for joining us on Star
+Talk. We're going to be watching your
+Talk. We're going to be watching your
+Talk. We're going to be watching your
+company and Chuck wants a piece of it.
+company and Chuck wants a piece of it.
+company and Chuck wants a piece of it.
+Yes. I don't know what that means. But
+Yes. I don't know what that means. But
+Yes. I don't know what that means. But
+anyhow, this this is I'm delighted to
+anyhow, this this is I'm delighted to
+anyhow, this this is I'm delighted to
+just be able to look through your lens
+just be able to look through your lens
+just be able to look through your lens
+at the birth of an entire frontier in
+at the birth of an entire frontier in
+at the birth of an entire frontier in
+human physiology. I mean, what a time
+human physiology. I mean, what a time
+human physiology. I mean, what a time
+this is. No, thank you so much. Been
+this is. No, thank you so much. Been
+this is. No, thank you so much. Been
+super super fun to talk. No, thank you.
+super super fun to talk. No, thank you.
+super super fun to talk. No, thank you.
+Excellent. Excellent. All right, I think
+Excellent. Excellent. All right, I think
+Excellent. Excellent. All right, I think
+we're done here. Mhm. Uh, this has been
+we're done here. Mhm. Uh, this has been
+we're done here. Mhm. Uh, this has been
+another installment of Star Talk special
+another installment of Star Talk special
+another installment of Star Talk special
+edition talking about AI, human
+edition talking about AI, human
+edition talking about AI, human
+physiology, and the future of drugs. Oh
+physiology, and the future of drugs. Oh
+physiology, and the future of drugs. Oh
+yeah, Gary. Good to have you always.
+yeah, Gary. Good to have you always.
+yeah, Gary. Good to have you always.
+Pleasure, Neil. All right, Chuck. Always
+Pleasure, Neil. All right, Chuck. Always
+Pleasure, Neil. All right, Chuck. Always
+a pleasure. As always, this has been
+a pleasure. As always, this has been
+a pleasure. As always, this has been
+Star Talk Neil Degrass Tyson, your
+Star Talk Neil Degrass Tyson, your
+Star Talk Neil Degrass Tyson, your
+personal astrophysicist. Keep looking
+personal astrophysicist. Keep looking
+personal astrophysicist. Keep looking
+up.
+up.
+up.
+[Music]

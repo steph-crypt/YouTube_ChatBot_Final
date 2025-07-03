@@ -1,0 +1,1107 @@
+you are alive against stupendous odds
+and I take the posture that because of
+this life should be cherished when you
+received like an anonymous call from a
+number you don't know you're like yes
+probably a scam I'm going to ignore it
+but when you receive these ads directly
+through a platform that you trust the
+chances of you being biased are so much
+higher this kind of hacking always seems
+to have a financial objective
+what is the total money earned by Bad
+actors total last year was $1.5 trillion
+what there's a te in there
+[Music]
+oh this is Star Talk special edition
+Neil degrass Tyson here your personal
+astrophysicist and of course we got Gary
+O'Reilly Gary former Soccer Pro Sports
+commentator yep hi Neil and
+longtime co-host of Star Talk Chuck nice
+what's going on guys Gary's sporting a
+new part have you noticed oh parting is
+there on a different side look at that
+no I don't sorry I put it on the I put
+it on the wrong way yes you
+did today's topic is one of my favorite
+just as an educator simply because it's
+where people misthink things most often
+and I feel extra responsible to try to
+get in there and make it work for them
+we're going to talk about probabilities
+so Gary it was your idea to do this
+topic I love the topic and I I devoted a
+whole chapter to it in a recent book I
+published uh so I'm I'm pretty fresh in
+commentary regarding it but more
+specifically where did you want to take
+me on this so probabilities Neil um
+calcul risk gambling call it what you
+will we all do it uh stand on a wobbly
+chair eat that food in the fridge that's
+been there two weeks it's a gamble
+probabilities has its own branch of
+mathematics yeah and it's intertwined
+into so much of our everyday lives risk
+and assessment for insurance predicting
+extreme weather models uh which has been
+very very important in the last few
+weeks uh it's baked into Ai and
+especially
+that annoying predictive text program in
+my computer that tells me what I should
+be typing and I hate it for that only um
+it's probability that's used in
+cyberspace and uh we do without
+realizing have that baked in again and
+we'll get to that later on in the show
+when our guest uh Alex kosoy he's Chief
+security strategist at Bit Defender the
+Cyber Security Experts and we'll we'll
+open up what it's all about where it's
+going what it's likely to look like
+going forward and our approach to risk
+itself so having said that Neil let's
+let's find out more about what happens
+when a bunch of physicists turn up in
+Las
+Vegas well let me let me preface this by
+saying back in the
+1980s the my community of physicists the
+American physical Society the aps there
+have annual meetings and one of them was
+scheduled for San Diego uh San Diego
+especially of late is a big convention
+Town Comic Con you know the most famous
+of the world's comiccons takes place
+there the whole city sort of adjusts for
+it there's a convention center and
+everything anyhow the community of
+physicists had booked hotels and was
+ready and it turned out there was a
+snafu where the hotel reservations
+failed for some reason and I don't
+remember why so here's this convention
+That was supposed to happen and it can't
+happen so what do you do well the MGM
+Grand then the MGM Marina in Vegas say
+we'll take you we are the largest hotel
+in the country we can take you on short
+notice so the aps pivoted to Vegas
+pivoted and so that Year's convention
+was in Vegas where people give talks and
+their public talks and and professional
+talks and this sort of thing all right a
+lot of breakout rooms it's where we sort
+of reconnect especially in an era before
+there was much emailing going on it's a
+geek it's a geek Fest geekfest thank you
+physics geekfest well a week later there
+was a headline this is after the
+conference physicists in
+town lowest Casino take
+ever the American physical Society has
+been asked to never return to the city
+that's great and so you can ask well did
+the physicist sort of know the odds and
+play the odds no they just didn't didn't
+play because here it is it is the only
+activity where the people tell you we
+are legally cheating
+you now we just want you to know this
+when you come in the reason why we say
+good luck is because we already win
+and the great thing is CH when you start
+when you get a little bit of a run going
+if you that ever happens they see you
+and they bring you they bring you free
+drinks well I was going to
+say any place where that brings you free
+drinks there's a trap
+somewhere there's nobody that says hey
+just drink up all my liquor and uh yeah
+and that's all we're good no
+so no here's a cat
+cabinet like I have some I had a party
+where my best friend at the
+time opened up my cabinet and took out a
+bottle of the Mallen 30-year-old
+Scott right which I don't share with
+anybody okay and proceeded to pour off
+my Mallen to my other friends and I went
+around and picked up the glasses what
+the hell are you doing this you don't
+get to this this is so anybody giving
+you free liquor is a catch that's all
+there is to it so that lets you know
+what what Vegas is up to nice to know
+nice to know you've let that go Chuck
+yeah Chuck is still in therapy for many
+things many things that is that is one
+of them yeah so I I thought I'd look a
+little more deeply into this only to
+discover that if you look at various
+branches of mathematics yeah right of
+which there are many but let me list a
+few let's go in sort of historical order
+there's sort of geometry Geo geometry
+means Earth measurement by the way yeah
+from I guess that would be Greek
+geometry Earth measurement you have
+geometry you have
+arithmetic you have algebra which is the
+terrorist version of Mathematics
+Algebra I'm sorry I'm just move on let's
+keep
+moving jebra uh you uh we keep going you
+can get to calculus there's
+trigonometry yeah whole branches of math
+that we remember even if you're part of
+the walking wounded of those classes we
+remember these from perhaps as early as
+Middle School certainly high school if
+you sequence these do you realize all of
+those branches of math
+were discovered in vented before it
+occurred to anyone to take the average
+of numbers okay oh interesting I see
+what you're saying okay
+yes that's weird that is that's weird
+when you think about that so here are
+these numbers you add them together
+divide by the total somebody had to do
+that first okay that didn't happen until
+uh when when did I have late 18th
+century long after calculus Newton had
+calculus in the bag okay by the late
+1600s early 1700s calculus people and
+now someone later on says H let me sum
+these numbers together and divide and
+see if that means anything well that's
+early statistics right and there books
+as late as the
+1800s that believed these are official
+math books that described how you can
+influence the outcome of a certain set
+of probabilities because they believed
+that was the case because probability
+and statistics was not yet properly
+formulated as an authentic and Bonafide
+branch of mathematics right point is why
+is that so how is it that people we in
+our species can say we need
+calculus and there's no probability okay
+there must be some something absent in
+brain wiring yeah that prevents us from
+thinking natively in this space yeah
+it's it's it's called heuristic
+huous it's that's who we are because
+outcomes are what we want them to be not
+what the math says and we still do that
+we still do that we still do do that to
+this day are we not hardwired Neil to
+calculate risk as a survival mechanism
+well okay so if you speak with sort of
+evolutionary biologists
+uh they will frequently and I think
+without much um debate tell you that we
+do make certain assessments yeah for
+example if this will take us to an
+aspect of how the brain works but
+consider there's something that repeats
+multiple times and you learn that and it
+hurts you yeah then you say well let me
+not do that again so then you don't and
+then you avoid it so this is this is
+simple so this is the act of how
+repeated
+occurrences decide for you what the
+future is going to be all right and this
+this matters for survival my favorite
+survival fact is how we put order on
+things even if there's no order there
+that has extraordinary consequences
+exactly let's look at how it might have
+begun so we're in the serengetti and you
+don't want to get eaten by a lion and
+there's the grass you know the the grass
+is blowing in the breeze and you say to
+yourself I wonder if there's a lion
+there in fact I think there is let me go
+check yeah yeah right okay this will
+summarily remove sort of the Curiosity
+Gene
+in because because you don't you don't
+get to have children to be curious if it
+is a lion it is a lion you'll get to
+have curious children to the extent that
+curiosity is is inherited okay so it
+turns out we are better off thinking
+there's a lion in the grass right
+whether or not there is and then going
+in the opposite
+direction than not thinking there's a
+lion in the grass missing it and having
+it eat us but consider that we think
+there's a lion in the brush whether or
+not there is one and that's the genes
+that got protected okay okay so this is
+pattern recognition we will see patterns
+even if there isn't a pattern there we
+can put a set of random dots right and
+you say oh I see this and I see that you
+must have done that on purpose because I
+see it and your life experience
+overrides the mathematics of what just
+happened and or your life expectations
+or your life belief system overrides it
+the patent recognition NE is the
+probability that that will happen as you
+say from experience and we use this in
+sport a lot from from analyzing gameplay
+so let me bring this to the present we
+have this feature in our brain wiring to
+detect patterns even if they aren't
+there because that was in the interest
+of our survival we're not making those
+same decisions anymore about whether we
+might get eaten by a lion but that's
+still that that brain feature remains
+within us and we see patterns in
+everything and we think because we see a
+pattern that the pattern is real even we
+think the absence of patterns is a
+pattern you at a roulette table and I
+say why you keep betting on seven it's
+due
+it's and I said how do you know it's do
+because the roulette table shows you the
+previous 10 roles okay spins or the
+previous 20 and you you don't see a
+seven it's due no it's not D go take a
+freaking probability class yeah it's a
+it's not due the same way the Washington
+generals are not do to beat the Harlem
+glob trods yeah how about that they play
+the Washington generals I don't know
+what they're called now I don't know
+like 40 years
+ago so uh this this notion that because
+it hasn't happened recently it's bound
+to happen in your next bet
+is how casinos make money casinos exist
+to exploit these
+of the human brain wiring they exist for
+that purpose but it goes back to the
+point you had about magicians the
+casinos know more about how you think
+than you do yes and they manipulate that
+obviously and it's completely
+manipulated and like like Chuck said
+they tell you that going tell you
+straight up hey by the way we're going
+to cheat you today enjoy yourself by the
+way as a scientist we know how important
+probability is to separate your own bias
+on what is going on in the world from
+what is objectively going on in the
+world so every year I was in school we
+had some element of probability and
+statistics taught related to the aspect
+of the of the sciences that we were
+addressing so I would say all told I
+might have had eight years of
+probability in statistics yet if you
+look in a school curriculum it's not
+there at all no at all now will you
+grant me one conspiracy theory go ahead
+depends which one it is no see Chuck
+Believes In Me he just says go out go
+ahead go for it if he doesn't like it
+he's going to slam you down but never
+mind okay here it is you know the state
+lottery systems yeah Lottery uh do you
+know how they get funding for that and
+what they you know there's tax levied on
+that do you know where that money goes
+to typically well they tell you that
+it's for education education let's
+assume that's true let's even assume
+that's true so it's for education and I
+said oh that's it public education you
+know K through 12 and then I looked at
+the curricula across the country of what
+is taught and probability if it's taught
+at all is only an elective it's not a
+fundamental part of the math
+curriculum and so it occurred to me that
+as long as they don't teach probability
+in school you are susceptible to playing
+the lottery which funds the school which
+funds the school yeah paying for your
+education probability it could be the
+end of the state lottery system well
+yeah because anybody who knows something
+about probability does not play the
+lottery as a matter of fact
+uh my father used to tell me uh take a
+dollar a day the dollar you would play
+the lottery start right now and just
+take that everyday dollar and put it in
+the bank and through compound interest
+uh it will take 20 years but you will
+hit the
+Lottery that's good yeah people trying
+to assess their health or their Security
+based on risk risk factors and I I think
+in the book I there are people who smoke
+knowing that there's a risk of cancer
+yeah and I think if you're an active
+smoker there's a one in eight chance
+that your Tombstone will say died of
+lung cancer and so then I thought let me
+glorify that up a bit
+and say okay uh instead of you just
+taking that risk let's do it this way
+today everyone who lights up a
+cigarette one in eight of them on that
+first puff their head will explode and
+they'll fall over in a pile of Blood on
+the on the pavement and if that is not
+you you get to smoke for the rest of
+your life without cancer would you take
+that risk well what brand of cigarettes
+are we talking the exploding kind the
+exploding
+kind so so what I tried to do in the
+book was rejigger the risk into
+something that might be a little more
+tangible a little more devastating for
+you to hear even if the numerics remain
+the same just to try to get at the fact
+that a brain is not wired for this to
+happen so yeah Gary it's uh it's sad
+even I drive by casinos and it's like
+man uh I'm sad for our brain wiring and
+for the education system that doesn't
+address that fact you drive past the
+casino Neil how often is the car park
+full full all the time yeah all the time
+yeah it's why you got to be an
+especially bad business person to lose
+money if you own a
+casino or in a movie where George Cy
+turns up with some
+friends otions 111 12 and 13 14 15 20
+whatever they're up to now so Neil if I
+mean we're programmed we're hardwired
+but how do we get here what's the
+probability of actually us existing
+being alive being born now do you mean
+like having a Mother Like Mine and
+making it to adulthood or do you mean
+like being conceived at all well let's
+let's start with conception oh okay and
+then move through the through the
+laundry list obviously humans have no
+trouble making More Humans right 8
+billion in the world will put an ASM
+toote probably to 10 billion in the
+coming decades so having a a person of
+any kind is not the issue here we can
+ask the question what are the chances of
+you specifically you Gary O'Reilly
+having been born yeah and so we look at
+your your genetic code and a way to
+address that is how many possible
+configurations of that genetic code
+exist wow and you're the one that's you
+yes okay so you can do that now you know
+there's lots of ways that they arrange
+and many of them you it makes a human
+but it's not entirely viable where you
+have like three arms and two heads or
+whatever so if you remove all the ones
+that create oddly different but still
+living humans okay and so we talk about
+what we call a normal human the
+different ways you can estimate
+this but we think it's one in a
+billion
+trillion
+trillion that's not even a
+number what you just said does it's not
+even a number that's what a kid says
+right a million a billion million
+trillion that's
+[Laughter]
+but but there's a lot of configurations
+point is the total number of humans who
+have ever been born that you can
+estimate that is about a 100 billion
+okay just that's a round number but
+that's about what it is so you can ask
+if a 100 billion humans have ever been
+born yet we have the capacity to make a
+billion trillion trillion humans a
+vanishingly small fraction of all humans
+who could ever exist have ever been born
+right interesting so what are the
+chances of you showing up once again in
+this genetic code the answer is
+never it's never yeah okay because of
+how much larger the total number of
+possibilities are compared to anything
+we will ever create on this
+Earth so you are
+alive you Gary or
+yeah are alive against stupendous
+odds and I take the posture in the book
+that because of
+this life should be cherished agreed and
+by the way even if you did show up again
+in the genetic code there's no reason to
+think it would be you no it would look
+exactly like you but we've done these
+experiments they're call twins we have
+identical DNA and you're not the same
+person you have independent thoughts
+okay you even have different finger
+prints turns out uh so the Clone
+experiment doesn't require a machine to
+wonder how that's going to turn out
+people said we shouldn't have clone
+machines because we'll clone people for
+their organs and I'm thinking do we do
+that with twins today do we do we
+purposefully have twins to take out
+their org no why would we behave any
+differently with a cloning machine than
+we do in the presence of twins that
+already Walk Among Us point is you're
+never going to get another Gary right
+and so armed with that information that
+Cosmic that scientifically informed
+Cosmic perspective we should treat life
+as the most cherished thing on earth and
+not enough people do leading to all
+manner of misery and bloodshed and War
+and in this world and I wonder if people
+really knew the statistics of this if we
+treat each other more kindly and more
+considerately than we do depends on how
+much you like war and blood shed you
+know oh some people some people are into
+that you know not in their own Bloodshed
+that's no that's the point yeah exact
+it's so funny you're such a scientist
+because you actually went at that from
+the DNA configuration uh perspective
+which I find fascinating because I
+thought about this like I think
+everybody thinks like you know could
+there ever be another me or how many
+like like what did it take for me to get
+here and I looked up the average number
+of viable sperm in an ejaculate which is
+somewhere around 200 million yeah yeah
+half a billion typically some somewhere
+around there or it could be yeah
+somewhere and that means that for just
+me and that one
+batch you're one in 200 million that
+alone gives you an idea of just how hard
+it is uh for a human being to come to
+existence right and that's another
+another angle that probability takes you
+into yeah the Rarity of who you are as
+an individual wow yeah so yeah I I don't
+Gary did I hit all the points you you
+were looking for yeah I mean we the
+thing is if we if we go and do every
+single one we are going to be here for
+another day right so Gary where else are
+we going to take this all right so we
+look at our our everyday lives and
+without realizing it we are calculating
+as we've discussed and it's kind of like
+baked into a number of things we are
+living Our Lives on online some people
+conduct a whole part of their life
+online they'll have maybe a dozen 10 or
+so online accounts which they manage
+which means passwords which means
+protection which means security all
+those things and the probability of all
+the bad stuff probability of it being
+okay so I think what we need to do is
+speak to someone who's really at that
+Cutting Edge of cyber security and for
+that we have our dear friends at Bit
+Defender the cyber Security Experts and
+we have Alex kosoy I do believe that's
+how you pronounce it if got it wrong
+I'll Stand in a corner um he is their
+Chief security strategist so this this
+guy is a guy who doesn't just try and
+look after things he will go after botn
+Nets with Euro or interpole and bring
+them down they're on a a large scale
+level as well as the personal level so
+there's a whole different range of how
+they operate which I think could be very
+fascinating and add another facet to how
+probabilities are entwined into our
+lives yeah because lately when I choose
+a password it tries to tell me whether
+it's a good password or a bad password
+and presumably there's some risk factor
+calculated to assess that otherwise why
+would it know anything at all like one
+two three four is a bad
+password I mean there there's
+information that you have right that in
+the public domain for your birthday
+maybe the probability of something bad
+happening is greater so we need to speak
+to that expert and Neil here is Alex
+Alex hey welcome to Star Talk hi Neil hi
+guys thank you you have the bad assest
+title of anybody ever it's nobody just
+made
+up Chief give me the title again Chief
+what chief security strategist Chief
+security strategist we should salute
+shouldn't
+we so Alex let me start with a couple of
+questions here the word risk is related
+to probability and statistics people
+think they understand risk generally
+they don't or they what they do
+understand is not the full story
+typically but they're making decisions
+about their lives about their health
+their wealth and their Security based on
+their understanding of risk so Alex in
+what way does the probability of a Cyber
+attack fold into your decisions and your
+job yeah this is uh as you were talking
+earlier because I've been listening the
+the probability of somebody being
+attacked uh I I would say it's biased uh
+from my perspectives is
+100% everybody will be hacked or
+attacked or scammed scammed at one point
+or another
+but we also did a a study a few years
+back and all the respondents in total
+like 76% of them said I don't think
+somebody will Target me I don't have
+enough money why would I be of any
+interest super false that's not how
+things are going in the cyber crime
+industry they're practically attacking
+everybody and it's probability and
+present of who actually says and accepts
+that link and clicks on button and does
+the next step so I'm pretty sure Gary
+Neil Chuck you've been targeted by a
+scam at least once in the past two years
+I put
+$10,000 on that okay yeah of course can
+I have that $10,000 I've actually
+targeted people in scams
+myself but the thing is there's a
+sophistication to the scam because if if
+someone comes in and this has happened
+to me they take a very small amount to
+begin with and if you don't notice it
+and let it skip through your bank
+statement they come back in and go grab
+no there's a there's a there's an uper
+to that so they tell you you can invest
+in this particular business you put like
+you know $10 and you receive in return
+$50 and then they tell you if you put
+more you'll get more so you put 10 grand
+nothing comes back how about that wow
+okay so it's it's a con
+game it's not just a a Cyber attack all
+in cyber there's somebody has to
+communicate with you correct gain your
+confidence and then so this just another
+con game then it's a shell game you know
+you're moving those shows around there's
+a whatever the stone underneath it is it
+is but all these things happen now in
+the cyber world so about WhatsApp
+telegram Instagram Facebook things that
+you actually uh use every day and these
+platforms are actually challenging you
+into spending more and more hours in
+front of them so when scammer shows up
+in your platform you you already believe
+that this has already been vouched it
+has been like a checked if it's safe or
+not so you already have like a 50% bias
+to to do it right to fall for it so our
+familiarity with with these platforms
+with our time spent on on a screen that
+familiarity breeds the complacency is
+that what you're saying I'm sorry guys I
+hate to interrupt but as you can see I
+got to answer this call it's potential
+spam
+so how about so you know that's it's
+just coming in right now so you know
+that clearly that's a scam of somebody
+trying to get something from me yeah the
+idea is that when you received like an
+anonymous call from a number you don't
+know or an email from somebody you don't
+really know you're like yes probably a
+scam I'm going to ignore it like you
+have your phone with potential scam but
+when you receive these ads dur directly
+to a platform that you trust you've been
+using it for years the chances of you uh
+being biased and inore Neil as you're
+saying the probability of being scammed
+you you pass the bias are so much higher
+like oh so I received this ad on
+Instagram to buy a ticket to um some
+concert okay maybe Taylor Swift because
+it's super in the news right now and
+it's so so much cheaper than the actual
+prices and it's on this Instagram or
+Facebook or whatever you'll buy it
+oh wow and if you read the news it's
+about at least a million or more on
+every concert million dollars yep on
+every concert for country for Country
+Concert yeah that's a very good business
+y see now a lot of bands a lot of bands
+use one particular Outlet here we all
+spend our times doing phds and
+research so can I ask what why why do
+they want your emails like I get a lot
+of emails from I I just delete them
+because there's either nothing in the
+body or it's a link and I'm like okay
+everybody who knows me knows I'm not
+opening any links so I just I just
+delete it why would you want to get my
+email list what you hear people say oh I
+got hacked don't you know my email list
+got hacked what is the value in an email
+list okay so if I get a single email
+address okay I can search known
+databases or passwords associated with
+that email address oh my God attct
+companies or other leaked databases okay
+so I have your email address and now I
+have a list of passwords that you use on
+different websites oh what I can go
+further anyone else scared right
+now with those passwords dude you're
+freaking us Alex you're freaking us out
+oh my God Alex this is terrible shut up
+now I don't want to hear anything more
+from you I'd rather live in my
+Blissful if you want you can give me
+your email addresses and I can do the
+search for you you'll be no no no no no
+no you can't You' already said trust me
+right now you want my email address he
+Trust so wait a minute first they get
+your email then they get the passwords
+and what else can they do I mean what's
+the next step well there are many steps
+later on because I can uh see if these
+passwords are still working so getting
+into your various accounts I can also
+see if you have the same password to a
+different email address that I don't
+know about like your business email or
+your Yahoo email that you US 10 years
+ago and you didn't change a password and
+I can see all your previous girlfriend
+from when you are
+17s how about that there are so many
+possibilities if you work in a company
+and uh email and passwords works I can
+use those to connect to your I don't
+know VPN account launch your ransomware
+attack make some billions out of it okay
+mental note change all email passwords
+every password I must change change it
+every day every day yeah we see hacks we
+see data leaks and
+breaches and it seems to be one a week
+almost um and I know you do these you
+fight these these Bad actors daily and
+thank God the people like you are out
+there but are we not now kind of
+desensitized and people are to the point
+where it's going to happen so what the
+hell have we lost that sensitivity to
+the impact that this could make uh yes
+but not with the right mindset for this
+conclusion because yes there are news of
+cyber attacks literally every day so
+when I wake up and read the news at
+least one hack per day right so people
+are reading this and they're like y y y
+not going to happen to me that's
+unfortunately the the bias and the
+conclusion of having being Des sensitiv
+by this news and when it happens and
+I've been talking to hundreds of victims
+they're like I had no idea this is going
+to happen to me you know I just came up
+with an idea that I'm sure somebody else
+has had to have but why is isn't there a
+service where I
+subscribe I have a master password but
+then that service changes my password on
+a daily basis and all I need to do is
+have the one password to get into them
+yes these Services exist they don't
+change your password every day because
+you don't have to do that okay it's
+recommended to change your password I
+would say maybe every three months the
+password that you use on these accounts
+but these password managers this is how
+they're called they will do what so when
+you subcribe to a service you don't have
+to think about okay what password should
+I use should it be long short numbers
+you so these are going to suggest a
+password they're going to save it for
+you you don't even need to know it and
+every time you need to log into that
+service the password manager will fill
+in the password for you and some of the
+browsers already have this functionality
+built in so that's fine there are other
+uh dedicated software that they're going
+to keep this passwords list super
+protected with super encryption but yes
+the idea is that you remember one single
+master password and everything else is
+being taken care of because for us every
+you know regular people let's be honest
+okay so now in 2024 we might have an
+education of this but I bet you we have
+accounts that have been created in 2010
+we stopped using them in 2012 they're
+still active the passwords are still for
+I don't know 1 2 3 4 for instance and
+there and there is information in there
+that can still cause us trouble if it
+goes out oh I I've got a different angle
+here if password hacking occurs because
+someone gets access to a
+file of previous passwords then they're
+not actually decoding your password no
+they're not actually figuring out your
+password from scratch correct so why is
+there any difference at all between a
+simple password and a complex password
+if they're not decoding your password
+for its complexity that is correct and
+that's the other reason why you should
+have a complex password because there
+are different ways into uh finding out a
+person's password for a particular
+account one of them would be you know
+just brute forcing trying all the
+passwords another Techni could be
+password spraying which means trying the
+most common passwords on a particular
+account that are known to be used by by
+people and in many cases this actually
+function because uh for particular
+languages statistically people use
+similar passwords test4 that's quite
+similar from one to nine that's quite
+similar I know in 2024 sounds stupid
+even nowadays we find these passwords in
+reality my password is password don't
+never figured that one out yeah yeah
+yeah somebody like from like a military
+uh like a highend grade in the military
+saying that I had a very simple password
+because I thought they will never try
+that out considering my job title it was
+a so do you run algorithms based on the
+probability of a certain set of
+characters yeah what you have a language
+is that right uh not necessarily the
+probability said it's languages but also
+but by by words in that particular
+language and also there are billions or
+hundreds of billions of passwords that
+already are in the public space or in
+the public domain from previous hacks so
+you can make a statistics on that you
+can say hey 20% of the people use this
+password let's try that on first wow and
+chances are to work huh we know
+probability criminals know probability
+so they will do their math first damn
+wow you want to talk about using math
+for terrible purposes you can use it for
+many things you know that joke with a a
+very important mathematician that
+received the Nobel Prize and he had to
+fly to get it and he was so afraid to
+fly because he thought somebody would be
+with a bomb in the plane and he want to
+reach the destination but eventually at
+the event he shows up everybody knew
+about his his fear so they asked him
+like Hey we knew your fear about you
+know a bomb exploding so why are you
+here how did you come like well I took a
+bomb with me what were the odds of two
+bombs being in the same
+place well you that joke problem you
+know how old that joke is it's older
+than TSA right because yeah exactly
+before they checked for
+bomb so Alex um we're in October 2024
+right now but last month there was the
+National Institute of standards and
+Technology that's the US National
+Institute yeah that stated and this was
+an article that was written in Forbes
+but complicated passwords can make you
+less safe yes now we're talking about
+how to make complicated different
+characters and different cases and
+numbers and all sorts of things but why
+why now complication is an issue because
+that otherwise it's password one two3
+yeah there are two ways of defining a
+complicated passwords and one of the way
+is actually okay the other way is not
+really that okay so by complicating a
+password by making it longer with Alpha
+Characters numbers and everything else
+that's going to make it that's going to
+make the password super hard to remember
+so unless you're using a password
+manager it means that you're going to
+have to write it down and so on which
+basically sets you in the mindset of you
+know just giving up just giving up
+putting the same password because it
+took you so long to create it or just
+triam them down to make it easier for
+you however you can make long passwords
+without doing all these characters
+unless the the website was or the
+service forces you to by having a
+passphrase I went to the moon and back
+in a car that's pretty safe okay or even
+long phrase something that's easier to
+remember but I think NS and also our
+recommendation is to use a password
+manager that's going to make your life a
+whole easier and also use a
+multiactor identification or two- Factor
+identification so besides the password
+you can use something else or even
+eliminate the password at all you can
+you can use all these things you're
+going to have a better piece of Mind by
+that yeah in fact I have a couple of
+websites that don't use passwords ex
+send it's two Factor authentication and
+don't you love going to those websites
+yes it's it's a it's it's beautiful it's
+okay so Neil has quite a distinctive
+voice and he's in the public domain
+are we now at the point where we no
+longer use voice recognition as the
+password that was like in style for like
+six months a couple of years ago right
+we out of that phase because there's
+just too much AI come along to to
+replicate yeah I don't think voice
+recognition can be still considered a a
+way of authentication and even face
+recognition that's not going to work uh
+any longer I was in a meeting with uh
+with some of my colleagues and one of
+them was in vacation but he was showing
+up in the meeting on Zoom it was the
+fake AI somebody was playing a joke
+which was uh very nice because uh he
+seemed a bit younger he probably had
+photos from a previous training but that
+was it was scary for us because we know
+the the possibilities but it was very
+nice to have wait wait wait wa wait you
+just said you had a business meeting and
+someone duped you into thinking an AI
+version of an attendee yes but it was a
+colleag it was a colleag however there
+is yeah yeah yeah it was on purpose we
+knew what's going on we were just
+analyzing it and I was like oh this is
+so cool he looks so close by but I
+remember reading an article uh quite
+last week about a scam in China where
+somebody paid $55 million because he was
+in a zoom meeting with uh I don't know
+13 or 14 other people from the
+organization his manager CEO CFO
+everybody was saying it's safe he did it
+he was the only real person in there
+everybody wasse was deep fake oh my God
+Bond villain Badness that's the level
+we're talking that is yeah I have a a
+question and plus we got to sort of
+think of Landing this plane in the old
+days a computer
+virus was really just Mischief people
+just trying to
+see if they could harass you in one way
+or another there wasn't much Financial
+motive behind it correct and so it was a
+nuisance now this kind of hacking always
+seems to have a financial
+objective what is the
+total money earned by Bad actors so I
+would say a total would be what a total
+last year was $1.5 trillion dollar what
+there's a t in there oh we're talking
+about ransomware and other scamps but
+these numbers vary I mean if last year
+was 1.5 this year can easily go to two
+or three trillion dollars we're talking
+about scams to Target consumers right I
+mean that's that's a national debt for
+some countries yes or great like I said
+these are just money that are earned by
+cyber criminals these are not money that
+counting your financial loss as a victim
+you're a company when you pay that's one
+number but you also have a loss in you
+have a loss of productivity you have a
+loss of you know yeah so I God I can't
+believe I've been telling my son that he
+should continue to study to be a
+biochemist what the heck he's in the
+wrong business he's in the wrong
+business but I got one other thing I
+have to like just get clear in my head
+so that means in your
+business you're worth $1.5 trillion
+dollar to this world if you can prevent
+that from happen prevent it right okay
+that's fact one fact two they would
+protect everybody which is not the case
+okay but here's my thing if someone
+retains you to protect their
+organization then they're putting all
+their trust in you so maybe the
+organization won't get hacked but
+suppose you get hacked you're a single
+point failure of that entire system CU
+we're all trusting you in this one what
+do you call bottleneck y of of trust yes
+that is called supply chain attack so
+basically when you're targeting a
+customer you can actually Target all the
+software that they use in their
+organization so we have a if if we have
+a vulnerability that's going to affect
+most of our customers yes that is a
+correct statement so now why aren't you
+just uh why are you a good guy
+well you become Dr Evil what what the
+heck is your problem yes we get that uh
+we get that questions a lot you know we
+can make a lot more money on the dark
+side but then again how will you sleep
+at night on a very expensive mattress
+that's how that is correct because I'm
+part of a trillion doll industry that I
+created so Alex your Chief security
+strategist yes how much of your strategy
+is oh this is a supply chain
+we have to get ahead of a story how many
+stories are you getting ahead of rather
+than putting out fires oh good point
+interesting uh I think it's a equal
+amount uh I would say because yes there
+are some situations that you can
+actually uh prevent because you thought
+about it you knew that would happen and
+you make some plan but then by working
+with your customers and victims and
+having a lot of conversations with law
+enforcement they're going to come up
+with stories that you were like whoa I'm
+an engineer I never thought of that scam
+so you start to figure out you know what
+can you build from a technological point
+of view to prevent that so I would say
+it's a it's a fair equal amount so you
+know what I think we would be remissed
+if we didn't leave our viewers and
+listeners having you at our disposal at
+least one or two of the top things they
+should do to protect themselves from a
+cyber security incident so we were
+discussing about passwords so that would
+be like the main thing get the password
+manager uh make him take care of your
+passwords and try to remember all those
+accounts that I'm pretty sure are
+connected to your present accounts but
+you no longer use them they're still
+active they're still there they can
+still back hacked if they're not already
+right and second uh still for consumers
+minimize your footprint or Internet
+footprint don't post stupid stuff okay
+now you tell me
+I'm pretty happy I'm a dinosaur 41 years
+so I don't have online all the stupid
+I did oh don't post stupid things
+that you did exactly oh I got it no no
+no I don't do that okay and for for
+Enterprises there's a wide range of uh
+tips and tricks but the idea is that
+since ransomware is the number one
+threat right now make sure you have
+backups and make sure you have systems
+that are going to log things that happen
+in your organization so when we come in
+and say let's see how you were hacked if
+you have vogs we're going to tell you
+how if you don't we're going to say Well
+it
+happen wow wow all right well those are
+lessons for the ages really yeah
+actually for the current
+age months they're lessons for the next
+couple of years yeah maybe even that
+maybe even that so Alex great having you
+on Star Talk special edition on a topic
+that we all care about Gary thanks for
+putting that together my pleasure thank
+you Alex good all right and Chuck thanks
+for doing
+nothing someone hug
+chuck chuck thanks for showing up
+okay this is Neil degrass Tyson your
+personal astrophysicist as always I bid
+you to keep looking up
+[Music]

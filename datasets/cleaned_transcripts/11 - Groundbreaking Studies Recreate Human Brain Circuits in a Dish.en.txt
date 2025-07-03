@@ -1,0 +1,1762 @@
+You got a word here, assemblids. Yes,
+that sounds like somebody just made that
+up. Once we figure out how to make some
+of this brain region, putting them
+together essentially was unleashing like
+new forces of self-organization, which
+is really what the brain does. I mean,
+the brain builds itself at the end of
+the day. Very often when we do this
+experiments in the dish, you better know
+like the instructions and provide them
+at the right time. You don't start
+building a new house until you really
+have a very clear plan and the tools. In
+biology actually, you know, cells come
+with the instructions. That's why we
+call this process selforganization. So
+if you were around in Frankenstein's
+day, Frankenstein would could have just
+been a regular Joe. Yeah. On the street,
+he been like, "Hey, what's going on?"
+[Music]
+This is Star Talk. Neil deGrasse Tyson,
+your personal astrophysicist. And today
+it's going to be special edition, which
+means we got Gary O'Reilly. Gary Neil.
+All right, man. Yeah. Always good to
+have you. Pleasure is mine. Very good.
+and Chucky baby. Hey babe. All right.
+Not good to have me I guess. Okay. Okay.
+Good to have you
+Gary. Always good to have you. And and
+Chuck. Yeah.
+So you got a word here. Assemblids. Yes.
+That sounds like somebody just made that
+up. Just assembled it. Yeah.
+Assembloids. Well, this is a show on
+assemblids. What can you tell us about
+it? All right. Not that long ago, we did
+a show on synthetic biological
+intelligence or if you prefer organoid
+intelligence. Organoid. Yes, I remember
+right now. And those are if I remember
+like 3D cultures to build brain-like
+structures for bio computing, right? So
+that's what that was being used for for
+our future overlords.
+All right. So this was putting biology
+onto technology. This is something
+different. However, it's based around
+the organo intellig. But this now
+becomes organoids assembling together.
+Oh, now that then selforganizing
+organizing organoid. So, our guest
+today. All right. Well, we just Okay,
+we're getting into it, baby. And what
+could go wrong?
+Let's not do that question just yet.
+I'll save that for the end. Okay, go. So
+our guest today had the great idea of
+trying to get these organoids to work
+together and coined the phrase
+assemblid. So assembloids is down to our
+guest work. Now these assemblids can
+help us uncover the biological mysteries
+of our own minds. Mhm. So are we just
+clumps of cells in the big petri dish we
+can call life? Yes. I think sometimes
+speak for yourself. Sometimes it can
+feel like that. So um let's find our
+guest. You say in the petri dish of
+life. Yes. That was beautiful. Was
+You're welcome. I'm just reading it. And
+um
+so let's let's see what mysteries have
+been sold. What mysteries are still out
+there and our guest now. So uh drop in
+on our guest. Yes, please. So we have
+Sergio Pasca. Sergio, welcome to Star
+Talk. So it's great to be here. Thank
+you so much for having me. Yeah. So
+you're a neuroscientist on Star Talk
+special edition. We love neuroscientists
+because that there's a serious future
+opening up right before our eyes. Yes,
+it is in plain in plain sight. A fresh
+frontier. Fresh frontier. Uh a stem cell
+biologist. Stem cells have been pretty
+much in the news on and off the past
+couple of decades. A professor of
+psychiatry and behavioral sciences at uh
+Stanford. When I think about this,
+however, I think of a psychiatrist or
+behavioral scientist. They're just
+putting someone in a couch or observing
+their behavior. This sounds way more
+invasive than what it is you're doing.
+This sounds very puppeteerish.
+Exactly. And you also been teding.
+That's good. So, we can dig you up in
+the TED archives. Correct. Yeah.
+Excellent. And and here in 2023, you
+made a knight of the Order of Merit of
+Romania. Oo. All right. So let's get
+back to basics here and put us all on
+the same page with what an organoid is.
+So an organoid is a clump of cells that
+is cultured in a dish in a
+three-dimensional structure and the name
+actually organoid which is organike is
+supposed to suggest that it resembles an
+organ. So it's similar in some function.
+Of course, it's not a replica of an
+organ, but is supposed to model features
+of an organ.
+A scaffold of an organ. Well, I guess
+like parts of an organ or like parts of
+the function of an organ. So, for
+instance, for the brain, it's not really
+a brain in miniature. It's not the
+entire organ in miniature, but it would
+be like parts or aspects of the brain uh
+that are being modeled. And by the way,
+asteroids, they show up as stars on a on
+a in a photo because they're so tiny,
+right? But they're not stars. So that
+they're asteroids. Little star. Exactly.
+So it's organike, I guess. Let's say you
+like starlike. Mhm. Oh, wait. Oh, so
+those are organoids. Yes. All right. And
+so now, so now you organize them in some
+way or do they self-organize? You give
+them instructions that they follow.
+Well, I guess all of this work to be
+honest like started with the ability to
+actually even grow stem cells in a dish.
+If you were to like step back and think
+like how this all came together, you
+know, stem cells as you know generally
+are derived, you know, from an embryo,
+right? Uh and that has been certainly
+like very difficult uh to do studies.
+Then about it was certainly politically
+fraught with issues related to the
+ethics of using human human embryos and
+and that was a big issue until you guys
+figured out or your people figured out
+how to create stem cells without regular
+cells out of regular cells. So this is
+so that happened 20 years ago almost 20
+years ago 19 years ago uh when a
+Japanese scientist Shina Yamanaka made
+this like breakthrough discovery where
+he actually showed that you could
+actually turn any cell that we have in
+our body that is already differentiated
+so like back in time to look like those
+embryionic stem cells and so almost like
+a you know sort of like cellular alchemy
+so to speak right because it was like we
+always thought that it's a one-way treat
+uh development is a one-way street. You
+never sort like go back. Just so we're
+on the same page, stem cells, while it's
+always in the news, just as a reminder
+to the non-biologist, it is a kind of
+cell that you under the right conditions
+can turn into any other cell of the
+human body. Is that correct? Exactly.
+Yeah. Nerve cells, muscle cells. Yeah.
+And and that's why they're prevalent in
+the embryo because the embryo is
+manufacturing the the all the cells,
+right? Okay. Got stem cells have have
+two properties. They can turn into any
+other cells and they can renew
+themselves. So they can stay as stem
+cells for a very long time. And of
+course there are multiple levels of stem
+cells. The first ones are the ones that
+are the most powerful. They can turn to
+everything. And then as you progress in
+development, they become more and more
+restricted in what they can do. But the
+ones that are real in the beginning uh
+are you know the ones that you would
+like to have so that you can ultimately
+guide them to become different other
+cells and tissues in in the body. Wait,
+so you put them in a time machine? Is
+that that box that's sitting behind you?
+You say that but how how is that
+possible? How how are you able to take a
+brain cell that you've cultured and dial
+it back to a stem cell and then bring it
+into whichever area you need to bring it
+to. So it was is really a brilliant idea
+uh that build on work that was done
+before and uh essentially the experiment
+was like very simply done. He just
+looked at the main genes that are
+expressed in the stem cells and then he
+said let's see which ones are really
+important. So he took them and he put
+them in a actually in the skin cell.
+Took a skin cell and starting putting
+various combinations of those genes that
+are very strongly present in those stem
+cells. And through this
+combinatorial you know experiment he
+found out four that if you put at the
+same time you know pretty much you know
+confuse the cell so to speak and the
+cell becomes reprogrammed. That's why we
+call it cell reprogramming because the
+cell is really reprogrammed to that
+state and it turns out that they have
+all the properties of those embryionic
+stem cells but you can make them from
+anybody in a non-invasive way and of
+course you can store them you can ship
+them to others and so that was really a
+breakthrough for the field because that
+opened up the possibility for the first
+time that you could get stem cells from
+anybody from any patient and then start
+to study it. uh in addition I was
+finishing my clinical training around
+that time and really to a large extent
+like dropped everything because my uh
+expertise I'm a physician by training my
+expertise is actually autism spectrum
+disorders and neurodedevelopmental
+conditions and I was like incredibly
+frustrated by the lack of models to
+study this disease we you know there are
+animal models but you know what is an
+animal model of autism right I mean that
+has been so like a a challenging aspect
+we can't really access the human brain
+right I mean that is sort of like the,
+you know, this curse, this unbearable
+inaccessibility of the human brain. I
+mean, it's behind the skull and unlike
+any other organ, you can't just like go
+there, get a biopsy and study it. So, we
+were sort of like blocked, so to speak,
+locked into this state where we couldn't
+really make progress. And uh yeah, so
+about, you know, 16 17 years ago, I I
+came to Stanford meme by the like
+potential of this uh stem cells that we
+can make, which we called induced plur
+potent stem cells.
+and then started thinking could we
+actually turn them into neurons from
+patients and then study whatever defects
+are characteristic of that disease but
+outside of the human body and that's
+really what enabled uh you know all of
+this and initially so that blew open the
+whole field at that point well exactly
+it open the whole field and you know in
+the beginning just to make it clear it
+was you know I mean I got all the grants
+and all the fellowships rejected all the
+time as this being absolutely insane you
+know like how can you actually like make
+neurons in a dish and then even expect
+to find something from a disease that is
+so mysterious, right? Think about I mean
+autism is a complex disease of social
+behavior. What are you going to see
+actually in a dish?
+So I mean we'll get back probably to
+this conversation but it was actually
+key for us to focus on a disease where
+we actually like knew what to expect
+sort of like to calibrate and that sort
+of like started that uh you know this
+entire journey and in the beginning most
+of these experiments were very simple
+you know you would take the stem cells
+from patients uh that we derive in a
+dish and then kind like spike in various
+molecules in a dish uh so like guide
+them to try to become neurons and those
+differentiation experiments were like uh
+easy but then About 10 years ago, it
+became clear that we're going to need
+more of the three-dimensional aspect of
+development to really capture even more
+complex features of the brain. And
+that's how some of these 3D cultures
+which are now known as organoids appear
+first. So, if the neurons are
+self-organizing, a how do they know that
+they're self-organizing? And how do they
+know where to go and be organized?
+That's a very good question. And you
+know I mean self-organization is is a
+remarkable force of nature and biology
+right then and very often when we do
+this experiments in a dish to be honest
+for for very long time I was so like
+thinking like an engineer in the sense
+that oh if you want to build something
+in a dish let's say a circuit you know
+you better so like know the blueprint
+you better know like the instructions
+and provide them at the right time and
+so you don't start building a new house
+until you really have a very clear plan
+and the tools but what we realize with
+time is that in Biology actually you
+know cells come with the instructions
+you know so once you make a specific
+cell actually comes with the instruction
+and then by connecting let's say to
+another cell it reveals another set of
+instructions right and another one and
+another one and that's why we call this
+process self-organization so which
+really is the formation of order
+structured from you know relatively
+homogeneous elements which which by the
+way like talking of physics and
+chemistry this was known from the 19th
+century I mean There are classic
+experiments that show you know that
+molecules organize quite beautifully.
+You know the riot Bernard convection I
+guess is the classic example but biology
+just brings it to the next level and now
+organizes cells pretty much on their
+own. So what you're doing is you're
+bringing these together in this culture
+this 3D culture where the message and
+directions are already resonant inside
+of the cell. So when you put them
+together or group them, they basically
+do what they were going to do anyway.
+Exactly. Okay. With with uh with one
+detail, which is we have to make the
+parts, right? If you don't have the
+right parts, then of course they won't
+know what to do. What to do. Actually,
+what we spend a lot of time generally is
+making the parts. And let's think about
+the human brain. I mean, the reason why
+the human brain is remarkable is because
+it has all these parts which are very
+different. You know unlike let's say the
+liver the liver is relatively
+homogeneous right a few cell types kind
+like any part is like any other you look
+at the brain and now you have thousands
+of cell types I mean the recent
+estimates you know said that there are
+probably 2,000 cell types just in the
+human brain right scattered through all
+these nuclei and regions and the
+remarkable abilities of the brain really
+result from the cells interacting with
+each other so in the early days like you
+know 15 years ago we were making just a
+few cells like a few spinal cord neuron
+cells or maybe a few cortical neurons,
+but then we've never really leveraged
+the ability of the cells to connect with
+each other. And so that's where
+essentially assemblids came where once
+we figure out how to make some of the
+cell types, some of these brain regions,
+putting them together essentially, you
+know, was unleashing like new forces of
+self-organization, which is really what
+the brain does. I mean, the brain builds
+itself at the end of the day, you know,
+if you think about it, right? And and
+and it reorganizes itself. Like if you
+damage a part of your brain, it will
+reorganize itself so that that function
+might be taken up someplace else. At
+least early in development. Yes. Early
+in development, it will do so. And then
+the more you progress, the the you know,
+the the less you can the less that
+happens, right? What if you leave your
+cultured brain cells in the dish for 9
+months, a year, what happens to them
+then? Do they just take care of business
+on their own or do they just fade away?
+something crawls out of the petri dish.
+There you go. You have the smartest dish
+in the world. It'll chase you down the
+corridor. Get that fork away from me.
+But that was something actually, you
+know, really fascinating. We discovered
+like, you know, almost 10 years ago. So
+at one point we were, you know, my lab
+was still like in the early days and at
+one point, you know, we realized that
+well, I mean, it's very expensive
+experiment. you have to keep feeding the
+cells. And I was running out of money in
+the lab. And so I told everybody in the
+lab, I said, "You better go in your
+incubators and like make sure that
+you're not maintaining cultures that we
+don't need. We need to focus. We need to
+save money." And then somebody in the
+lab comes and says, "Oh, should I also
+like remove the ones that are like 300
+days old?" I was like, "What do you mean
+like 300 days old?" It's like, yeah, I
+mean, you know, we you know, I I knew
+that we were keeping them for very long
+periods of time, but I had no idea that
+we could keep them for such a long
+period of time. And it turns out that
+once you make this cluster of cells and
+you know sort of like I wish I could
+show you. I wish you were here in the
+lab and I could show you. Maybe I can
+try. They look something like this. All
+right. I see it. They're a lot. They're
+still like fixed. You see? So they're
+like relatively large clumps of cells.
+They're floating in the media in the
+incubators. You keep going and change
+media. And then at one point we realized
+we can keep them for very long periods
+of time. In fact, we maintain now the
+longest cultures that have ever been
+reported. Like you can keep them for
+years. And so now the question was are
+they stuck in development? Are they
+progressing in development? And through
+a series of papers we discover something
+really fascinating. It's like they
+actually keep track of time really well.
+So well that once they actually arrive
+at about 9 months of keeping them in a
+dish, they actually transition in terms
+of their gene expression and some of the
+properties of the cells to a post-natal
+brain. So it's almost like they know
+that birth should happen. Wow. There's
+almost like we think that there is some
+sort of internal clock that keeps track
+of time. Is this the brain clock that
+I've read about? Yeah, this is the brain
+clock. Exactly. I'm fascinated now that
+these cells have the ability to
+understand basically a calendar. I mean,
+because they're not they're not
+observing the the sun going across the
+sky a day and a night. Yeah. So, what's
+what's what's doing the tech?
+So, I mean, you may think that this is,
+you know, surprising, but if you think
+about it, it's not that surprising. I
+mean, every time you make a human,
+you'll always make it in like 280 days.
+And and here's the interesting thing. If
+you take mouse stem cells, okay? Or we
+have like chimp stem cells and you
+differentiate them the same way in a
+dish, they'll finish development in
+their own time in the same but and and
+that t that same time period reflects
+the gestation period of a chimp or
+mouse. like it will be three weeks for
+the rat and it will be like you know
+whatever is for so this is I mean
+evolution has actually selected you know
+very well like the periods of
+development and so they're intrinsic to
+the cells I think what we what was
+surprising for us was that this happens
+also outside of the of the body right
+outside of the uterus of course this is
+not to say that all aspect of
+development are recapitulated I mean
+there are all kinds of things that are
+coming right all kind of informations
+that are coming that are shaping
+development and we know that the more
+you invest In human brain development,
+the more the environment is important
+like sensory information, right? Like
+cognitive development, think about motor
+behavior afterwards. But especially at
+early stages of development, everything
+is quite well regimented and goes
+according to a calendar. Nobody knows
+what the clock is. So nobody knows what
+the molecular mechanism of it is, but it
+is somewhere in the cells. It's
+something that is counting somehow time.
+And that's why it's such a great time to
+do neuroscience.
+like more people should like come and
+and do that. So where where do these
+cells derive their energy from? Because
+it's you know you talk about a clock,
+there's not a battery in the back. What
+is powering this? Cuz they're outside of
+they're outside of the body. They've not
+got the the whole human system to back
+it up. So we feed them sort of like a
+you know a soup of chemicals that is
+made sort of like in the lab. So we like
+we provide them glucose, right? I mean
+they need glucose and some of the amino
+acids and we give them lipids, right?
+And so they need fats. And so we just
+like have we call them cell culture
+media. And and how do you measure if and
+when they are expressing their
+prescribed function? Cuz a neuron has a
+very specific function. Absolutely. How
+do how do you know that they are
+actually expressing that function? So we
+do all kind of things like first of all
+we just look to see very often you know
+cells I mean not very often all the time
+cells have a signature you know they
+express a certain combination of genes
+and so generally the first question is
+if you think you've made a cortical
+neuron let's say a neuron from the outer
+layer of the brain how do you know that
+it's a cortical neuron well first of all
+you kind of like look at what genes it
+expresses and you compare it with what
+we know from a neuron in the actual
+brain then you can look at how it looks
+They're often neurons in the cortex have
+sort of like a pyramidal shape. We call
+them parameal neurons. So you look Do
+they look pyramidal? Pyramal. That means
+like a pyramid. Yeah, exactly.
+Pyramidal. Okay. For me, parameal. Yeah.
+I guess they really look like a a tiny
+pyramid. Yeah. An inverted pyramid. Like
+that's how they sit in the cortex. So
+you look at this like the shape of the
+of the cell body. Or the other thing is
+sometimes they move in very specific
+ways. And that's actually how the first
+assemblids were actually looking at how
+cells are moving. So here here's an
+interesting fact. You know, you may
+think that, you know, you have all the
+cell types in the brain, right? But
+they're all made, you know, when you
+build a brain, they're all made sort of
+like in their place and then they sit
+there. Actually, it's more an, you know,
+a rule rather than an exception that
+cells do not reside in the place in
+which they're born in the brain. So
+there is a lot of movement. So think
+about the cortex, okay? like the outer
+layer of the brain. It has neurons that
+are exciting other neurons and it has
+neurons that are inhibiting other
+neurons. And there is a very good
+balance between the two of them. Too
+much excitation, you get epilepsy,
+right? So, you know, think about that.
+Now, here's the interesting thing. All
+the excitatory neurons are born there in
+the cortex. But all the neurons that are
+inhibitory are built in a deep part of
+the brain. And literally during brain
+development they start moving crawling
+for inches and for many many months
+until they arrive into the cortex and
+then they kind like establish that
+balance. So in order for you to build
+that cortex it's not enough just to make
+the excitatory cells you have to make
+the inhibitory cells. But then the
+question is how do they come together?
+How do they assemble? because that's
+where the name assemblid came and
+essentially the vision was like almost
+you know 12 years ago was let's make
+these two parts of the brain the one
+that makes the excitatory neurons and
+the one that makes the inhibitor neurons
+and then just put them close to each
+other and hopefully the cells will know
+what to do because we certainly don't
+know how to guide them to um to to move
+and it turns out that exactly what they
+do you put them together and these
+gabbergic cells immediately start like
+they have this processes the cellar
+processes is they start like smelling
+where the cortex is and they literally
+start jumping. You know you see the
+cells they literally spend 3 hours they
+look in that direction and then they
+make a jump 40 microns then they wait
+for another 3 hours kind like smell
+where the cortex is make another jump
+and this process has never really been
+seen in humans. This happens in the
+third trimester of life but this is this
+is what's going on in every developing
+human being what you're describing. So,
+professor, what you're saying is
+basically we have uh a bunch of cells
+that uh are in a field and they they're
+looking and they recognize one another
+and then they just start running to each
+other in slow motion. Well, pretty much
+pretty much because they really come
+with instructions of how to do this and
+I think that's what happens in
+development and that's why you build a
+brain. I mean our brains may be a little
+bit different from each other but in the
+grand scheme of things they're quite the
+same, right? I mean we have the same
+structures. It's not like, you know, you
+have a phalamus in the spinal cord,
+right? We all have pretty much in the
+same position. So, in order for, you
+know, the brain to build itself that
+way, there are these remarkable forces
+that bring all the cells together over
+and over again every time you build a
+human brain. Wow. I Okay, this is the
+last thing. I'm sorry. I know we got to
+move on to the next subject, but here's
+what is like percolating in my brain
+right now. Is this once you kind of
+perfect this technology, would you be
+able to then introduce these cells and
+have them go in and let's say for
+instance, repair a part of my brain that
+kind of makes me so stupid I don't
+believe in climate change or something.
+Well, this sort of like a self assembly
+actually works really well early in
+development in the sense that all the
+cells are open to like connecting with
+the others. But then it turns out that
+the as you progress in development, the
+cells become less and less permissive.
+We don't have cells moving in our brain
+right now. Okay? You know, it's just not
+very adaptive. So the challenge is that
+if you start to add the cells into an
+adult, like those circuits are already
+formed. So it's not that easy. Got you
+know um to the dumbass circuitry. The
+dumbass circuitry is fully formed and
+very very strong. Right. However, if if
+you're able prenatal to identify brain
+disorders or any disorder in a child,
+you might be able during the gestation
+process to go in and and and make uh
+changes. Exactly. And that's exactly
+what we're do actually even early after
+birth because the human brain develops
+for like years even after we're born.
+That's amazing. So, professor that that
+that's amazing. All right. So,
+professor, you did some work and some
+research with cells and you said you
+work with autism patients and the like
+and there's something called Timothy
+syndrome which is autism and epilepsy
+which seems a terrible combination to to
+terrible for Timothy. Damn. Yeah. But
+you then afflicted cells with this
+Timothy syndrome. Is that correct? Yeah.
+and then reverse engineered how you
+could find a way to work with and do
+basically what you said take that away
+right is that could I mean I am
+explaining that at all well but m you
+probably could do it better than I if
+you would so I mean this this goes back
+to like you know the previous point when
+we were talking about how the stem cells
+were so like discovered and what the
+potential was so the question was if you
+really want to model a disease you know
+you want to model a complex disease such
+as autism them uh and epilepsy you know
+where do you actually start I mean
+psychiatric disorders are mysterious
+disorder we still don't know how like
+this you know thoughts and this complex
+social behavior arises in the brain so
+actually we thought we would start with
+genetics because one thing that we do
+know about many of these
+neurodedevelopmental disorders is that
+they're caused by mutations they're
+caused by very severe mutations right so
+there's this rare rare syndrome I mean
+literally there about we found about 30
+40 patients in the English speaking
+world today very few but they have a
+mutation this patient in a protein that
+is actually a channel for calcium in the
+cells every time a neuron communicates
+with another neuron it opens up these
+channels lets calcium in and it
+essentially translates electrical
+information into chemical information
+inside the cell. So it turns out that
+these patients have one single letter
+mutation in their entire genome. one
+single letter that makes this channel
+open for a little bit longer. That's it.
+It's not all the time open. It's not,
+you know, just slightly longer. So, the
+idea was that if you were to model this
+disease, you could make neurons from
+these patients, then look at them and
+actually monitor calcium inside the
+cells. And if we were to see more
+calcium, it means that we started
+modeling the disease. And that's exactly
+what we did because we wanted to really
+ascertain that we were really studying a
+disease process that is relevant. So if
+if you know the actual letter and when
+you you're talking about that you're
+talking about the DNA sequencing. So if
+you know the actual letter, why not do
+something like crisper where you just go
+in and snip out the letter? Well, sadly
+you would have to change it everywhere
+in the brain probably. There you go. And
+that and that is not you know doable
+today. Okay. And these patients are very
+severely affected. I mean they'll have
+epilepsy. They'll have autism spectrum
+disorder. They have a heart problem. So
+many of them would die because of a
+heart problem. And so that's that's
+where we sort of like started with with
+cells from these patients. And then with
+this models that I've told you now over
+the past 15 years, we kept building the
+models to be more complex and try to
+understand this disease. And first we
+understood how calcium gets into the
+cells. Then we saw that the cells are
+not moving right. They're not connecting
+properly. And about three years ago,
+which was, you know, one of the most
+interesting, you know, times in in sort
+of like my academic life, was at one
+point we just accumulated enough
+information about the disease that
+essentially the therapeutic just became
+self-evident, so to speak. You just like
+look at it and they would say, "Oh, oh,
+this makes sense. This is what we need
+to do." And so, I don't want to go into
+the details of how we've then does, but
+it it has to do with how this gene is
+processed inside the cells. We've done a
+screen and essentially identify a tiny
+piece of a nucleic acid that if you add
+to cells goes right into them, changes
+the channel and essentially restores
+almost every single defect that we've
+discovered over the past 15 years. Damn.
+Just like within, you know, a couple of
+days. This is insane. I know. But that's
+what you're talking about. These are
+Sherlock Holmes. This is real detective
+work to work out that that is exactly
+what's necessary. I mean, you said it
+was obvious, but obviously it wasn't.
+Otherwise, someone would have seen it a
+long time ago. So, if you were around in
+Frankenstein's day, Frankenstein would
+could just been a regular Joe on the
+street. Yeah. He would have walked out
+instead of like he would have been like,
+"Hey, what's going on? How you guys
+feeling?
+Are you mapping this with sort of an AI
+technology? I mean, Chris's one tool,
+but there are others out there. Is that
+what it is, or is this just the
+empirical evidence from experiment?"
+It's large largely empirical. I mean
+we've just you know just accumulated
+enough information about the biology
+that at one point it became clear and
+it's quite interesting if you think
+about it because this is could be the
+first psychiatric disease that has been
+exclusively understood with this human
+stem cell models meaning by studying it
+by studying human brain cells outside of
+the body of those patients right and so
+of course the question is like how do
+you actually you know know that it would
+work you know generally what we do is we
+use an animal model for the disease
+right? um you have an animal model, you
+have a mouse that has the same mutation.
+Well, it turns out that if you do this
+mutation in a mouse, it doesn't really
+recapitulate aspects of disease. It
+doesn't work that well. So now what do
+you do? You can also just go straight
+into a patient. You want to make sure
+that sort of like it it works sort of
+like in an invivo setting. And so that's
+why one of the things that we've done
+over the past years is actually also
+develop transplantation methods. Meaning
+that while the organ and the assemblies
+that we've been building are rather
+complex, they still don't receive
+sensory input. They don't mature to the
+same level. So what we started doing is
+actually transplanting them. Meaning we
+essentially take the organoid that we've
+made in a dish, but now we put it into
+the brain of a rat. And then if you do
+it early in development, then the rat
+can actually grow to have about a third
+of a hemisphere to be made out of human
+cells. You can literally see it on an
+MRI. And you may think well this is you
+know why would you even do that
+experiment? Well the reason is because
+now we actually have human tissue from
+patients in a living organism and you
+can test a drug. So what we did is we
+took the drug that we tested in vitro in
+a dish but then injected it into the rat
+the way you would do into a patient but
+then we looked at the effect on human
+cells making sure that it doesn't kill
+human cells right or it doesn't do
+something else. So that is like one way
+that allows us actually to test
+therapeutics in a way that is like safe
+essentially. So the thing is if you want
+to solve the issues of complex brain
+disorders, you're going to need more
+complex assemblids. Mhm. Now you've
+taken this assemblid up a notch, have
+you not? um daisy chained four organoids
+together but then gone down the path of
+sensory if you could sort of expand on
+that for us because I think this is
+absolutely fascinating. You're telling
+me they have feelings. Is this what
+you're telling me? No, let the professor
+explain. No, you know, I mean it turns
+out that if you if you think about like
+brain disorders, you know, some of them
+are sort of like hardware defects,
+right? I mean parts are just missing.
+Think about in a stroke, right? you like
+you know you lose like parts of the
+cortex but most disorders that we
+consider today psychiatric autism
+schizophrenia we think of them more as
+like disorders of software of
+communication between the cells. So it
+becomes really clear that if you really
+want to capture those processes outside
+of the human body we sort of like need
+to reconstruct those circuits outside.
+And so this started like you know maybe
+five six years ago when we thought could
+we actually build a circuit that is
+actually has an output you know really
+easy to measure. So we decided to
+reconstruct the cortical spinal pathway.
+So that means and you you you know this
+really well everybody knows this this is
+like biology textbook information. You
+have a neuron in the cortex that
+generally goes all the way to the spinal
+cord makes a connection or a syninnapse
+with the spinal cord neuron and that
+spinal cord neuron goes to muscle. You
+have essentially three neurons, two
+connections. You stimulate the cortical
+neuron, information goes down to the
+spinal cord to the muscle, the muscle
+contracts, right? You know, it's as easy
+as like text of biology. So, we thought,
+could we actually reconstruct this? You
+may think that it's easy, but here is we
+don't know how the cells find each other
+in development. By the way, we have no
+ideas about the rules. So, what we did
+is we made an organoid that resembles
+the cortex, one that resembles the
+spinal cord, and then we made a ball of
+human muscle from a biopsy. You can get
+a biopsy of muscle, build it as a ball,
+and then we put them all three together.
+And it turns out that once you do this,
+those specialized neurons in the cortex,
+not every cortical neuron, but the ones
+that really go to the spinal cord start
+to leave the cortex, find the motor
+neurons, then the motor neurons leave
+and find the muscle, and then the three
+preparation starts to contract. Wow.
+That that would that was a three-part
+assemblid. All right. And that that told
+us that even you know against the odds
+because the probabilities for the cells
+to find each other is very very low. And
+yet this works beautifully and you can
+actually stimulate the cortex and you
+get beautiful muscle contractions and
+we've been using this uh you know really
+in the last years to identify for
+instance how polio virus and other non-p
+polio viruses actually affect the spinal
+cord and cause paralysis which is very
+difficult uh to study otherwise. So it
+is a very important so like preparation
+you can add this polio virus and you can
+cause a paralysis of that circuit uh in
+a dish. This work is not yet published,
+but it tells you like just how useful a
+preparation like this uh can be. It's
+beyond useful. I mean, I'm what I'm
+trying to figure not figure out envision
+is a time where we've mapped like
+everything, right? So, you have you have
+the layout. Now, would there be a time
+because of what you're saying that we'll
+be able to go in identify in a child
+that is developing in the womb and then
+uh identify mutations and then take the
+assemblides, put them into the child and
+have those mutations corrected before
+the child is born. Is that the deal?
+Perhaps even an easier scenario for that
+is that have a mutation. You know that
+the patient will have a serious
+mutation. You build an assembly that
+models the disease of that patient
+without using the patient brain. So like
+an avatar if you want, right? I mean
+that's what an assembly is if you think
+about it, right? It's an avatar for that
+circuit simplified in a dish. You test
+the drug or you screen for drugs. Maybe
+you want to screen quickly for drugs,
+right? And then you use that in a
+patient. So now you can do that for
+every single patient. You don't have to
+actually uh do the process in any
+particular patient because now you
+developed a drug for the mutation
+itself. Now just boom boom boom every
+single person with that mutation gets
+that drug delivered and and that's how
+you Wow, that's amazing. But to get
+there, we do need to get a better
+understanding of how cuz you you see
+we're quite why do wait why do you have
+to understand why the cells do what they
+do? They're doing it. You already know.
+Why do you have to? Are you just that
+news scientist?
+That's right. Cuz he's a Look at Look at
+Neil. Neil's looking at me like, "How
+dare you?" He's a scientist. How dare
+you? We don't accept just what is. I
+understand. Go please. No, if you
+actually think about like Richard Feman,
+he famously said, and I'm sure you know
+this, that what I cannot create, I do
+not understand. M and you know if you
+think a little bit about this right if
+we cannot recreate the circuits outside
+it's going to be difficult for us to
+understand and if we don't understand
+the biology all the breakthroughs in
+medicine that came over the last decades
+think about cancer in children right in
+the 60s 90% lethal today less than 10%
+lethal why this entire revolution
+molecular biology right because the
+tissue of interest was accessible you
+get the blood of these patients in
+leukemia or the tumor, you bring it to
+the lab and you deploy the power of
+molecular biology. We in psychiatry and
+neurology are really the last ones
+because we cannot access the brain. So
+my belief is that as we gain access to
+the brain through this methods and
+others non-invasively, we're going to be
+able to deploy the power of molecular
+biology and make breakthroughs in
+molecular, you know, psychiatry and
+neurology as we've done in, you know,
+uh, cardiology and other branches of
+medicine. That's that's sort of like how
+I see it, but I may be wrong. But
+haven't you got an assemblid now that's
+like I said a four stage assemblid, but
+you've worked it so as it's sensory and
+you can feel the understanding of pain
+and then how that becomes hyper
+sensitivity or to the point where people
+do not feel pain at all. Oh. Oh, okay. I
+thought you meant like they're going to
+have that little vial of just screaming
+in the middle of the night.
+Why did you give me pain? Not that one.
+No, you're you're right that one of the
+things that we're trying actually this
+this just came out. I mean, we made the
+first assemblid in like 2017. It took us
+three years to make from go from
+two-part assemblids to three-part
+assemblids, the one with the motor that
+I was explaining. And then it took us
+another five years to get to four part
+assemblies just because it's technically
+more and more complicated. And this is
+the pathway that senses, you know, sends
+your information. So, think about it. If
+you, you know, want to sense anything,
+even a painful stimulus on a finger, you
+have nerve terminals that are coming
+from neurons that sit close to the
+spinal cord, they have receptors that
+sense that. Then they send that
+information to the spinal cord. The
+spinal cord shoots that information up
+to the phalamus in the middle of the
+brain and the phalamus sends it to the
+cortex and then you sense that something
+happened. You know, that's how it works.
+So what we did is essentially we tried
+to reconstruct that from part. So we
+made neurons that have some of these
+receptors including receptors for pain.
+So you know the receptors for pain
+actually respond to capsain you know red
+hot chili pepper that's why it's like so
+hot. So they have this specialized
+receptors and you add capsain and they
+just beautifully respond like
+electrically. But this had never been
+witnessed before had it. No I mean to
+put the entire circuit together has
+never really been done before. Now the
+biology for you to to witness this the
+first ever time. Well, the most
+beautiful part of it was to be honest
+once we made the parts which took us
+years you know the four parts of the
+circuit and then put them together and
+it takes about a 100 days to make them
+by the way and then another 100 days for
+the cells to connect with each other and
+then at one point we started like
+looking at them and seeing like what's
+going on and we've discovered something
+you know really remarkable the cells in
+the circuit become synchronized with
+each other. Mhm. So initially they were
+all sparkling you know in a
+non-coordinated way and then at one
+point the activity just seems to be
+starting on one side and it goes you
+know one
+unidirectional. So the circuit is almost
+you know and there's no stimulus by the
+way you know the it's almost like which
+we know also from brain development that
+the brain prepares itself before it even
+receives sensory inputs for what is
+about to come. It's almost like
+practicing. So it's practicing to add
+you know the stimulus and then the
+relevance for pain is that there are
+this interesting maybe you've heard
+about this neurologist discovered them
+you know in the past 20 years there are
+these patients that have mutations that
+make them either completely insensitive
+to pain so they literally feel no pain
+and it's really caused by a mutation in
+a channel in a sodium channel or they
+have the opposite they have this channel
+hyper sensitive so they're hyper
+sensitive to pain both of them are
+obviously very had. So now what we did,
+we used crisper cuz we were talking
+about crisper before and genetically
+modified the cells in a dish to have the
+mutations that are present in patients.
+Then put them together all four and
+started watching to see what happens.
+And in the patients that have that hyper
+sensitivity to pain, they're very
+sensitive to pain. You just see the
+information going really really fast.
+The cells are super active and they
+sense it. But in the ones that have no
+pain, it's not like there's no activity
+at all. Actually what we found is
+there's a lack of coordination right the
+cells are essentially like lost that
+coordination. So that's why it's so
+important to have the parts because
+really at the end of the day you know
+the brain is more than the sum of its
+parts obviously and so clearly in order
+to understand some of these disorders
+we're going to need to have some of
+these parts put together to get this
+emergent new properties not feeling pain
+well that's the new that's the Novacane
+movie isn't it? Yeah, but you know that
+I mean we see this in certain people
+that Okay, I remember we did on on the
+TV show and Neil has this crazy thing.
+He could stick his hand in water, ice
+water. I'm not and I'm not saying it
+right. Take a bunch of ice, add water to
+it, and it actually becomes colder than
+freezing. Okay. Yes. All right. Then you
+put your hand in it and it burns your
+hand. So, we did an experiment and I
+stuck my hand in and he stuck his hand
+in and literally my hand started burning
+in what a normal person would have their
+hand burn. And then he was able to leave
+his hand in there for a god awful amount
+of time to the point where this you were
+squealing at the time. Well, yes, I was
+because it burned. It It was not cool.
+So, not literally burned cuz it's cold,
+not hot, right? It not literally burned,
+but it felt like it was burning. Okay.
+But for you, for some reason, and you
+know, I just chocked it up to he got a
+lot more fat on his hands to get
+But seriously, it's a matter of
+sensitivity to pain. No. Absolutely. No,
+it's not. No. What is it? I I didn't say
+I didn't feel the pain. It's just that I
+could deal with it. Yeah. Oh,
+well, that just changes. Oh, no. No. So,
+okay. So, so explain to me the mind over
+matter aspect here. Yeah, and that's a
+great point actually cuz you see this is
+not the only pathway for pain. It turns
+out that we have at least two pathways
+in the brain. One of them allows you to
+tell there is a painful stimulus. You
+know I sense it, it's on my finger or my
+hand is in the water, not my feet,
+right? That's the one that tells you
+that. And then there is a second pathway
+that actually leverage other brain
+regions, the amygdala, the singlet
+cortex that tell you that that is really
+bad. It gives you the unpleasant
+feeling, the emotional component of
+pain. And you know they're interesting.
+There are patients who dissociate
+between the two. So there are patients
+who let's say have a stroke or a tumor
+in the insula or in the singulate
+cortex. And you'll have these patients
+and they'll tell you you know I know
+you're uh you know you're hurting like
+my finger and I can tell you that it is
+my finger but it doesn't feel unpleasant
+at all. So these pathways are
+dissociated in the brain. Now in the
+work that we've done, we've
+reconstructed the basic pathway that
+just processes pain stimuli, not the
+emotional component. So we wouldn't say
+that they're feeling pain in any way.
+Right? Just to make it clear cuz as you
+can imagine there are all kind of other
+ethical issues that are arising from
+like most of the work that we do
+obviously because you know we want our
+models to be closer to the human brain
+because we think that many of the
+psychiatric disorders are uniquely human
+and yet the more the closer they are to
+the human brain the more uncomfortable
+we feel right so I think it's so like
+mitigating this risk moving forward that
+I think is very important how how do you
+now having had this experience with with
+the sense sensor aspect of it. Reverse
+engineer again the way to get a drug to
+alleviate the hyper sensitivity to pain.
+Sure. I mean there are many ways that
+you can do this. So like now think about
+it's God's guide. Well no everybody
+everybody everybody's got a thing with
+opioids but there must there must be a
+mechanism there where opioids use that
+you can sort of tag on to but not get
+that addictive part. Exactly. And think
+about it like it's it's sad that the
+best the best treatment that we have for
+like pain comes out of like poppy seeds
+and was discovered thousands of years
+ago by chance, right? I mean essentially
+piggybacks on this circuit does not come
+from a deep understanding of the circuit
+itself. Of the circuit, don't you make
+opium from poppy seeds? Yes. Okay. I
+just want to clarify that. Yeah. So I
+think the the idea now is that we have
+the circuit in a dish. You can add
+opioids by the way and see how they
+modulate this and see okay this is what
+opioids do to the circuit but let's now
+try to do the same thing in a different
+way right right one that is sort of like
+you know driven by the biology behind it
+and I think that that's the beauty of it
+that is a beauty and by the way uh
+professor if you ever get to that place
+please email me right before you make
+that public because I would like to be
+the first
+investor in the pain-free opiate that is
+nonaddictive because that is I mean
+that's the that's the end of the game
+right there. And just to be clear,
+Chuck, what cuz when my hand was I just
+want to like get back to my hand in the
+bucket. Yeah. Okay. Long ago, right,
+when I began wrestling in high school
+and I was going to bring this up. I
+think it's because you were an athlete
+and athletes have to deal with pain all
+the time. Exactly. And I judge by
+looking at the situation. Is this pain
+something that will cause irreparable
+damage or is it just simply pain? Okay.
+And I'm looking at my hand is in a
+bucket of ice. Yeah, it hurts, but who
+cares? But who cares? I'm not going to
+get frostbite from it. Okay. So, see,
+you and Gary have that, I'm sure, cuz
+Gary's had a ton of surgeries. He's
+played in pl in pain. He sat in ice
+after games, right? See, and I have not
+played none of that. I've done none of
+that. And this is you. That's why you
+whimped out in the time of need because
+this is how pain works for me. Okay. The
+way pain works for me is I experience it
+and then my brain, my body, and
+everything in my soul goes, "Jesus, no.
+Please, Lord, no." So, oh, that's
+So when when you're saying you you're
+building these avatars and the detective
+work that comes, are you finding more
+clues and more answers or are you just
+finding clues and then we got to sit
+there, scratch our heads and hopefully
+come up with an answer or is this really
+empowering the sort of psychiatric
+research that you're interested in? You
+know, the way I look at it is, you know,
+psychiatric disorders have been a
+mystery like no doubt. I mean, how does
+complex behavior or hallucination arises
+from the brain been mesmerizing us for
+such a long time? And it's almost like,
+if you were to think about it, it's
+almost as like seeing uh, you know,
+Egyptians writing for the first time,
+right? You look at them, you know, where
+do you even start? I mean, they're
+beautiful drawings. You know, you could
+classify them based on like the animals,
+but then you can't make sense of what
+the meaning is. And you see that's why
+you know if you think about it like
+historically the discovery of the
+Rosetta stone right like this tiny piece
+tablet that for the first time had
+euroglyphs on one side and Greek writing
+on the other one right and then you know
+this French scientist who came with
+Napoleon finds this starts looking at it
+and that becomes essentially the you
+know enabling tool suddenly we could
+actually see what word does what and you
+know cool thing about the Rosetta Stone
+it's like a shopping list or something
+It's like it's not any deep. It's like
+bread and eggs.
+I don't know if it's exactly a shopping
+list, but it's something completely
+mundane. Very well. Something really
+trivial. Absolutely. And and yet like it
+was the only writing that we know that
+had a both on both sides. So I think the
+question is we need to somehow translate
+at one point. So like this mental
+processes that are so complex into what
+we can deal with which is really
+molecular biology. That's what we can
+control. Molecular biology we can
+control. So I I I think you know to a
+large extent I've I've seen this like
+the the mission you know for my lab and
+in general like I think for the
+community more broadly is really to try
+to translate some of this complex
+phenomena of the brain in very simple
+processes calcium in a neuron you know
+two neurons connecting with each other
+and then hopefully by doing that and
+finding ways of reversing it those will
+also reverse or at least improve. Well,
+we don't know that, you know, we we, you
+know, that has not yet been done and uh,
+you know, we'll have to see whether the
+clinical trial will actually be
+successful. I mean, we're preparing for
+a clinical trial for tim syndrome right
+now. We're still like in the last stages
+of preparation. We found most of the
+patients uh in the world. We're building
+a special unit here at Stanford where
+we're going to be hopefully bringing
+them in the next year or so and doing
+the clinical trial. So, we'll see. And
+then, you know, this is the first
+disease. I mean uh and I I look at
+Timothy syndrome as so like really being
+the first first but we have half a dozen
+of other conditions that we've been
+studying from various angles really I
+mean I see this this is going to be the
+golden uh age for human neuroscience and
+I'm delighted to learn that you're
+putting in this much effort for a
+disease that is so rare. Yeah. I mean
+think about that. So the rarity at least
+the people have the benefit of your
+attention given to it rather than
+someone just making the costbenefit
+analysis and saying we're not we're not
+doing anything we're not going there
+we're not going down that road right are
+we are we saying here that your
+assemblid research and work is going to
+be the key to understanding what has
+been hidden brain biology. How soon do
+you think maybe you really will be able
+to not just tick off the Timothy
+syndrome but take on other horrific
+diseases? Oh, we're already working on
+others. Uh I mean, you know, at least
+half a dozen we've been studying like
+some are associated with epilepsy, some
+with intellectual disability. We have a
+few forms of schizophrenia. So, we've
+been deploying this like systematically.
+And another thing that we've done to be
+honest and this is sort of like being in
+the spirit of what we do at Stanford is
+uh you know I lead a a center here and
+in the beginning it was you know there
+were so when we published some of the
+first methods everybody was like oh you
+know can we come to the lab and learn
+how to do it like we want to do it too
+and we brought people here initially but
+then at one point you know we couldn't
+train enough people so we actually
+started doing literally courses where we
+bring students from all over the world
+from various labs and for about a week
+almost like in a cooking show if you to
+think about it right because you know
+the experiments are done before we just
+show them these are the critical steps
+that you need to do and so we've been
+helping more than 300 labs around the
+world to um you know implement these
+methods and if the breakthrough is not
+going to come from my lab
+therapeutically speaking that's fine
+because it will probably come from
+somebody else somewhere like you know in
+a corner of Europe or who knows of South
+America doing experiments on a rare form
+of disease and finding a therapeutic
+that would be fine I think because
+there's so much to do for you know one
+in four individuals is suffers from a
+psychiatric disease today. Right. Right.
+It's a huge burden. Are we going to come
+across a situation where you are going
+to have you'll be faced with building an
+assemblid or creating an assemblid that
+will just be too complex? Is there a
+limit to what you can assemble? There
+there are absolutely limits to what we
+can assemble. And you know while like
+many of the features of this assembllet
+are really fascinating and surprising
+you know they still have a lot of
+limitations you know I mean they're not
+vascularized they don't receive blood uh
+supply we we may be able to stimulate
+them with like capsain or something else
+but they're not receiving the rich
+sensory information that is important
+you know think about the you know if uh
+if you have a a kitten where you you
+know you cover one eye if you cover that
+eye for a week uh that cat will never
+see with that eye You do it in an adult
+cat for a week, no problem whatsoever.
+So early in development, if some of the
+circuits do not receive the right input,
+they won't develop properly. So you know
+again while our models are relatively
+complex already they lack a lot of the
+complexity and you know is as as as
+George uh box famously said that all
+models are wrong or some are useful you
+know and the models that we make are not
+our goal is not to make a perfect model
+of the brain it's like to make a good
+enough model of a part of a brain or of
+a circuit that will give us the
+breakthrough therapeutically I wouldn't
+be so harsh with the term model there I
+would say all models are almost by
+construct incomplete, right? But that
+wouldn't make them wrong necessarily.
+They're just they're not the whole
+story. That's why they're a model.
+That's why they're a model. Otherwise,
+it would be the exact thing. You
+wouldn't need it. You wouldn't need a
+model if you could replicate the exact
+thing. It would be the thing itself,
+right? Okay. Yeah. I just love that
+Assemblids sounds like a Cartoon Network
+show. Like Assembly's Weekdays at 3,
+right after Transformers, you know.
+Actually, it turns out that there is a
+game there. There is a video game for it
+which I didn't know when I put out the
+term but there is a very popular video
+game that is literally called
+assembllet. Cool.
+Where do we hit the ethical wall and hit
+the regulatory and all the other things
+and uh did you say regulatory?
+I did this America Jack it's regulatory.
+Regulatory.
+Not even regul regulatory. I didn't come
+here regulatory lecture on geography. I
+know it's America.
+That's America, Jack. He was saying, you
+know, we we think about this like all
+the time. Honestly, in the beginning,
+obviously, there are like not that many
+ethical issues, but as we've progressed,
+it becomes clear that we have to think
+carefully. So, there are like, you know,
+the way the way I think of it is like in
+multiple levels like on one hand there
+are like issues about the cells. These
+are human cells that we're using. Yeah.
+You know, who owns the cells? You have
+to give consent for this experiments to
+be done. And we do that all the time.
+And so we always have to put that into
+the context of like what are we doing
+with the cells what the cells were
+consented for. That's very much like uh
+who is the woman who Lax, what's her
+name? Lax. Lax. Yes. Whose cancer cells
+were whose cells were for decades and
+saved and created many breakthroughs in
+cancer and the family got nothing and
+and she never gave permission. So it's
+good to know you're doing that and
+that's why it's critical every time we
+Henry Henry adelax yes you know the the
+patients or you know who you know the
+parents in the case if they're minors
+will actually be clearly informed about
+what will happen with the cells uh how
+the cells will be shared with others for
+instance under what conditions and so on
+so forth so on one hand there are like
+this issues about the cells then
+sometimes as as you know we're using
+animals so sometimes we transplant this
+into the animal so we also have to think
+about the welfare of an animal I mean
+you transplant and more is the animal
+suffering in any way. And then the third
+problem which is perhaps the more like
+philosophical in a way is like are there
+any new emerging properties like are
+there um you know features complex
+features that are arising from this that
+would make one thing that we need to
+regulate this field currently I think
+the models that we have in vitro are not
+sufficiently complex to
+justify you know the presence of any
+complex features like that's why we
+don't use the term generally you know
+the term intelligence for is because
+intelligence is really a property of an
+organism. It involves like goal-
+directed behavior. It involves learning.
+None of our cultures do that and using
+you know anthropomorphizing it's not
+generally a very useful thing to do in
+this case but as the models become more
+complex we have to start having these
+conversations and that's why you know
+last year we had an aillmore meeting uh
+which is like this historic place here
+in California you may have heard where
+many of these ethical discussions have
+started in biology in the 70s when
+cloning gene cloning was so like
+discovered and everybody was like what
+is going to happen we're now modifying
+finding these genes and we're going to
+create new organisms. So scientists got
+together there with philosophers uh you
+know with journalists. So that's what
+we've we're also doing now. We're
+getting together a larger group and
+thinking what are some of the
+implications you know sociologically,
+religiously, philosophically while at
+the same time thinking that psychiatric
+disorders are a huge burden and if you
+have a technology that has the potential
+to change that to provide cures is it
+you know unethical not to use it right I
+mean there's even that argument you know
+where you know how far do we go uh in
+that so that those are like ongoing
+discussions I mean it's been really
+interesting. I spend more and more of my
+time uh as part of this conversations.
+Let me take you just one other place
+before we land the plane here. You came
+into this as an expert in the autism
+spectrum patients and a new term that's
+been bandied about for the last
+certainly 10 years is the the concept of
+neurodeiversity.
+When you look at it that way, who is
+anyone to say that someone needs repair
+if they're simply manifesting on a
+spectrum of
+neurodeiversity? Your counterparts not
+long ago would have labeled
+homosexuality as a mental disorder in
+need of repair. And only recently been
+historical times recently was that
+removed from the list of humanities
+maladies and disorders. So there's an
+ethical another ethical frontier about
+what it is you judge needs repair versus
+just another kind of person. And that's
+absolutely one of the discussions that
+we've been having, one of the ethical
+discussions that we've been having. And
+you know all psychiatric disorders are
+on a spectrum with the population and
+some of them are more severe and some of
+them are less severe and that's also the
+case for autism. You know autism is
+certainly a a spectrum but what we're
+focusing on is actually what we now call
+profound autism. This is the autism that
+is really debilitating. So patients with
+timothy syndrome or like some of the
+other patients that were like with other
+disorders can have 60 seizures a day. Oh
+my really that's just they are unable to
+make any eye contact. They need a
+caregiver for the rest of their life.
+You know the biggest fear that a parent
+has when they have you know a child is
+like what if I die? So I am seeing it
+through the eyes of some of these
+parents that are dealing with like
+really the devastating forms of autism
+what we call profound autism. Mhm. And
+then of course there is like what you
+mentioned which are neurotypical or uh
+you know aspect of how we interact with
+each other that do not require any
+nobody wants to cure or to provide
+treatments for anybody but this patients
+are severely affected. Most patients
+with psychiatric disorders are severely
+affected. So I once asked Oliver Saxs
+who is a friend of our show uh we have
+some archival content with him. Oh
+that's amazing. Yeah. Yeah. I I asked
+him after a public talk that he gave if
+you could go back in time and carry with
+you a pill that would cure your own
+ailments. Uh he had sort of certain
+neuro issues. Uh he has correct me on
+the word here. Progno plagnasia.
+Yes, he did. Yeah. He couldn't really
+identify. Yeah. He had he had face
+blindness. Okay. Oh wow. And and some
+other elements to it. I sometimes wish I
+had that. Right. So, so I asked him if
+you could take a pill that would just
+cure that back when you were 17, would
+you? Looking back at that time and he
+said no because it was that those
+differences in the way his mind worked
+that got him interested in neuroscience
+in the first place. That is that was his
+destiny. Mhm. But but you see that's
+exactly you know the point where we
+started like the beauty of like building
+a nervous system is that while there is
+a basic plan that makes our brains the
+same we pretty much you know can do the
+same things. It also creates a lot of
+diversity. Even monozygotic twins right
+have the same genetic uh uh you know
+material. They share the same womb.
+Yeah. And then they can have different
+sexual orientations. You know they like
+they have different hobbies. They have
+different fingerprints if I remember
+correctly, don't they? They do. They do.
+Yes. Wow. Because again there is a lot
+of stochastic forces in development and
+those are the those are the ones that
+make us different and that's how
+evolution actually works too you know by
+selecting these differences that I mean
+to a large extent probably that's what
+made us as a species so successful.
+Yeah. Uh the fact there is always an
+individual who has a vision who wants to
+go and you know discover a new
+continent. Yeah. So I I think that's the
+power of our species. And I think I I
+know very few honestly psychiatrists or
+neurologists who would want to cure that
+or change that. Right. Right. I think
+what we're dealing really on the field
+is really this devastating conditions
+that make essentially most of these
+children unable to really function as as
+adults or as children. So this is a very
+human humanentric view. So if you were
+the the co virus, you would say, "Let's
+invent humans who then have airplanes so
+that we can cross continents and infect
+other people." Absolutely.
+They are the true owners of this planet.
+That's right. Let's be honest. Viruses.
+They're true owners of this planet.
+Microbes. We're just an Uber. Yeah,
+that's micro. We're just an Uber ride.
+Uber ride. Well, Sergio, it's been a
+delight to have you on Star Talk sharing
+your expertise with us and taking time
+out of what we know is your busy
+research schedule to give us a little
+glimpse into what you're doing in your
+lab. Just congratulations to you and all
+the people who work in your lab who are
+surely working there right now while
+you're talking to us. Oh, they are right
+here behind me. Yeah. Yeah. And really,
+they're the ones that are doing all the
+work. I mean you know this work I mean
+hopefully it came through from the
+discussions but this experiments are
+long. I mean they last hundreds of days
+because human development it takes a
+long time. So it requires a lot of
+dedication and I but I I think the
+promise of what this could yield
+ultimately you know understanding the
+human brain is you know is addictive. So
+you know you really want to figure this
+out. Well uh thank you again. I'd like
+to reflect on this with a brief cosmic
+perspective if I may please.
+This moving neuroscience frontiers got
+me
+thinking. You look at the progress of
+civilization. It always comes about when
+we have the proper match between a
+tool and a
+goal. And when they come
+together, we build things that didn't
+exist
+before. Or we disassemble things that
+had never been taken apart before.
+But in all cases, it has to do with the
+precision of the tools you bring to the
+task and to learn what's going on on the
+frontier of
+neuroscience. It feels to me that it's
+finally catching up with the methods and
+tools that have shaped engineering
+throughout the history of civilization.
+engineers
+built dams and buildings and and
+aqueducts and everything that we value
+and care about in our modern
+lives. But the time has come to care
+about what's going on inside our brain
+within our mind. And I'm delighted to
+learn that that is a frontier that
+finally has tools befitting the task.
+Welcome to the
+club
+neuroscience and that is a cosmic
+perspective. Keep looking up.
+[Music]

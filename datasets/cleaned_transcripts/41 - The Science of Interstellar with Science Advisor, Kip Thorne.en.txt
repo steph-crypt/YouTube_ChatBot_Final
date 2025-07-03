@@ -1,0 +1,2271 @@
+here's Einstein predicting gravitational
+waves laying the foundation for a laser
+and 100 years later his gravitational
+waves are found with lasers yes Einstein
+was kind of
+smart from the time I first started
+working on gravitational waves until we
+succeeded it was 50 years some things
+take a long time we do build on each
+other and none of them by themselves are
+smart enough this Nobel Prize really
+belongs to a thousand people if I can
+see farther than others is cuz I've
+stood on the shoulders of giants whove
+come before me and that's the nature of
+science it's very promising uh but it's
+going to continue on into the Next
+Generation before the ultimate success
+is had very very very
+probably this is star talk I'm your host
+Neil degrass Tyson your personal
+astrophysicist and today we're featuring
+one of our one-on-one con ation this
+time with professor of theoretical
+physics Kip Thorne Kip Thorne welcome to
+start talk a pleasure to be with you
+Neil oh my gosh we are uh coming from
+your home office in pasaden California a
+wonderful office my son designed this
+part of the house and built it and my
+brother designed and build all the
+furniture these are really useful people
+to have in the family it's a wonderful
+family
+they're the Practical ones I've actually
+known you for some time not that we were
+beer drinking buddies but I think we've
+drunk beers together in the Canary
+Islands yes we did okay okay I I stand
+corrected uh but my first exposure to
+you was you were one of the three
+authors of this book called gravitation
+and we used to joke of course it was the
+only book where you learned about it
+just by carrying it
+around and I think we probably wrote it
+before you were born possibly possibly
+uh although I'm older than you might
+think uh this book is a graduate level
+treaties on basically Einstein's general
+theory of relativity at the time I
+acquired the paperback of it which this
+is it's tough making a paperback this
+thick but this has the exact proportions
+of what was then the Manhattan yellow
+pages so we we we used to call it the
+phone book yes uh just affectionately
+may I may I add it was brilliantly
+conceived because I don't know if you
+can notice on camera there are uh Tabs
+are different colors say white and black
+and they represent two different paths
+through the book one is sort of the
+elementary path and one the more
+advanced path except it all looked
+Advanced to me at the time so whose idea
+was this to come up with this book
+coming up with the book I think it was
+sort of grew out of discussions that uh
+Charlie misner John Wheeler my PhD
+adviser and I had a few years after
+those are the three co-authors three
+co-authors and uh so it it sort of grew
+organically in the uh that's the best
+kind of yes projects to have 1960s and
+early 1970s MH yes I was born before the
+60s oh
+really so
+uh on here is uh Charlie misner who's at
+was at the University of Maryland yes
+and so my copy of this I had you sign it
+and then I spent a year teaching at the
+University of Maryland so I quickly went
+over to his office and had him sign it
+but before then I uh I started out in
+graduate school at the University of
+Texas where John Aral wheeler had they
+stole him from Princeton I think is what
+that or or him from Princeton I think
+yeah that's an accurate
+statement and so I had all three of them
+sign it in fact John Wheeler's course
+that he taught in general relativity is
+where I met my wife wow yeah she has a
+PHD in mathematical physics so we met in
+relativity class just thought I'd say
+that very romantic place to meet you
+know very romantic very romantic and
+John Wheeler used to give out uh a penny
+if you caught an error that he committed
+on the front board so I have one of his
+pennies I I don't remember it was not a
+big thing it was like it was a typo or
+something what the WR the written
+version of a typo but um so uh anyhow
+it's just Delight to uh meet again with
+you and what prompted this was
+our uh you know you have a lot of
+accolades of course including the Nobel
+Prize okay but but more importantly than
+that you were science adviser on the
+film
+Interstellar I was more than science
+adviser yes you were you you were
+executive producer I was more than
+executive producer it it grew out of a
+treatment that Linda opst an
+ex-girlfriend of mine oh and I Lind big
+producer of sci-fi films yeah she a big
+producer of films of a wide variety but
+Linda and I dated in 1979 80 and uh she
+was uh too high strung for me and I was
+too nerdy for her but we became close
+friends wow and who knows that why
+didn't I know this why did no stop why
+didn't where would one learn this it we
+need a gossip a physicist gossip column
+is that right yeah it was some years
+later after Carl Sean who uh set us up
+on a blind date by the way that's we met
+okay some years
+later Linda called me up and said would
+you like to brainstorm with me for a
+movie wow and uh we did and that's how
+Interstellar was born so was that at the
+time it really was was the creation of
+the Nolan brothers because they took
+what we had given them uh which was
+basically a structure uh and a venue for
+the movie The warped side of the
+universe and they ran with it and
+changed our story almost completely and
+made it into a great film I don't but
+the the all the seeds came out of Lindon
+and me at the time I mean you're you're
+Professor Caltech the Richard fan
+professor at Caltech now Emeritus CCH is
+a pretty high level Place how was it
+viewed for you to say guys hold on I'm
+going to make a movie now what is that
+how is that received by your colleagues
+uh I think they were all enthusiastic
+bch is a different kind of a place than
+some other more stuffy un
+oh okay okay I never hung out much at
+Caltech I couldn't judge the mood or the
+tone yeah no look we're on the edge of
+Hollywood uh the Hollywood folks come
+over and you know Big Bang Theory was
+based on calch right call it calch what
+did they call it they did call it calch
+in the first few uh episodes okay and
+then they stopped using the calch name
+because the shirts that that's Hollywood
+speak for the attorneys oh yeah the
+stiff shirts yes yes up in the office
+the shirts got scared that they might do
+something on a screen that the Caltech
+shirts wouldn't like and the Caltech
+shirts might sue the the Hollywood
+shirts so they stopped using Caltech
+name and in the in the film which I
+adored um what's it called Real Genius
+yeah Real Genius they were at Pacific
+Tech all right that was the where all
+the smart kids were so of course pasaden
+is in like I can't say foothills of
+Hollywood but you you you have a
+proximal awareness of this huge industry
+and you know that science fiction
+matters as a as a genre well and some of
+us love it I love it I'm I'm signed up
+every time and so uh
+Interstellar uh I think it introduced
+many people to
+authentic gravitational physics for the
+very first time well Ander Celler was
+unlike almost any other film I I think
+were precursors in 2001 and in contact
+Yeah Carl San's contact Carl San's
+contact and and the the point is that
+science lots of science was baked into
+that film from the very beginning
+because of the way it was born and
+because of the close close collaboration
+I had with the Nolan
+brothers and buil in right from the very
+beginning baked in baked in and and a
+science that uh in which the guid line
+that we worked from is that uh nothing
+in the movie would violate
+well-established physical laws and all
+the wild things would at least spring
+from science in some manner any good
+science fiction story should be but
+there's not enough well there's nothing
+wrong with fantasy uh films the Harry
+Potter style for example it's just a
+different genre by the way that film uh
+you
+you must have known you said okay we
+we're going to have to help people out
+give a guy a break okay they're trying
+to see the movie they're trying to
+follow what's going on what the hell's
+happening why did the guy get old who
+why is he younger than his mother what's
+going on and you up and said let's help
+Let's help a person out yeah well it I
+would put it a little differently it was
+I saw it as a superb opportunity to use
+this uh film as a motivator and to get
+people interested or intrigued in
+science and then there would be a bridge
+to uh the science through this book
+admit it you created a Gateway film it
+it was a Gateway film yes so the science
+of interstellar yeah New York Times
+bestseller Kip Thorne with a forward
+written by of course Christopher Nolan
+and it says spoiler alert uh this book
+explains the Fantastic Climax and ending
+of interstellar and so let me tell you
+how that came this issue came about
+Chris said to me early on I would like
+to make a film where the ending is as
+mysterious as the ending of 2001 Space
+Odyssey that's a high bar that's a high
+bar but he greatly admires Stanley kubri
+and and that film and so somewhat later
+on as we were talking about the ending
+and we had lots of conversations about
+the ending he said well you can explain
+the ending in this book that you're
+planning to
+write so he volunteered you to write the
+book
+well no I was already planning to write
+the book but uh he identified that as
+the place where the eny will get
+explained he was not going to explain
+the he would leave it mysterious not in
+his film he was pulling a a kubric on us
+that's right uh in fact we uh
+interviewed Christopher Nolan if you're
+an archive diver uh we've got a whole
+episode with Christopher Nolan even
+before Interstellar was uh produced and
+as we know so many of his movies he
+plays with time in some kind of
+interesting way if I remember correctly
+he talks about how influential 2001
+Space Odyssey was to him back in 1968
+that that would have been yes um so let
+me ask you just a couple of things about
+the story line and I and I have I have
+an issue with it if I may but I know I
+don't know if I ever went public on this
+but I figur I I'm in front of the man
+himself so I if I have an issue they
+would be here and now you're GNA you're
+going to get turned into a journalist
+who's challenging me going to give me a
+tough time yeah I got to I can't this
+can't be just
+all okay softball let play a little hard
+ball so I guess my issue we're looking
+for a planet again this is in the themes
+of the of the movie we're looking for a
+planet like Earth similar enough to
+Earth that we can send people there to
+continue our civilization and our
+species is that a fair characterization
+of a plot line of the plot line okay and
+it turns out there's like a wormhole
+that can make that happen a little
+faster because otherwise you don't live
+long enough to travel the distances with
+the Rockets available to hit those
+destinations okay I'm just thinking this
+blight on the crops that was starving
+everyone on Earth requiring that we jump
+ship literally jump ship to go find
+another ship another spaceship
+Planet it seems to me that whatever
+effort it takes to find another Earth
+travel through a wormhole ship a billion
+to terraform it ship a billion people
+there whatever that effort is seems to
+me to be a bigger effort than just
+telling the biologist come up with a
+serum that could fix the crops even
+today we have full knowledge of crop gen
+genomes just fix it whatever is just go
+in there Nip Tuck the DNA fix it isn't
+that cheaper easier
+faster than worm holing your way off
+this planet that's my that's where I'm
+coming from do you think that all
+problems can be solved by humans with
+human technology a time scale you have
+such faith in come on so I'm The
+Optimist here okay so let let me
+describe this this characterizes how
+that this movie was done so when it was
+uh Jonah Nolan Chris's brother who came
+up with the idea that he wanted a blight
+or something like that and so we said
+okay we will bring together the best
+biologists we can who are experts on
+these kinds of things uh put together uh
+uh most mostly calch biologists uh and
+and we had a dinner and we brought out
+very expensive wine for them to drink
+and we set up a recording in vino
+veritos okay in truth there is wine yes
+in wine there is truth yes and uh so uh
+we I had a conversation that lasted
+about three three or four hours at the
+Caltech Faculty Club the aam about what
+could we what would be the best
+backstory here there are two types of
+blights there are generalized blights
+that attack lots of crops and there are
+different species ofs lots of different
+species of crops but they are generally
+uh fairly benign blights and then there
+are uh uh blights that are very specific
+to a particular crop and they can be
+very lethal blights uh that may totally
+wipe out that species on Earth even but
+basically for Earth to Sur Earth and
+life on Earth to survive uh you better
+not have a vicious generalized light
+light but according to the biologists
+that I discussed this with they didn't
+know of anything that would prevent the
+development of a very vicious
+generalized blight so that's what occurs
+in this movie and it's something that
+that biologists have never seen but they
+cannot uh rule it out rule it out okay
+so let me repeat what I think you said
+said they have vicious lethal blights
+that attack a species less lethal
+generalized blights that cross species
+boundaries and they can't rule out a
+lethal
+flight that would cross species that's
+right and so that's what's happening in
+this what's happening in the film and
+okay and that's what they just
+biologist in this in the back so there's
+I'll give you that okay okay so anyway
+there this film is full of backstories
+because of the way we did it it's as I
+say again it's unlike almost any other
+film and that uh these issues were uh
+like that vetted were vetted by the
+world's best experts in the process of
+the writing of the screenplay okay as
+we're diving into Kip Thor's impressive
+work one thing is clear his theories
+have reshaped our understanding of the
+universe so you might think the latest
+Nobel Prize for physics would go to some
+like Thorne but it went to computer
+scientists instead their contributions
+to machine learning is undeniable but
+still a surprise for the world of
+physics some reports focus on the
+Godfather of AI regretting his invention
+While others don't exactly see the
+problem in moments like this access to
+diverse perspectives is critical making
+ground news essential there're a
+platform created by a former NASA
+engineer who saw a bigger problem down
+here on Earth than up in space and the
+way we consume information and how
+heavily that shapes Our World Views
+ground news responsibly uses technology
+to add Clarity to a world full of
+opposing opinions by showing
+perspectives from around the world how
+reliable sources and blind spots so you
+can see important stories barely
+receiving attention here's why that
+matters critical thinking drives the
+pursuit of understanding complex
+Concepts it challenges established
+beliefs and it's the only way we can
+make new discoveries so for those of us
+who are curious enough to dive into New
+Perspectives now is the perfect time to
+give ground news a try take advantage of
+their massive 50% discount on their top
+tier Vantage plan and get access to
+every feature we've shown and more for
+only a limited time use our Link at
+ground. news/ StarTalk or scan the QR
+code to subscribe
+as we continue exploring Kip Thorn's
+groundbreaking series remember ground
+news can bring that same level of
+critical thinking to how you stay
+informed now back to the show well I got
+another
+one okay you're one for one all right
+when they're on the black hole Planet
+okay uh and then they see this wave
+coming okay it's Miller's planet
+planet the planet orbiting gargantuan
+Gargantua okay the strength of title
+forces are highly sensitive to the
+distance you are to that which is
+causing the tides highly sensitive okay
+but every illustration I've drawn or
+taught about Tides they're not so peaky
+they're much broader in their
+representation on a planet and so there
+they are waiting in water
+but then they see this single wave come
+and if it is a single wave as we've seen
+with tsunamis it actually takes water
+away from what's ahead of it because it
+can't just be water out of nowhere it's
+drawing water from its vicinity so my
+two issues was if it's tidal would it be
+that peaky and if it's any kind of wave
+how could it still leave the water
+laying around its vicinity and then just
+be that big as it came by so there is a
+type of wave called a solitary wave on
+water that was you could tell me you
+brought wave people together and had
+that lunch what you talk
+no this particular kind of wave was
+discovered in the 1700s wow by I've
+forgotten who a a a physicist in in
+England who saw a boat that was being
+pulled by horses and it was just
+starting up and it created this wave
+that traveled down a channel a canal uh
+and it was peaked like the wave in
+interstellar though the wave and
+Interstellar I have to admit it was
+exaggerated there was exaggeration there
+was some exaggeration in the peak but
+but it traveled down the channel it
+never
+broke most waves at the ocean they break
+they okay just so we can get the picture
+because we're talking about centuries
+ago uh when you see a channel that would
+be a Channel or canal canal and then
+there's a toe path on the side and then
+and then people and more likely beasts
+of Burden would drag things through the
+canal cuz themselves don't typically
+have current drag a barge down the canal
+a barge exactly and so this barge was
+dragged down the canal uh and it was
+just starting up and it created this
+wave that uh on the startup on the
+startup and it just headed out and just
+took off and went down the channel and
+this this guy got got on his horse and
+he followed down the channel and it went
+and got to love curious physicists
+Nothing Gets By it went went down the
+channel for I I don't know a mile or two
+uh without changing its shape without
+breaking without breaking and so the
+theory of these waves
+is is that there there are two different
+effects that cause a wave to steepen uh
+or disperse and the two can balance each
+other out stable sort of a way and give
+it longer life and give it long life uh
+and so aside from the issue of friction
+if for there were no friction it would
+just live forever and keep propagating
+in a very stable way it's there's a
+mathematics behind it something called
+the COV de equation that this is a
+solution of but anyway these waves then
+so so that equation I presume has both
+kinds of waves uh in equilibrium somehow
+represented the STA W the
+dispersion and and and the steepening
+the steepening is due to nonlinearities
+the dispersion is due to the fact that
+that the higher wave the higher parts of
+the water travel faster than the lower
+parts of the water if you're at the
+ocean you see a little tiny wave it
+travels quite slowly you see a big wave
+it travels quite fast and that's why the
+the crest of the wave will actually
+break before the rest of the wave gets
+there is that part the reason that's
+right that's right unless that's being
+balanced out by dispersion which
+is anyway I love it good good I'm loving
+it I'm getting a slightly confused but
+anyway the two the two effects balance
+each other and to produce uh this very
+stable uh solitary wave and so in the
+movie but in for this stable solitary
+wave the height of the
+wave is and I forgotten the number but
+it's something like six times higher
+than the depth of the water got it so
+there's a problem now in the movie
+because they're walking around in
+shallow water and this wave is high and
+so it's got to be deep water okay but
+they're but but they're on an
+island this is the backstory again
+there's always a backstory oh so they're
+on a a Subterranean a sub surface Island
+yeah you got to read it in my
+book They're they're they're they're
+on they're on on an island and this wave
+defract around the island they hardly
+notice the island at all so so again
+there's it's it's all explainable except
+there is a bit of exaggeration the the
+in the CGI uh wave was made uh somewhat
+more Peak somewh give you that it's a
+movie and it's Hollywood but what you're
+saying is this wave might have been
+caused by some effect other than the
+tital forces of the black hole Yeah well
+this wave is caused in fact by the fact
+that this uh time is is very is much
+slowed on this uh yes on this planet so
+the planet has been uh put into the
+orbit around Gargantua not that long ago
+is seen uh on the
+planet though it's a long long time ago
+was seen from far away and it is it's
+like Mercury like the moon keeps one
+face toward Earth or Mercury capes one
+face toward the sun due to Tidal effects
+this planet is distorted by tidal
+effects and it's swinging back and forth
+it has not yet settled down uh to one
+face toward the planet and that swinging
+back and forth is generating this wave
+that's all in the book he weasel out of
+another one
+okay there's an enormous amount of
+Science in that I must have missed that
+when I went through the book and one
+last point you didn't study it carefully
+enough
+one last point we uh took our show to
+Oxford yeah recently and uh interviewed
+a an Oxford I think it was a
+postto and I name Andrew Mumy postto and
+he showed us a recent paper he published
+I don't know if you've seen it recently
+like within the past 18 months and uh
+he's a the radical physicist and he in
+alerted me something I'd never knew uh I
+love the field but it's not my active
+professional field that in the vicinity
+of a black hole there is an innermost
+orbit because of course you can orbit
+any source of gravity even if it's a
+black hole but for black holes in
+particular there's an orbit within which
+the orbit is no longer stable and it
+will spiral into the black hole itself
+and according to his calculation to get
+the time dilation necessary in this
+scene with the black hole Planet which
+was huge remember they were on the
+planet for like 15 minutes or whatever
+how long 1 hour on the planet is seven
+years up at high seven years up in their
+spaceship okay and the guy who they left
+there he was like gray and unshaven and
+everything and we're like oh my gosh
+there's some serious einsteinian physics
+going on here his calculation showed
+that for that difference for that
+extreme difference in time d
+requires that planet orbit so close to
+the black hole they would be on an unst
+in the unstable Zone and so I I just
+thought I'd tell you that my calculation
+says
+otherwise so so so and where's his Nobel
+Prize the other guy the formula is in
+the book in in this book yeah so so you
+so we don't have to go to your graduate
+textbook for that well not for the
+answer okay if you want can to to derive
+the formula that's a lot of work so let
+me tell you the story behind this got a
+story okay so Christoper Nolan says to
+me one day he says I
+want the uh hero and Cooper the hero in
+this movie to go down onto this planet
+Cooper played by Matthew MCC that's
+right Professor Bran's daughter is
+played by Jessica Jessica
+chest Chris Christopher Nolan says to me
+he says I want in this movie
+that one hour on Miller's planet is 7
+years up at very high orbit or back on
+Earth he prescribed that and I said to
+him that's impossible because the planet
+will fall into the black hole he said go
+do a real calculation I've already
+learned that your offthe cuff reactions
+can be wrong and I should not trust you
+unless you do a real calculation there's
+a good Hollywood producer go back and
+give me the answer I'm looking for well
+well and so I went back home and I did a
+real calculation and I was amazed uh
+that the last stable circular orbit
+which is what we're talking about uh is
+uh if this planet spins fast enough last
+circular stable orbit can have as high a
+a a high a red shift as high a time
+difference as you might wish but that
+requires the dilation it requires black
+hole spin extremely close to the maximum
+possible Spin and so in the book I give
+the formula for what is the uh the spin
+of the black hole that is required to
+produce a given amount of slowing of
+time did not know that and and that and
+so that it's an approximate formula but
+it's a formula that can be derived
+though takes takes a fair bit of algebra
+okay so the one one would just learn
+about would probably be that the lowest
+stable orbit around a nonrotating black
+hole that's right and that's a clean
+that's that's a clean problem and that
+clean problem that's that's what I was
+thinking
+when this when I knew that if I made the
+black hole spin that it would get closer
+but I couldn't imagine I could not
+imagine that it that nature would
+provide
+it a
+orbit for a black hole that spins fast
+enough that they could provide this much
+of a slowing of time it does it does at
+least unless I made a mathematical error
+but I don't think that's like because I
+because I used
+Mathematica okay you had tools to help
+you do this because check my
+calculations because it was it's not
+just an analytic solution well it is an
+analytic solution but it's very
+complicated it's very complicated you
+okay well it's a power series solution
+in the end I think the our hero
+character is inside the black hole we
+come to understand understand this and
+he has access to a timeline that
+wouldn't otherwise be available to him
+and he sees his
+daughter's
+bookshelf well he's no longer inside the
+black hole where is he when he's doing
+this so this is the key thing that's not
+explicit that you only understand if you
+read my book you didn't read it well
+enough busted no I I I read a lot of it
+let me say I what I read I read some of
+the biology it was a long time ago too
+yes okay so so he when he gets inside
+the Black Hole uh he is scooped up by a
+a a spacecraft that was built by this
+Advanced civilization that provided the
+uh the Wormhole uh to him and to
+humanity and it's called the Tess act
+and it's a tesseract is a
+four-dimensional cube four spatial
+dimensions and that's why in there you
+saw
+uh I guess the past and future all kind
+of
+simultaneously it felt very higher
+dimensional that's
+right this Tess he so so so let me back
+up I'll tell you a
+story so early on in when we were
+working on the film uh uh Christopher
+Nolan said to me he wanted uh to take
+his hero back to Earth Cooper back to
+Earth uh by a different route than the
+Wormhole 10 billion lot years away from
+the earth how's he going to do it if it
+doesn't go through a wormhole he said
+well I want to take him back faster in
+the speed of light and of course I say
+to Chris you can't do that it violates
+the laws of physics he says go do a real
+calculation I said I don't have to do a
+real
+calculation and so we discussed this for
+a week and then he uh threw in the tow
+he said okay I believe you and so what
+do we do and so I said well uh you put
+him he goes inside the black hole he uh
+gets deposited on the three-dimensional
+surface of a four-dimensional sphere and
+this four-dimensional sphere is a
+spacecraft that go can go into the bulk
+into the higher Dimension and it take
+goes out of the black hole not through
+the Horizon it can't do that it goes up
+go through the fourth dimension up
+through the fourth space Dimension or
+what's called The Fifth Dimension in the
+movie this time is the fourth dimension
+and goes back to Earth and the distance
+back to the Earth is less than the
+distance between the Earth and the uh
+Sun even though it's 10 billion light
+years inside of our universe up in the
+bulk it's a very short distance and so
+he can get back quickly this is the
+higher dimensional SpaceTime in which we
+are now having this so he gets back very
+quickly uh riding on the surface of this
+four dimensional sphere he said I like
+it all entirely except I'm not going I'm
+going to use a four-dimensional cube
+instead of a four dimensional sphere
+that's a tesseract yes and uh so that's
+what happens and you when you see Cooper
+out there sort of flailing around uh at
+the beginning of the test scene he's
+being carried by the test back to Earth
+but you don't know that's what happening
+until you read my book by agreement
+between Chris and me that's that's the
+only way anyone's ever going to know so
+anyway he's carried back to Earth and
+then everything is happening when the
+cact is docked uh in the higher
+Dimension beside his uh giving access to
+his life in that past time that's right
+so it's it's docked in his home by his
+in his daughter's bedroom okay so now
+he's pushing books off the shelves that
+land on the floor and through some
+clever cryptographic judgment he's
+spelling out words with the first letter
+of the title of each book okay here's my
+issue I had no problems with tessaract
+black hole fourth dimension five
+Dimensions how does he know the title of
+each
+book from the other side of the book so
+I don't remember that's how he's
+actually uh he's pushing books out I
+know he's push I know he's pushing he's
+pushing B out from this side yeah yeah
+and all he sees is the other side of the
+library
+I I guess I had forgotten that he was uh
+spelling things out based on the first
+word oh you forgot I forgot or I didn't
+know or you're are you're
+wrong so that was one of my I little
+issue there that that that one I don't
+know oh okay okay I don't know okay so
+you're you're three for
+four he he Pro he probably has he
+probably has a photographic memory the
+other side of the
+book what's this I hear that you can use
+a wormhole to travel backwards in time
+does the math check out does the
+einsteinian physics check out and does
+that mean I will just show up a younger
+version of myself and shake my own hand
+is that what you mean by that or do I no
+longer exist in the time that I left for
+my younger version of myself to see that
+and wasn't there I didn't Hawking put
+forth a time
+travel prevention conjecture or
+something was what what's going on there
+so this is all an outgrowth of my phone
+conversation with Carl
+Sean uh when he was uh working on the
+novel for contact where uh he triggered
+me to start thinking about
+wormholes and then having started to
+think about wormholes it became pretty
+obvious to me rather quickly that if uh
+I give my wife car Le one mouth of a
+wormhole and she carries it at high
+speeed in a rocket ship out into space
+and then back and I keep the other wor
+mouth at
+home and uh if she she sees me age by 50
+years back on Earth well she AG is only
+one year going out and coming back but
+if we look Through the Wormhole at each
+other uh we see each other aging at the
+same rate just imagine uh we hold hands
+and we look at each other's wrist
+watches they're it's ticking away at the
+same rate so through the wor Through the
+Wormhole we've aged at the same rate
+we're the same age but uh looking
+throughout outward through outside the
+world a normal universe
+all she's aged one year and I've aged 50
+years something weird has happened the
+Wormhole has become a time machine I
+just go over and go into her mouth
+Wormhole mouth and come out I'll meet my
+younger self okay now Hawkings said this
+is no we're not going to allow this
+there's some
+conjecture yet to be discovered that'll
+tell you you can't do that well so know
+the story we get there you're going too
+fast I'm going too fast sorry so so I
+then I talked to friends at the
+University of Chicago physics it's
+crucial to talk to friends they tell you
+where you're all at you tell you when
+you made a mistake they straighten you
+out and they pointed out to me that uh
+it might be that when the time machine
+is turned on it'll self-destruct
+basically they said I
+said I don't understand they said go do
+a calculation so I went and did a
+calculation and the issue is
+and they had guessed and basically
+that's oversimplified but they Bob gach
+and Robert Wald at
+Chicago anyway it turns out that at the
+moment that you can first time travel
+the F the first thing that go goes
+through it can be vacuum
+fluctuations of light say that Ender her
+mouth of the Wormhole come out of my
+mouth and go back and arrive back at the
+her mouth at the very moment they
+started out now you have twice as much
+at the same place in space and time so
+this is a runaway so it's a runaway and
+so they you now have twice as much and
+then it goes around again now you have
+four times as much goes around again so
+this runaway uh builds up just like the
+the feedback between a microphone and a
+speaker precisely and it just runs away
+it just runs away and runs away and and
+this runaway shows up in the quantum
+mechanical calculation that that I did
+you're bumming me out dude together with
+San Kim a Korean post of mine okay I
+want to be a movie director and say go
+hiip go home and figure out how to do
+this give me another pull another rabbit
+out of the Hat here well anyway we
+discovered this Stephen I think and one
+of his stepen Hawking uh and a student
+of his I think had more or less the same
+Discovery at the same time except step
+probably just did it all in his head
+because the way Steven is anyway so uh
+then Steven and I started corresponding
+about it by email and talking on the
+phone about it and so forth it appeared
+to me looking at at the details of the
+calculation that uh in fact the
+explosion if I designed the time machine
+just right the details of the explosion
+this explosion would not be strong
+enough to destroy the Wormhole uh and
+Stephen then showed me that that I was
+wrong and we argued back and forth for a
+while finally we came to agree that the
+explosion becomes strong enough that
+quantum gravity enters in and then holds
+the answer tightly in its grip and so we
+won't know whether time machine self
+destructs until we understand the laws
+of quantum gravity let me be on obscure
+but then we come to the Hawkins Cosmic
+sensor ship conjecture that's what it's
+called yeah he the conjecture that in
+fact in the end the laws of quantum
+gravity won't save the day the Wormhole
+will be destroyed and any time machine
+any advanced civilization makes will be
+destroyed when they try to turn it on by
+these vacuum
+fluctuations uh and thereby as Hawkings
+says keeping the universe safe for
+historians of all species
+it reminds me of the ultraviolet
+catastrophe MH where you run the
+calculation this is going to blow up how
+does this even work and then outcomes
+the discovery of the quantum which Saves
+the Day right and this is could be a
+calculation waiting for another branch
+of physics to open or or another
+progress no in the known branches of
+physics to resolve the loo team has has
+perfected a technique called quantum
+Precision measurement which is based on
+manipulating vacuum
+fluctuations uh in order to circumvent
+the uncertainty principle and so this
+business of manipulating vacuum
+fluctuations is something we do in
+modern physics if memory serves Carl
+Sean came up to you and said for contact
+I want to go far
+distances quickly how am I going to do
+it can you cook up a wormhole for me
+Carl me uh
+in well back in the
+80s when he's writing the novel
+obviously the no pred of the movie
+that's right and he said that he wanted
+uh that he has written he'd already
+written this the book The Novel it was
+already in page proofs and he said I've
+got this novel it's in page proof the
+publisher is not going to be happy if I
+change it but I really need some help
+see what the truth is and then we'll
+figure out how to deal with this and uh
+he said that I have my heroin traveling
+through a black hole to get to the star
+of AA and I said that's rather dangerous
+there's a singularity in there okay
+there's a singularity in there and you
+can't get through get to the star of
+Vega so what you actually need is a
+wormhole uh but there is is an issue
+that wormholes implode they collapse so
+quick that nothing can get through but
+I'll see if I can figure out how how to
+hold the Wormhole open just for you
+Carl and so and so I was go I was going
+with it's like rent a physicist right
+it's like whatever your needs are so so
+I was getting in a car that that morning
+to ride uh with my uh former wife to our
+daughter's grad uation up at Santa Cruz
+so Lind Linda was said I'll drive and
+you
+calculate so okay so she drove and I
+calculated and I fiddled around and then
+it became fairly obvious turns out
+somebody other some other physicist
+figure this out sooner but I that's the
+usual thing with me I I figure it out
+then then I go see did people know this
+before or not so so anyway I figured out
+that uh
+you if you had what I like to call
+exotic matter that repels
+gravitationally and you put it inside
+the throat of a wormhole that can hold
+the Wormhole open it' be like pushing it
+outward that's right it basically repels
+the the walls of Wormhole to hold them
+open and it turns out that that that
+will do it but you have to
+have you have to have enough exotic
+matter to hold the Wormhole open and uh
+I deduced a formula for for how much you
+had to have Bas and it basically says
+the following uh if you move Through the
+Wormhole let the record show he's about
+to describe how to make a wormhole no no
+only how to hold it only how much EX got
+matter you that sounds like a recipe to
+me but so you you travel Through the
+Wormhole as close to the speed of light
+as you possibly
+can just very close to the speed of
+light and you
+you add up all the the energy density
+all the way through the Wormhole of
+stuff that's in the Wormhole the net has
+to be negative and then you can hold the
+Wormhole open so it basically means
+you've got more negative energy than
+there than positive enery we have
+nothing known as exotic matter oh yes we
+do what yeah and so that oh is is this
+in your basement
+is what do you mean oh what what what do
+you mean oh yes we do what what okay
+what what is our exotic matter that
+would fulfill this purpose so so if you
+should we turn off the camera
+now are are the is the government going
+to show up on your in your
+driveway okay go well I I learned about
+this from Yakov barovich zovich in
+Moscow zovic zovic was one of the
+inventers of the Russian hydrogen bomb
+okay and I learned this from him all
+right okay he was really brilliant I
+learned about
+about vacuum fluctuations and how
+important they can be and what how
+powerful it can be if you can manipulate
+them and uh so and so if you take a box
+and you remove everything that can
+possibly re be removed from the box
+you're left in the end with tiny
+fluctuations of everything that c
+possibly could have been in the
+box so
+electric Fields you have fluctuating
+electric Fields fluctuating magnetic
+fields fluctuating protons
+electrons fluctuating NE Ty the grass
+Tyson so this this creates a form of
+pressure inside the Box well so the ne
+there's Vanishing pressure and that
+Vanishing energy due to
+renormalization that's a Nast that's a
+nasty word in physics but
+uh the the
+uh well me we can you can measure energy
+by whether it produces gravity or not
+and uh although these fluctuations that
+are there it you can think them as
+particles say particles of light
+flashing in and out of existence
+randomly so why isn't this not the
+virtual particles that people speak of
+so it's virtual particles it is that
+okay we we've spoken about those on our
+show before okay so you have
+Green in fact so you have virtual
+particles uh in the vacuum popping in
+and out of existence popping in and and
+you can't stop it you can't prevent it
+however you can take fluctuations from
+one region and borrow them and put them
+in another adjacent region for a little
+while or if you put an
+electrically conducting a sheet say a
+sheet of of of superconducting metal
+here then that will suppress the
+fluctuating electric Fields parallel to
+the metal because they would create an
+infant current flowing in that metal and
+that would that that would wipe out the
+the electric field parallel to the metal
+and so uh is is that an element of the
+Kazmir effect yes that's the Casmir
+effect is yeah where you have two
+parallel plates evacuated between them
+right and there's a point where they
+actually feel a whole other Force
+attracting so what that Force really is
+is uh in the region between them uh the
+vacuum fluctuations are suppressed and
+so you have negative energy in between
+that energ negative energy is sucking
+them together and you have you have you
+and they can do work on you if you
+you're holding on to these plates uh and
+they attract each other put energ to
+resist you put you put energy in as they
+go as they go together they do work on
+you the electric electromagnetic field
+between two plates in the casmer effect
+uh is exotic okay and so so you have
+this in your basement is what you're
+telling me well I don't have it in my
+basement but but physicists do this let
+me just say as a side remark H Having
+learned a lot about vacuum
+fluctuations we in ligo in our gravity
+wave project get to that get to that
+I'll just just make the remark that we
+have we the loo team has has perfected a
+technique called Quantum Precision
+measurement which is based on
+manipulating vacuum
+fluctuations uh in order to circumvent
+the uncertainty principle and so this
+business of manipulating vacuum
+fluctuations is something we do in
+modern physics and it is something then
+that uh you can imagine you can ask can
+a very Advanced
+civilization manipulate vacuum
+fluctuations adequately in order to make
+enough exotic matter inside a wormhole
+to hold the Wormhole open and so I POS
+this as a a question to my physicist
+colleagues uh stimulated by Carl San and
+want him wanting to send his heroin
+through a black hole I said no use a
+wormhole and so we got a pulled it open
+and so physic colleagues please help
+Carl and figure out can an advanced
+civilization do this and the answer is
+we still don't know uh 40 years later
+now we still don't know right well we're
+doing magic compared to what anyone
+thought was possible 50 that's right
+years ago certainly the dawn of quantum
+physics we're on the Centennial of the
+decade of quantum Discovery back in the
+1920s well I had was very close friends
+with Carl San and I've developed close
+friendship with Christopher Nolan Chris
+has a very different background than me
+he knows a lot of science but he's
+learned all by browsing the web and uh
+he uh and he knows it well enough to ask
+me hard questions that's just like you
+do uh but he asked them first so I have
+the answers now so so he and and have
+inspired me to ask questions that and
+then I sort of translate to and give to
+colleagues because my colleagues are
+smarter than I am my my my uh role is is
+to pass on interesting conduit for this
+conduit for interesting question for my
+colleagues to work on so dude you can't
+leave well enough alone Einstein says
+maybe there are gravitational waves
+emanating from major gravitational
+disturbances in the universe and you got
+to go up and find them but you're not
+the first to have attempted this right I
+at the University of Maryland there was
+Weber I think I think what's his first
+name Joe Weber of course who had a
+cylinder if I remember
+correctly uh where he was trying to
+measure whether if a gravitational wave
+washed over it he could detect a
+distortion in the shape of the cylinder
+I think was the goal yeah well he would
+the gravitational wave would drive
+vibrations of the cylinder end to end
+vibrations okay and uh so he
+instrumented it to search for uh changes
+in the amplitude and phase of vibrations
+of the cylinder cylinder is at a finite
+temperature so it's always vibrating a
+little bit because it's the finite
+temperature and uh so and so he
+instrumented it uh with what's called at
+electric transducers transducers that he
+that he glued around the uh middle of
+the cylinder that when they were
+squeezed they would generate an
+electrical voltage that he could measure
+and there they're amazing things this p
+Electric transducer is just absolutely
+amazing you squeeze them a tiny tiny bit
+and you get a big voltage out uhuh and I
+mean Joe Weber was tremendously creative
+he was and he I think he was working on
+that while I was at the University of
+Marland I was there in the 80s I think
+he was still working on it yeah that's
+right so he began working on it uh in
+the uh late 60s early 70s and uh uh
+announced that he was seeing possible
+evidence for gravitation waves in there
+was a lot of skepticism at the time if I
+remember let let me I'm sorry he started
+working out in the late 50s early 60s
+announced in
+69 that he was uh seeing some possible
+evidence of gravitational waves and a
+number of
+other physicists around the world built
+similar detectors and the bottom line in
+the end after a period of shaking out
+was that others were not seeing grav
+ation waves and that's the only way
+science works is one person's result is
+not a result until somebody else a
+competitor somebody else who uses
+different wall current somebody from
+another country you need you need
+multiple verifications but on the other
+hand uh Weber Joe he started the field
+he triggered this work the Theo the
+approach that he invented for searching
+for gravitational waves was the dominant
+approach from then until uh the 2000s
+and the number of other research groups
+built similar detectors and improved
+them better and better and better uh
+over that period of time on that model
+on that model the model so so I mean I
+have enormous uh respect for for what he
+did sure now you now you decided to you
+and others uh decided to look
+differently for them so Ray Weiss Riner
+Weiss Ray his friends call him at MIT
+was the primary inventor of an
+alternative technique that was the
+technique that ultimately succeeded uh
+he invented it he wrote he wrote a a
+technical paper about the technique that
+identified all the noise kinds of noise
+that you would have to deal with and
+explained how you how you might deal
+with them and did an analysis of how
+good this detector could be and he put
+there there's the recipe paper so oh my
+gosh it was a recipe for for how to go
+forward and he he wrote this in
+1972 and Ry being Ry didn't publish this
+because he I think he figured you don't
+publish until you have built one and
+seen a gravitational way so but however
+Ray sent copies of this around all his
+colleagues and uh he put it into
+quarterly reports of the MIT laboratory
+in which he worked and so it it is
+probably the most influential
+non-published paper certainly that I
+know of in physics I mean it was it was
+a t to force and it triggered uh the
+huge effort that that actually succeeded
+I was fortunate enough to to visit uh
+the cuz there were two Lego experiments
+one in Louisiana and the other one is
+in Hanford Washington why do you have
+two because you can't just have one
+result yeah they you're looking for a an
+effect that is so small that you
+wouldn't believe it unless you see it on
+two independent instruments there you go
+so you've got these
+pathways are they kilometer long 4 km 4
+km long
+evacuated you send a beam of light that
+is split from a sink beam laser that
+split it goes to these are at 90° angles
+and they go to the end they get
+reflected back and you rejoin them and
+you want to see if their waves line up
+and if they line up then each direction
+is identical you can go home if they're
+slightly different then one of these
+legs experienced a different
+encounter with the fabric of the
+SpaceTime Continuum than the other did
+so that's that's you know that's so
+actually what you want to do is you make
+them slightly different in the first
+place but then so that means you send
+you send your laser light in from this
+direction uh there's a beam splitter
+where the light gets split in two to go
+down the two arms uh so laser G goes in
+like that there's this beam splitter so
+it the light gets split in two into one
+arm in that direction the other arm in
+this direction uh and uh then it comes
+back and recombines in the beam splitter
+the laser light was coming in from this
+direction uh uh but when it
+recombines a little bit of light goes
+out uh in a perpendicular Direction so
+you have a laser here and you have an
+output over there and the out put
+direction is the direction that has a
+signal and if the if the length of one
+arm is shortened and the length of the
+other arm is in length and that would
+only happen because a gravitational wave
+washed over that arm that's right then
+you get a change in how much light is
+coming out to the output all right so
+this you're trying to find a a change a
+length difference and if I remember the
+materials from the press releases
+that is equivalent
+to10th the diameter of a proton no it's
+equivalent to uh it's 10 million times
+smaller than an atom and 100 times
+smaller than a proton 100th this the
+diameter of a proton meanwhile all the
+world is vibrating because everything is
+at a temperature and and cool it as much
+as you want there's still vibrations and
+and and somebody is walking down the
+street I I remember being on campus
+there can I call it a campus that's what
+it was and you can you can
+detect cars on the road a mile
+away you have to insulate this that's
+half the science done for the experiment
+you should get a Nobel Prize for
+that well that's that's what that's what
+the Nobel Prize was given for for that
+yeah to have successful
+isolated the effect you're trying to
+measure so so the way I like to describe
+it is you're trying to you're bouncing
+light off these
+mirrors and you're looking for a motion
+of the mirrors that is 10 million times
+smaller than the atoms of which the
+mirrors are
+made and uh well the
+mirrors the atoms in the mirrors
+themselves are vibrating because they're
+at finite temperature by an amount that
+is about the same as their size so that
+million times smaller than uh the atoms
+and 10 million times smaller than the uh
+vibrations the atoms are undergoing so
+once again in physics there's a
+phenomenon we're trying to measure but
+it's kind of
+buried and you need a way to get to it
+and it seems like half if not more than
+half of the effort is how brilliant is
+your engineer that you've brought on to
+the task to accompl accomplish this how
+good are your tools it's not just the
+idea it's now you got to make the damn
+measurement and it's not obvious you
+need very talented people assembled for
+this absolutely and so that was the
+issue is how good a team can you put
+together uh so when I learned of Ray
+Weiss's idea and I saw and I knew
+roughly how strong the strongest
+gravitational waves be I knew already
+then that uh it would be necessary to
+this would be the Collision of two black
+holes of two black Hol and you can't
+just summon that up there has to be real
+things in the universe that might
+produce that right right you can't just
+wish for but based on what we knew about
+the universe at the time I was
+estimating a wave strength that was
+roughly correct and it was at that level
+that you would have to monitor the
+motion of these mirrors at
+10 million times smaller than the atams
+in the mirrors and I thought to myself
+that's
+crazy and so in this book which was
+published in
+1973 we went to press just after Ray
+Weiss wrote his seminal paper I had not
+yet uh really studied that paper fully
+uh but I I just knew uh that this was
+crazy and so it describes in a few words
+Ray's idea in here and then it
+says I think there's an exercise where
+it says show why this is not very
+promising just a mild gentle because it
+is a textbook right you get to you get
+to declare that the students students
+challenge to show well it could not be a
+very good idea in
+1973 but fast forward a half a century
+right so so it is 1850
+flying is not a good idea right on why
+flying isn't a good idea yeah but so but
+that was the central issue if if we
+worked for a few
+decades did we have a shot at success in
+1973 I thought no no way but by
+1975 I had turned around I'd had long
+conversations with Rey I'd had long
+conversations with Vladimir binsky a
+colleague in
+Moscow i' done lots of calculations of
+my own and I came to the conclusion that
+you had had a real shot at
+success if you put together a superbly
+strong team and you worked at it for a
+few decades and you need money and you
+you were well supported I think by the
+National Science Foundation well not yet
+so at that point and NSF had given Rey
+$60,000 to get
+started and uh $6,000 that's that that's
+how much he had in the 1970s from the
+National Science Foundation he also had
+some money from the Air Force office of
+scientific research I'm not sure how
+much he had or he had had that until
+until in the Vietnam era they stopped
+supporting science uh due to something
+called the Mansfield Amendment American
+politics and that's when NSF picked him
+up and gave him 60,000 that was a drop
+in the bucket compared what was needed
+and n St wasn't about ready to put big
+money in this required some members of
+your team to like appear in front of
+Congress to defend this that's that's
+that's correct and uh and uh but that
+was much later the issue was getting
+started and so how did we get started
+Caltech is a very different kind of an
+institution than any other I've ever
+dealt with Caltech I was able to say to
+propose to my colleagues that we get
+into this field that we uh uh build a
+experimental program in parallel with
+Ray Weiss's program at MIT so my co the
+chair of the division of physics
+mathematics and astronomy at Caltech set
+up a committee to look at it committee
+uh looked at it for about six months
+detailed study came back and
+enthusiastic said let's go ahead and so
+Caltech put private money about $2
+million of its own private money to get
+started and uh that inflates about $12
+million today oh of private money when
+when nobody else is putting anything in
+not you're right that's a very different
+CL a very different culture at Caltech
+as you describ that had happened and we
+had brought Ron dver from Scotland to
+start the experimental effort then NSF
+and NSF stood up and took notice they
+did their own study of this and came up
+with the same conclusion and they
+started funding us us and Ray Weiss and
+it became a Caltech MIT collaboration
+let's fast forward to
+2016 uh where you make the first
+detection announc it in 16 you announced
+it in 16 by the way I would later learn
+that when I visited the facility in
+Louisiana you already had made the
+detection and You' be happy to know that
+everyone was completely zip mouthed
+about
+until it was officially because I I I
+have this huge like internet following
+right and people were totally zip
+mouthed I swear I didn't know about it
+until the press release came yeah we we
+were all sworn the secret yes yes and so
+the the confirmation of a first
+detection came from the second facility
+built in Hanford and at that point you
+have a time delay because gravitational
+waves move at the speed of light correct
+so and Earth is a finite size and so all
+that worked out yeah yeah so it was just
+seven milliseconds 7 a second time
+difference because the waves came up
+from the south they entered the Earth
+around the tip of the Antarctic
+Peninsula traveled through the
+Earth came up through the Earth at in
+Louisiana first and then Washington
+State second 7 milliseconds later this
+is and and then the waves were
+unaffected by all the matter of the
+earth they just they and they couldn't
+see the difference between Earth and no
+Earth and they couldn't see the
+difference between detector and no
+detector they were very hard to do and
+their thing so what impresses me greatly
+is here we have a prediction made by
+Albert Einstein when in in 1916 or 15
+whatever Albert Einstein in a little
+known fact I mean physicists know but I
+don't think the public knows Einstein
+laid out the equations for the
+stimulated emission of radiation which
+is the physical Foundation of a laser
+yeah that's he he wrote that down first
+Y and a laser would take a few decades
+to actually be built into the 1950s and
+I'm just saying here's Einstein
+predicting gravitational waves laying
+the foundation for a laser and a hundred
+years later his gravitational waves are
+found with lasers yes so these are
+crumbs spilling off his plate Einstein
+was kind of
+smart and lo and behold nobody surprised
+the Nobel Prize goes to this project um
+and you along with Ray Weiss and Barry
+barish uh share the Nobel Prize what
+year was that oh 2017 yeah so they
+apologized to us they didn't give us in6
+because uh we didn't announce it until
+uh past their deadline for well plus
+they delay anyway they never no they
+they said obviously it was obvious the
+prize was going for this just obvious
+yeah hey Star Talk fans I don't know if
+you know this but the audio version of
+the podcast actually posts a week in
+advance of the video version and you can
+get that in Spotify and apple podcast
+and most other podcast Outlets that are
+out there multiple ways to ingest all
+that is Cosmic on Star Talk you can't be
+a gent relativity Einstein guy without
+being a black hole
+guy so uh forgive me for asking you to
+retell a story you've probably told a
+thousand times but there's some famous
+bet you made was it with presal with
+some other physicist pral and and
+Hawking and Steph Hawking uh by the way
+I was was at the University of Texas
+when presc was there I think he was like
+a postto or some he was some it was just
+starting out that's how old I am I'm an
+old guy I'm an old guy you're you're a
+young kid I'm an old man uh so uh you
+made a bet and let me see if I can set
+the table here a black hole once we all
+agree that they exist we can ask other
+questions when you have something
+outside the black hole and it falls in
+what happens to that information that
+was contained in that object
+is it gone forever and is that okay uh
+because information theory was a whole
+branch of science shall I call it
+science that was rising up at around the
+same time and and
+entropy um became a a buzzword among
+many so what was the BET and how did it
+and how was it ultimately
+resolved the BET was between Stephen
+Hawking and me on one side John presal
+on the other side it was over whether or
+not information does get lost in black
+holes the background of and why is that
+so bad okay so it's it's it's bad
+because uh the fundamental laws of
+quantum mechanics as they are normally
+formulated physicists are widely agreed
+that quantum physics is
+fundamental uh and that quantum physics
+underlies all of physics it's the most
+successful Theory ever put forth right
+and of the universe and classical
+physics where there are not these
+Quantum fluctuations there are not these
+probabilities that arises from quantum
+physics as an approximation under
+ordinary everyday circumstances there
+are many people who caricature science
+physics in particular by saying well we
+used to think classical physics was it
+but now we discard it in
+of quantum physics but that's not true
+no quantum physics absorbed yeah as well
+as relativity general relativity
+absorbing Newtonian gravity yeah it
+doesn't it's not discarded it's a bigger
+understanding a deeper understanding
+okay just want to emphasize that many
+people get that confused and so quantum
+physics is normally
+formulated is UN is almost universally
+uh viewed
+has built right into it from the very
+beginning a the fact that information
+cannot be
+lost now these words information cannot
+be lost are a translation into everyday
+language of something else which is not
+everyday language which says that uh the
+evolution of everything in the universe
+is
+unitary and so those those are buzzwords
+that are not part of the normal lexicon
+but I want to to say just to say that be
+indicate that there's some very very
+extremely precise version of this of
+which information is being lost is a
+colloquial way of saying it okay okay
+but it represent a violation of some
+fundamental tenets of quantum theory
+that's right Stephen Hawking back when
+he was visiting Caltech who by the way
+we've interviewed for Star Talk in our
+iives check it out in
+19747
+7475 he spent a year in my research
+group at Caltech we were very close
+friends and uh he during that period he
+having discovered something called
+Hawking radiation which uh is a a very
+slow evaporation of a black hole it
+emits radiation slowly
+evaporates uh he then while he was here
+uh began to look much more deeply at
+quantum theory in black holes and he
+came up with a prediction that
+information really is lost and when
+black holes evaporate you could form a
+black hole uh it if you waited long
+enough much longer than the age of the
+universe for normal black holes uh the
+black hole would evaporate and all the
+information that went into the black
+hole would be gone the black hole would
+be gone you just simply lost the
+information that no longer longer is
+there and that was complete violation of
+the normal tenants of quantum mechanics
+and yet he was claiming that was true he
+he wrote a paper on this with all the
+technical details he couldn't get it
+published because it was it was so
+obvious it had to be wrong but nobody
+could see anything wrong in his
+calculation and so he had to fight for
+more than a year to get it published if
+you look at this P public paper you see
+the submission date as all research
+papers give you yes they give you a
+submission date and then you usually
+have a revised date and then it's
+published there's no revised date
+there's a submission date and the
+publication date is something like
+nearly a year and a half later he fought
+for for a whole year more than a year to
+get this thing published and physicists
+struggled with this ever
+since uh so uh those of us whose root
+are in
+relativity tended to believe Hawking and
+those of us whose Roots were in who grew
+up with quantum mechanics instead of
+Relativity first those of us who were
+enamored of Relativity tended to believe
+Hawk and so Hawking and I made this bet
+with presal whose Roots were in uh
+in in quantum physics and he's the
+junior of you both right young
+whippersnapper coming up he is he is now
+the Richard P fer professor profor of
+thetical physics at calch I'm the
+Richard P fan physic professor of thecal
+physics Emeritus Emeritus okay I'm young
+whipper snappers oh man they'll take
+your job in a minute so I just turned
+the chair over to to
+Johan I mean John is brilliant he's a
+hell of a lot smarter than I am hell of
+a lot smarter anyway so so we made this
+bet and
+uh this was in a period when Hawking was
+starting to visit Caltech for
+Ally 3 to six weeks every year was he
+yet wheelchair bound oh yeah he'd been
+wheel he was wheelchair bound uh going
+way back to about 1970 okay and uh this
+is 1990 oh W much later okay we made the
+BET around 1990 so the stage is set okay
+the cage match is set you and Stephen
+Hawking Titans in your field in your
+subject
+conclude yeah information is
+lost especially if Hawking radiation you
+can evaporate the black hole and
+everything is gone there's no there's no
+memory of what was there ccll is
+declaring that information is not lost
+and his roots are deep in quantum
+physics which we know has never been
+shown to be wrong and they're both
+smarter than I am and they both know a
+lot more about quantum physics than I do
+because we'll return to this but let me
+just explain
+that through my whole career I've
+thought that the quantum gravity come
+combining general relativity with
+quantum physics was the most important
+area of physics of all but I also made a
+decision when I was very young I will
+never work in quantum gravity because
+the field is too crowded there too many
+smart people there I I will I will
+pick I'm smart enough to pick really
+important problems that I can solve uh
+that nobody else is working on and and
+they'll only they'll only figure out
+later that I'm right that that those
+problems are important but I won't touch
+a problem a problem wherever we got a
+million people in the room there too too
+many smart too many smart people in the
+room so anyway so so they they have now
+agreed that information is not lost so
+Hawking conceited and and by association
+with you or or have you still a hold out
+on this no I'm still a hold out okay and
+then and and and what led to this
+concession if I understand correctly so
+he Stephen together with a St
+was working on a a idea for how the
+information might be uh
+recovered and he
+basically said
+that in quantum physics if you form a
+black hole and then it evaporates
+there's also it's a tiny probability
+that the black hole never formed in the
+first place and the information sneaks
+out through the root where it didn't
+form in the first place
+and uh and I'm sorry that sounds like a
+cop out yeah well it does sound like a
+cop out but it's it's very it's very
+clever and it's in keeping with how
+physics works but it's not obvious that
+it's right but it's it's conceivable
+this is this is this is what about the
+idea so maybe I've misunderstood so I
+got to go back to see where I've said
+this even publicly I thought as the
+black black hole evaporates cuz the
+energy the gravitational energy in the
+vicinity of a black hole and
+spontaneously make a pair of particles
+and one particle escapes the other one
+falls into the black hole and this just
+keeps going until there's no black hole
+left but the particle that escapes if
+you inventory those particles they're
+real particles and don't you recover all
+the particles that went in in the first
+place oh you recover all the energy but
+they don't but not the inventory of
+particles the don't get the same
+particles necessarily how okay then I
+misunderstood that I I've been wrong I
+think I've been wrong I thought you get
+particle for particle they come out
+which blew my mind uh I don't think
+there certainly there's no proof that
+that's the case well of course we we
+certainly no proof that the case I don't
+and I don't and I don't think it is the
+case okay okay but okay so so you guys
+lost the
+bat well no I okay Hawking concedes the
+bat Hawking concedes the bat and what
+was that stake for this the loser will
+give the winner an encyclopedia filled
+with information
+that
+that somehow escaped the black hole and
+so and so so information is the penalty
+gift that's right so they Stephen
+Hawking conceded the V at an big
+International Conference on general
+relativity and gravitation in Dublin
+Ireland uh and early 2000 were there
+gasps in the audience there R were
+rumors that he was going to concede and
+so there was a big ceremony that uh I
+played some role in the ceremony but I
+didn't concede myself uh and uh and so
+Stephen gave presc was a big baseball
+fan Encyclopedia of American baseball oh
+any kind of Encyclopedia okay well that
+was his idea that's that's clever so
+anyway so and less expensive yeah I
+didn't concede for a peculiar reason
+that uh there is an alternative
+formulation of Quant mechanics in which
+uh information could be lost it's due to
+Fineman called a sum over histories
+formulation and uh I as I say I don't
+work in quantum theory in any deep sort
+of way I do in terms of quantum
+technology which I we needed for ligo
+but that's a separate story but uh two
+of the very deepest physicists in uh in
+uh working in quantum theory of of my
+lifetime uh were Murray
+galman and Jim hardle Jim harle at Santa
+Barbara gmon at calch and then he moved
+to the Santa Fe Institute to and
+retirement gilm man is credited with
+proposing quarks as the fundamental
+article of science of thecal physics
+when I was a young physicist ptech were
+galmon and feineman
+and two colleagues of mine that I
+enormously respect uh so Gman and
+hardle took
+fineman's path enderal or some of
+History's approach to quantum mechanics
+and they developed it further and a form
+that they could apply it to cosmology to
+the
+universe and uh then
+uh they hard has used that to study
+Quantum cosmology the quantum mechanical
+description of how the birth of the
+universe and how it has evolved that
+particular approach to Quantum Mechanics
+hardle took it and he showed how uh that
+approach can deal perfectly well with
+information
+loss and uh and it deals with it it
+arises because of what we call closed
+timel curves there's a certain
+probability for backward time travel in
+Quantum in quantum physics and in in
+this the in this Fineman galman hardle
+approach uh there's a certain
+probability for backward time travel and
+if you can have backward time travel uh
+at the quantum level then you lose
+information and there's so there elegant
+mathematical uh formulation Quant
+physics is so weasly this way well
+that's that that's not the standard
+version of quantum mechanics but that
+was the version that that that fan and
+that hardland Gman needed in order to do
+the quantum mechanics of the entire
+universe and the birth of the universe
+so we're getting into this issue of the
+birth of the universe and and and
+Quantum quantum gravity here and and and
+I am rather enamored
+of this approach although I don't do it
+I just look on the sidelines and admire
+the these people who are smarter than I
+am and who have the courage to work in a
+crowded
+field but but I'm just so impressed with
+this uh and with the fact that within
+that formulation you can lose
+information is that the start of a
+formulation that will one day marry
+general relativity in quantum physics
+well it it it does do that it's it's not
+it's not I it's knocking on the door
+it's knocking on the door it's it's it's
+it's it's and so so remind me now your
+professor thorn in this question what is
+the problem with G relativity not
+melding together with quantum physics
+what is the what is the real holdup
+there well the real holdup is that they
+are logically incompatible with each
+other and so something has to give and
+that's because of the qu general
+relativity requires space to be a
+continuous you have a Continuum space
+you and and it's a very definite space
+it's not a space where you have a
+certain probability that space is Warped
+in this way and another probability is
+Warped in that that way in fact there no
+probabilities at all yeah there are
+classical probabilities but not Quantum
+not Quantum probabilities and so at the
+at the smallest scale they're
+incompatible the smallest scale they're
+incompatible in in any place where
+gravity becomes extremely strong they're
+incompatible so the the smallest scale
+they're incompatible uh even here in
+this room but also they're incompatible
+they're incompatible in the birth of the
+universe When Gravity was extremely
+strong they're incompatible in the cord
+of a black hole where gravity is
+extremely strong they're incompatible uh
+if you try to make a time machine hockey
+and I independently with our students
+s of identified a process whereby if a
+very Advanced civilization tries to make
+a time machine it will quite possibly
+explode at the moment you try to turn it
+on uh and that's also controlled by uh
+these laws of quantum gravity so that's
+why we haven't seen any time travelers
+yet oh that's that's that may be the
+explain Dead trying to turn on the
+machine that's right what you're saying
+is Einstein puts forth the general
+theory of relativity
+which is so successful in so many Realms
+and it picked up where Newtonian gravity
+failed yet we must confess or concede
+that there's a limit to how far general
+relativity goes although we've yet to
+find a limit to quantum physics so the
+betting the betting pool will say
+general relativity is going to succumb
+to quantum physics in some way yeah that
+that's one way to say it they certainly
+there is the incompatibility between the
+two and strength theorists are trying to
+be this they're like performing the
+shotgun wedding between the two branches
+of physics somehow yeah and I I do think
+again looking in from the outside since
+I've chosen not to work in this field
+that string theory is uh is likely to be
+a successful route into the correct loss
+of they've been add it for 50 years0 40
+years very long come on I I'm 84 years
+old come on that's that's that's just a
+drop in the bucket come on wait but
+Einstein went from special relativity to
+general relativity in 10 years Kepler
+went from from weird nested solids to
+the Kepler's Three Laws of Motion in 10
+years and that's lone scientists we've
+been working to try to do controlled
+Fusion
+for longer than more than 50 years ligo
+took 50 years from the time I first
+started working on gravitational waves
+until we succeeded it was 50 years some
+things take a long time yeah but ligo is
+a machine the the merging of quantum
+physics and general relativity are ideas
+could it be and I've said this I I I I
+don't want to say this to you because
+you're you're Kip Thorn but but I've
+said this to Brian Green okay because
+Brian Green's like my generation I said
+to Brian Green I said Brian you've been
+working on strength theory for decades
+uh maybe all of you are just too stupid
+to figure it out and we're waiting for
+someone else to be born into this field
+to then solve it in the ways none of the
+rest of you can none of them are saying
+I'm too stupid to figure this out let me
+choose another profession no they're
+saying the problem is too hard and if
+you go 40 Years of really smart people
+not figuring something out that tells me
+either they're barking up the wrong tree
+or none of them are smart
+enough am I am I overreacting I I I
+think you have to remember that we do
+build on each other none of them by
+themselves are smart enough okay but the
+the community again it's it's like this
+Nobel Prize really belongs to a thousand
+people doesn't belong to me uh it with a
+Genesis in and in Joe Weber a Genesis
+and Joe Weber we build NE Newton spoke
+of standing on the shoulders of giants
+and that really is true the
+if I can see farther than others it's
+because I've stood on the shoulders of
+giants who' have come before me and
+that's the nature of science and the uh
+struggles that our colleagues have been
+having with string theory and M Theory
+and quantum
+gravity we learned an an enormous amount
+uh it shows it's very promising uh but
+it's going to continue on into the Next
+Generation before the ultimate successes
+had a very very very
+probably those are like final words
+right there those
+are K I've heard
+rumor that whichever faculty of Caltech
+gets a Nobel Prize they get a parking
+spot with their name on it is that true
+if I went at calch a Nobel Prize does
+not get you a parking spot with your
+name on it you have you you have to pay
+for this parking spot just as much as
+you do without a Nobel Prize okay that
+was such a fun rumor though I heard that
+that that's true at USC but it's not
+true at Caltech okay because there's
+just too many of you all running around
+with Nobel prizes then the parking spots
+are too
+valuable so chew it USC okay just chew
+it USC all right so you're 84 you have
+84 years of
+wisdom hsing in your veins and arteries
+are there any projects you're working on
+in the next several years no I I made a
+gradual transition conscious uh away
+from science away from scientific
+research uh beginning uh around 15 years
+ago
+oh I you know I would like to be like to
+believe I can live to 110 that's my uh
+intended goal uh and so for the uh next
+uh uh remaining decades I wanted to do
+things that I really enjoyed and I have
+enjoyed science I've been a conventional
+Caltech Professor for half a century uh
+enormously enjoyed it enormously enjoyed
+working with students I trained a over
+50 PhD students and who did far more
+important research than I did uh and uh
+been there done that uh and I I have
+worked in all these areas of Science and
+I've had enormous fun but I've turned
+them over to the younger generation and
+uh they're smarter than I am okay so
+what are you you you surfing now or or
+skydiving what okay you taking up other
+so so I I decided that I would like to
+spend a few decades uh doing creative
+work at the interface between science
+and the Arts oh so Interstellar is an
+example that was going to be released in
+September and then they delayed it to
+the holiday season in December so the
+re-release of re-release to December
+2024 that's right that's right that that
+was enormously enjoyable I it I from me
+I learned how great it can be to
+collaborate with somebody is brilliant
+and is completely different than I am
+Christopher
+Nolan so my most recent collaboration
+has been a book of poetry and paintings
+with Leah howerin
+uh and uh about the Warped side of the
+universe and uh my poetry my attempts at
+poetry and her paintings but just trying
+to see whether it's possible by tightly
+integrating paintings with a verse to
+convey the essence of issues in science
+the spirit the ENT essential features
+without conveying the precise
+details no that's not the right genre
+for precise details but the
+anyway so I've been enjoying that by the
+way I've always felt that way about
+bango's Starry Night yes where you look
+at that painting you say this is clearly
+not what he saw but it's definitely what
+he felt yes yes and you get to
+experience the universe through his own
+lens yes and so I've always appreciated
+art when it plays that role yeah I have
+a second movie that's been in the works
+for more than a decade can you tell can
+you well it's just something that I
+started with stepen Hawk and Linda opst
+who is my my partner on uh starting
+Interstellar uh and is wonderful to work
+with uh but that movie might might never
+get made I'm not going to tell you what
+it's about aside from the fact that it's
+sci-fi and it's solid sci-fi as high
+it's buil in from the outset so if that
+does not work out in the end uh then I
+may turn it into try turning it into a
+novel I've never tried to write a novel
+I whether I can but it would be fun to
+try and actually the thing that I have
+put almost a large fraction of my effort
+in the Lion Share of my effort in since
+the beginning of the pandemic is a
+history of the ligo project the ligo
+gravitational wave project because that
+is I think pretty clearly the
+technically most difficult uh thing
+that's ever been done by physicist by
+anybody uh by anybody yeah probably by
+anybody and 11 100th the diameter of
+proton that's anybody and and uh
+success required both uh amazing
+developing amazing technology new
+technologies
+it required
+developing uh computer simulations of
+colliding black holes required
+developing Quantum Precision measurement
+technology that is now in ligo and is
+playing a major role where you
+circumvent the What's called the
+Heisenberg uncertainty principle my mind
+is still partly blown by having by you
+having said that you're bypassing
+Heisenberg's uncertainty princi that's
+right you by manipulating vacuum
+fluctuations just like Advanced
+civilizations might do as a routine
+thing yeah so we had to we developed
+this new area of technology for Lio uh
+the and but it was also a very political
+thing how do you get a billion dollars
+of taxpayer money uh for a field that
+doesn't didn't exist when you began and
+should they bet on you and not someone
+else right and plus I think you even had
+naysayers if I remember correctly
+colleagues would say this is a this is a
+pipe we we had we had political battles
+in Washington yeah tell me who the Nays
+saers were I got people take care of
+they were some of the leading
+astronomers in I got people take you
+want my people to
+no they they've come around you think
+okay they've come around because this
+this is so exciting now now that Lego
+succeeded but but the sociology of the
+transition from small science to big
+science is a very Rocky process and
+that's the right word sociology because
+that's what it is I I don't like working
+in a big Pro big science project it's
+not for me just like working in a
+crowded field is not for me but we had
+to tr we this had to make the it
+wouldn't have happened transation
+wouldn't have happened otherwise the
+genius of Barry beish in in making that
+happen was and the genius of Robie voked
+and getting us partway there the very
+beginning is our initial director who
+was the one that sold it to Congress and
+and uh and it really got us going it's
+it's a very complicated story
+and I
+have a a set of five collaborators I've
+been working on with this history we
+just finished draft six and sent it out
+to Liu colleagues to comment on and I
+have getting back huge numbers of
+comments and it'll take me two more
+years I think to so anyway the this this
+history because of the nature of this
+project it's a very interesting and
+complex history that is quite important
+for the F for the history of science ESP
+when you consider most people knew
+nothing of Lio until they see the
+headline that it discovered
+gravitational
+and why would they have any thought of
+what challenges preceded that you know
+they just read the result oh scientists
+discover this well how about the the the
+like you said the politics the sociology
+the the Genesis the who's standing on
+Whose shoulders who the naysayers all
+that has to be overcome the
+international collaboration key input
+from the Soviet Union in the depths of
+the Cold
+War and I me it's it's just a
+fascinating story
+and enormous
+fun you know Arthur C Clark said he said
+um in space where there is no air a flag
+will not wave so maybe the universe is
+not a place where we should be waving
+flags collaboration is what gets you
+there I like that so Kip this has been a
+delight thanks for making time a lot of
+fun first star talk
+I look forward to uh the release of the
+re-release of interstellar uh we're
+recording this before that has come out
+and uh you already know this but let me
+reaffirm that that film just took people
+on a ride uh far beyond anything they
+had imagined they had kind of an impact
+on people in the way 2001 Space Odyssey
+did it was it was mysterious it was
+Modern it was the future but was still
+relevant but it left you with more
+questions to ask than questions answered
+and and that you want that I think yeah
+and and that was really The Genius of
+Christopher
+Nolan uh taking some science that he and
+I had put together together but
+combining with a human story that it was
+powerful uh and uh and with Marquee
+director and Marquee actors that made
+sure would get noticed music yes uh I
+went to a concert by hun Zimmer
+who just I think the night before last
+and uh he let loose what I didn't know
+there that he basically said that the
+mus certain pieces of the music in
+interstellar are as close to Perfection
+as he has achieved wow I'm going to give
+it another listen because there is no
+2001 without its musical track with the
+Strauss Wales the the
+this is very different it's all
+all Zimmer's original music and it's a a
+remarkable score uh just amazing i' look
+forward to your next 25 years when you
+live
+to0 uh maybe we can do a reprise of this
+conversation we'll check in on you see
+how you've been coming along dude okay
+thanks a lot thanks great to see you
+again thanks this has been a special
+conversation exclusive one-on one
+between Star Talk and hip Thorn Nobel
+laurate even let me touch his
+metal first time I've ever touched the
+Nobel Prize well the medal that really
+belongs to a thousand the medal earned
+by a huge team as he uh humbly declares
+and as we enter a new era of science
+where collaborations are really how this
+works especially where you have
+international collaborations you have
+scientists getting along even at times
+when the leaders of their countries are
+in Conflict that's just messed up that's
+that's messed up I'm Neil degrass Tyson
+your personal astrophysicist for Star
+talk as always I bid you to keep looking
+up
+[Music]
