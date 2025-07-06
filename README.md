@@ -1,156 +1,127 @@
-# YouTube_ChatBot_Final
-## Project Overview
-This project builds a Retrieval-Augmented Generation (RAG) system using YouTube transcripts from Neil deGrasse Tyson's StarTalk podcast. It involves two main stages:
+# 🎥 YouTube Transcript RAG Agent
 
-## Transcript Processing and Cleaning:
-Raw .txt transcript files are loaded, cleaned to remove immediate repeated lines, and structured into a Pandas DataFrame. Cleaned transcripts are saved for reproducibility and easier downstream use.
+This project implements a voice-interactive RAG (Retrieval-Augmented Generation) system that enables users to query YouTube video transcripts from the Niel Degrass Tyson Startalk channel using natural language. It leverages LangChain, Pinecone, OpenAI, and Whisper to retrieve, embed, and answer questions based on real video content.
 
-## Vector Embedding and Querying:
-The cleaned transcripts are chunked, embedded using OpenAI embeddings, and uploaded in batches to a Pinecone vector database. A GPT-4-powered conversational agent is then set up to answer questions based on the indexed transcripts. The agent supports text-based queries as well as voice interaction via Whisper ASR and TTS.
+---
 
-### Notebook 1: Transcript Processing and Upload
-#### Overview
-This notebook prepares raw YouTube transcript data for retrieval-based modeling by:
+## 📁 Project Structure
 
-Loading raw transcript .txt files from a directory.
+The project is organized into six main Jupyter notebooks:
 
-Cleaning transcripts by removing consecutive repeated lines to avoid redundant information.
+| Notebook | Title                      | Description |
+|----------|---------------------------|-------------|
+| `1_data_retrieval.ipynb` | Data Retrieval | Downloads transcripts from a YouTube playlist, cleans them, and stores them in a structured format. |
+| `2_embeddings.ipynb`     | Embedding Pipeline | Splits the transcript data, generates OpenAI embeddings, and uploads to Pinecone. |
+| `3_agent_retrieval.ipynb`| Agent Setup & Retrieval | Initializes a LangChain agent with memory and tools for intelligent document retrieval and question-answering. |
+| `4_evaluation.ipynb`     | Evaluation | Evaluates QA responses using ROUGE metrics against reference answers. |
+| `5_voice_implementation.ipynb` | Voice Interaction | Integrates Whisper ASR and text-to-speech for a voice-based Q&A interface. |
+| `6_deployment.ipynb`     | Deployment | Deploys the voice interface as a web app using Gradio. |
 
-Saving cleaned transcripts back to disk.
+---
 
-Loading cleaned transcripts into a structured DataFrame.
+## 🔍 Notebook Overviews
 
-(Optional) Splitting documents and uploading them to Pinecone in manageable batches.
+### 📘 1. `1_data_retrieval.ipynb` — *Data Retrieval*
+- Downloads English subtitles from a YouTube playlist using `yt_dlp`.
+- Converts `.vtt` subtitle files into `.json` and `.txt`.
+- Loads all `.txt` files into a Pandas DataFrame.
+- Removes consecutive duplicate lines to clean up redundant auto-transcriptions.
+- Saves the final cleaned transcripts to disk for later use.
 
-#### Features
-Read and parse multiple raw transcript files.
+### 📘 2. `2_embeddings.ipynb` — *Embedding Pipeline*
+- Loads the cleaned transcript dataset.
+- Converts each line of text into `Document` objects with metadata.
+- Splits text into overlapping chunks (400 chars, 200 overlap).
+- Generates embeddings using `OpenAIEmbeddings`.
+- Stores embeddings in Pinecone (with optional batch uploading for robustness).
 
-Clean repeated consecutive lines while preserving meaningful rephrasings.
+### 📘 3. `3_agent_retrieval.ipynb` — *Agent Setup & Retrieval*
+- Reconnects to the Pinecone vector store.
+- Wraps the vector database with a retriever object.
+- Initializes a GPT-4-powered `ConversationalReActAgent` using LangChain.
+- Incorporates memory and tools, including a custom `YouTubeTranscriptQA` tool.
+- Defines prompt templates for structured queries (summary, explanation, comparison, etc.).
 
-Save cleaned files into a dedicated directory.
+### 📘 4. `4_evaluation.ipynb` — *Evaluation*
+- Imports the `RetrievalQA` chain.
+- Uses `evaluate` and `nltk` to compute ROUGE scores between model answers and human-written references.
+- Useful for validating the quality of generated answers against ground truth.
 
-Convert cleaned text into a Pandas DataFrame with metadata.
+### 📘 5. `5_voice_implementation.ipynb` — *Voice Interaction*
+- Records audio using `sounddevice` and saves it locally.
+- Uses OpenAI's Whisper to transcribe the audio to text.
+- Answers questions using the agent and shortens the responses using summarization prompts.
+- Converts answers to speech with `gTTS` and plays them back.
+- Enables fully voice-based RAG interaction loop.
 
-Batch upload documents into Pinecone vector database with progress tracking.
+### 📘 6. `6_deployment.ipynb` — *Deployment*
+- Wraps the voice-based RAG system in a Gradio interface.
+- Uploads, transcribes, and answers voice-based questions in a user-friendly web app.
+- Uses the same pipeline as notebook 5, but exposes it via web UI.
 
-Setup and Dependencies
-Python 3.x
+---
 
-Packages: tqdm, pandas, os, math, pinecone-client, langchain
+## 🧠 Tech Stack
 
-Install with:
+- **LangChain** — Agent-based orchestration and retrieval.
+- **OpenAI GPT-4** — Language model for QA and summarization.
+- **Pinecone** — Vector database for storing and retrieving embeddings.
+- **Whisper** — Speech-to-text transcription.
+- **gTTS** — Text-to-speech generation.
+- **Gradio** — Web-based deployment for voice interaction.
+- **evaluate & ROUGE** — Evaluation metrics for response quality.
 
-bash
-Copy
-Edit
-pip install tqdm pandas pinecone-client langchain
-Usage
-python
-Copy
-Edit
-##### Load raw transcripts
-df_raw = load_txt_transcripts_to_df(transcript_dir)
+---
 
-##### Clean repeated lines and save cleaned transcripts
-clean_repeated_lines_df_and_save(df_raw, output_clean_dir)
+## 🚀 Getting Started
 
-##### Load cleaned transcripts into DataFrame
-df_clean = load_txt_files_to_dataframe(output_clean_dir)
-print(df_clean.head())
+1. **Set environment variables**:
+   - `OPENAI_API_KEY`
+   - `PINECONE_API_KEY`
+   - (Optional) `LANGCHAIN_API_KEY` for LangSmith tracing
 
-##### Save for later use
-df_clean.to_pickle("/path/to/save/dataframe.pkl")
+2. **Install required libraries**:
+   ```bash
+   pip install -r requirements.txt
 
-##### (Optional) Batch upload to Pinecone
-batch_size = 10
-num_batches = math.ceil(len(split_docs) / batch_size)
 
-for i in tqdm(range(num_batches), desc="Uploading batches"):
-    batch_docs = split_docs[i * batch_size : (i + 1) * batch_size]
-    vectordb.add_documents(batch_docs)
-Directory Structure Example
-bash
-Copy
-Edit
-datasets/
-├── transcripts/           # Raw transcript .txt files
-├── cleaned_transcripts/   # Cleaned transcripts saved here
-└── dataframe.pkl          # Pickled DataFrame of cleaned transcripts
-Notebook 2: Embedding, Indexing, and Conversational Agent
-Overview
-This notebook takes the cleaned transcripts DataFrame, prepares document chunks with metadata, and creates vector embeddings with OpenAI. It builds and manages a Pinecone index to enable fast similarity search. On top of this, it sets up a LangChain conversational agent powered by GPT-4 that can answer questions using the indexed transcript data.
+3. **Run notebooks in order**:
 
-Additionally, it supports voice-based interaction by recording audio questions, transcribing with Whisper, and replying using text-to-speech.
+1_data_retrieval.ipynb
 
-Features
-Load cleaned transcripts DataFrame.
+2_embeddings.ipynb
 
-Chunk texts into overlapping pieces with source metadata.
+3_agent_retrieval.ipynb
 
-Initialize Pinecone vector index (create if missing).
+(Optional) 4_evaluation.ipynb
 
-Embed documents with OpenAI and batch upload to Pinecone.
+5_voice_implementation.ipynb
 
-Initialize Retriever and GPT-4 RetrievalQA chain.
+(Or deploy with) 6_deployment.ipynb
 
-Define a conversational agent with memory and custom QA tools.
+###Example Use Cases
+Ask detailed questions about science videos.
 
-Support multi-format prompt templates (summary, comparison, timeline, etc.).
+Compare concepts discussed in YouTube playlists.
 
-Evaluate answers with BLEU score against references.
+Voice-based educational assistant.
 
-Voice interaction loop using Whisper for ASR and pyttsx3 for TTS.
+Evaluate knowledge from specific videos or lectures.
 
-Setup and Dependencies
-Python 3.x
+### To Do / Improvements
+Add multi-language support for subtitles.
 
-Packages:
-pandas, langchain, pinecone-client, dotenv, tqdm, whisper, pyttsx3, sounddevice, wavio, nltk
+Integrate fallback for missing transcripts.
 
-Install with:
+Enhance summarization with map-reduce chains.
 
-bash
-Copy
-Edit
-pip install pandas langchain pinecone-client python-dotenv tqdm whisper pyttsx3 sounddevice wavio nltk
-Requires API keys for Pinecone, OpenAI, and LangChain (LangSmith tracing).
+Enable fine-tuned agent responses per channel or topic.
 
-Usage
-python
-Copy
-Edit
-# Load cleaned transcripts DataFrame
-df = pd.read_pickle("/path/to/dataframe.pkl")
+Store user chat history in database for personalization.
 
-# Create LangChain Document objects with metadata
-documents = [Document(page_content=text, metadata={"source_file": src}) for text, src in zip(df["text"], df["source_file"])]
+📄 License
+MIT License. Use responsibly. Attribution appreciated.
 
-# Chunk documents
-split_docs = splitter.split_documents(documents)
-
-# Initialize Pinecone index and upload document embeddings in batches
-# Initialize Retriever and GPT-4 RetrievalQA chain
-
-# Define conversational agent with tools and memory
-
-# Run queries:
-response = answer_with_sources("Who was Albert Einstein?")
-print(response)
-
-# Voice interaction loop
-voice_rag_interaction()
-Summary
-Together, these notebooks form a complete pipeline to:
-
-Process and clean raw YouTube transcripts.
-
-Convert transcripts to structured, chunked documents.
-
-Embed and index the data for fast semantic search.
-
-Enable GPT-4 based conversational QA on podcast transcript content.
-
-Support both text and voice input/output for natural user interaction.
-
-This system can be extended or adapted for other video or audio transcript data sources with minimal changes.
+👨‍💻 Author
+Developed by steph-crypt with ❤️ using LangChain, OpenAI, and Pinecone.
 

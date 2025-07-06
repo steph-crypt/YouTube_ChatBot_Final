@@ -33,31 +33,6 @@ def init_qa_chain(index_name="youtube-transcripts"):
     )
     return qa_chain
 
-# def get_agent(qa_chain):
-#     keys = get_api_keys()
-
-#     def answer_with_sources(input_text: str):
-#         result = qa_chain({"query": input_text})
-#         return result["result"]
-
-#     tools = [
-#         Tool(
-#             name="YouTubeTranscriptQA",
-#             func=answer_with_sources,
-#             description="Answer questions about YouTube transcripts"
-#         )
-#     ]
-#     memory = ConversationBufferMemory(memory_key="chat_history")
-#     llm = ChatOpenAI(temperature=0, model="gpt-4", openai_api_key=keys["OPENAI_API_KEY"])
-
-#     return initialize_agent(
-#         agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,
-#         tools=tools,
-#         llm=llm,
-#         memory=memory,
-#         verbose=True
-#     )
-
 def get_agent(qa_chain):
     keys = get_api_keys()
 
