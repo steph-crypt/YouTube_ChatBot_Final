@@ -1,0 +1,17 @@
+gradio
+torch
+transformers
+pandas
+numpy
+yt-dlp
+webvtt-py
+langchain
+pinecone-client
+python-dotenv
+datasets
+nltk
+openai-whisper
+gTTS
+evaluate
+tiktoken
+
