@@ -16,4 +16,6 @@ evaluate
 tiktoken
 langchain-openai
 langchain-pinecone
+langchain-community
+
 
