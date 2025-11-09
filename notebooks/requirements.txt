@@ -14,4 +14,4 @@ openai-whisper
 gTTS
 evaluate
 tiktoken
-
+langchain-openai
