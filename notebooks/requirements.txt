@@ -15,3 +15,5 @@ gTTS
 evaluate
 tiktoken
 langchain-openai
+langchain-pinecone
+
