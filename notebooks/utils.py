@@ -64,41 +64,58 @@
 #         verbose=True
 #     )
 
+# utils.py
+
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_pinecone import PineconeVectorStore
 from langchain.chains import RetrievalQA
+from langchain.memory import ConversationBufferMemory
+from langchain.agents import Tool, initialize_agent, AgentType
 from pinecone import Pinecone
 import os
 
+
+# -----------------------------
+# 🔑 Load Keys
+# -----------------------------
 def load_keys():
     return {
         "OPENAI_API_KEY": os.getenv("OPENAI_API_KEY"),
         "PINECONE_API_KEY": os.getenv("PINECONE_API_KEY")
     }
 
+
+# -----------------------------
+# 📚 Initialize Retrieval QA Chain
+# -----------------------------
 def init_qa_chain(index_name="youtube-transcripts"):
     keys = load_keys()
 
     if not keys["OPENAI_API_KEY"]:
-        raise ValueError("❌ Missing OPENAI_API_KEY")
+        raise ValueError("❌ Missing OPENAI_API_KEY in environment.")
 
     if not keys["PINECONE_API_KEY"]:
-        raise ValueError("❌ Missing PINECONE_API_KEY")
+        raise ValueError("❌ Missing PINECONE_API_KEY in environment.")
 
+    # Embeddings model
     embeddings = OpenAIEmbeddings(openai_api_key=keys["OPENAI_API_KEY"])
 
+    # Connect to Pinecone
     pc = Pinecone(api_key=keys["PINECONE_API_KEY"])
     index = pc.Index(index_name)
 
+    # Vector store
     vectordb = PineconeVectorStore(index, embeddings)
     retriever = vectordb.as_retriever(search_kwargs={"k": 5})
 
+    # LLM
     llm = ChatOpenAI(
         temperature=0,
         model="gpt-4o-mini",
-        openai_api_key=keys["OPENAI_API_KEY"]
+        openai_api_key=keys["OPENAI_API_KEY"],
     )
 
+    # RetrievalQA chain
     qa = RetrievalQA.from_chain_type(
         llm=llm,
         retriever=retriever,
@@ -108,3 +125,49 @@ def init_qa_chain(index_name="youtube-transcripts"):
 
     return qa
 
+
+# -----------------------------
+# 🤖 Build Agent Wrapper
+# -----------------------------
+def get_agent(qa_chain):
+    """Returns the main conversational agent that Gradio will call."""
+
+    def answer_with_sources(query: str):
+        response = qa_chain({"query": query})
+        answer = response["result"]
+        source_docs = response["source_documents"]
+
+        sources = list({
+            d.metadata.get("source_file", "Unknown")
+            for d in source_docs
+        })
+
+        source_text = "\n".join(sources)
+        return f"{answer}\n\nSources:\n{source_text}"
+
+    tools = [
+        Tool(
+            name="YouTubeTranscriptQA",
+            func=answer_with_sources,
+            description="Answer questions using YouTube transcript RAG system."
+        )
+    ]
+
+    llm = ChatOpenAI(
+        temperature=0,
+        model="gpt-4o-mini",
+        openai_api_key=os.getenv("OPENAI_API_KEY")
+    )
+
+    memory = ConversationBufferMemory(memory_key="chat_history")
+
+    agent = initialize_agent(
+        tools=tools,
+        llm=llm,
+        verbose=True,
+        memory=memory,
+        agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,
+        max_iterations=3
+    )
+
+    return agent
