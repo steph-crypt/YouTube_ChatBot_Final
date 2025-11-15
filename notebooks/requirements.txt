@@ -17,5 +17,9 @@ tiktoken
 langchain-openai
 langchain-pinecone
 langchain-community
+langchain==0.1.20
+openai
+
+
 
 
