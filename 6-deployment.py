@@ -14,6 +14,8 @@ import os
 from gtts import gTTS
 import utils  # Import the whole module so you can reload it
 import importlib
+from dotenv import load_dotenv
+load_dotenv()
 
 importlib.reload(utils)
 

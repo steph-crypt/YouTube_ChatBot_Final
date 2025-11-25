@@ -1,0 +1,42 @@
+# Web framework
+fastapi>=0.115.2,<1.0
+uvicorn[standard]==0.23.2
+gradio>=5.49.1,<6.0
+
+# LangChain stack (modern versions compatible with LangGraph)
+langchain>=1.0.0
+langchain-openai
+langchain-pinecone
+langchain-community
+
+# LangGraph (checkpoint + prebuilt)
+langgraph-checkpoint>=3.0.1
+langgraph-prebuilt>=1.0.4
+
+# Pinecone SDK & plugins
+pinecone>=7.0.1
+pinecone-plugin-assistant>=1.8.0
+
+# OpenAI
+openai>=1.109.1
+
+# ML / AI libraries
+torch>=2.0.0
+transformers>=4.57.1
+openai-whisper>=20250625
+tiktoken
+evaluate
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.25.0
+datasets>=4.4.1
+nltk>=3.9.2
+
+# YouTube / media
+yt-dlp>=2025.11.12
+webvtt-py>=0.5.1
+gTTS>=2.5.4
+
+# Environment / utils
+python-dotenv>=1.0.0
