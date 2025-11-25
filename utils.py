@@ -7,6 +7,7 @@ from langchain.chains import RetrievalQA
 from langchain.memory import ConversationBufferMemory
 from langchain.agents import Tool, initialize_agent, AgentType
 from dotenv import load_dotenv
+# from langchain_core.utils import deprecated
 
 load_dotenv()
 
@@ -52,24 +53,32 @@ def init_qa_chain():
     return qa
 
 def get_agent(tools: list):
-    """Initialize an agent with given tools."""
+    """
+    Initialize an agent with given tools (fixed for LangChain 1.0+).
+    """
+    # Suppress deprecation warnings (optional, but cleans output)
+    import warnings
+    warnings.filterwarnings("ignore", category=DeprecationWarning)
+
+    # If tools is a single QA chain, wrap it as a Tool
+    if len(tools) == 1 and not isinstance(tools[0], Tool):
+        qa_chain = tools[0]
+        tools = [
+            Tool(
+                name="YouTubeTranscriptQA",
+                description="Answer questions about YouTube transcripts. Input: a question string.",
+                func=lambda q: qa_chain.run(q),  # Use .run() for simple chains
+            )
+        ]
+
+    # Now initialize (use CONVERSATIONAL_REACT_DESCRIPTION for memory support)
     agent = initialize_agent(
         tools=tools,
         llm=chat_model,
-        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+        agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,  # Better for chat + memory
         verbose=True,
-        memory=memory
-    )
-    return agent
-
-
-def get_agent(tools: list):
-    """Initialize an agent with given tools."""
-    agent = initialize_agent(
-        tools=tools,
-        llm=chat_model,
-        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-        verbose=True,
-        memory=memory
+        memory=memory,
+        max_iterations=3,  # Prevent infinite loops
+        handle_parsing_errors=True,  # Graceful error handling
     )
     return agent
