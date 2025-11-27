@@ -1,79 +1,64 @@
+# api.py – FastAPI backend for React
 from fastapi import FastAPI, File, UploadFile, Form
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import JSONResponse
 import whisper
 import uuid
-from gtts import gTTS
 import os
-from dotenv import load_dotenv
+from gtts import gTTS
 import utils
 import importlib
-
 importlib.reload(utils)
 from utils import init_qa_chain, get_agent
 
-load_dotenv()
+# === Init ===
+qa_chain = init_qa_chain()
+agent = get_agent([qa_chain])
+whisper_model = whisper.load_model("tiny")
 
 app = FastAPI()
 
-# Allow React frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # React dev server
+    allow_origins=["http://localhost:3000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Load once at startup
-qa_chain = init_qa_chain()
-agent = get_agent(qa_chain)
-whisper_model = whisper.load_model("tiny")  # or "base" / "small"
+os.makedirs("public", exist_ok=True)
+app.mount("/static", StaticFiles(directory="public"), name="static")
 
-class TextQuery(BaseModel):
-    question: str
+def get_answer(question: str) -> str:
+    try:
+        return agent.run(question)
+    except:
+        return qa_chain.run(question)
 
-def shorten_answer(text: str) -> str:
-    prompt = f"Summarize this in 2-3 sentences for spoken response:\n\n{text}"
-    return agent.run(prompt)
-
-def generate_speech(text: str) -> str:
-    filename = f"output_{uuid.uuid4().hex}.mp3"
-    path = f"./public/{filename}"
-    os.makedirs("./public", exist_ok=True)
-    tts = gTTS(text=text, lang="en")
-    tts.save(path)
-    return f"http://localhost:8000/static/{filename}"
+def shorten(text: str) -> str:
+    return text[:500] + "..." if len(text) > 500 else text
 
 @app.post("/ask")
-async def ask_question(
-    question: str = Form(None),
-    audio: UploadFile = File(None)
-):
+async def ask(question: str = Form(None), audio: UploadFile = File(None)):
     if audio:
-        # Save uploaded audio
-        audio_path = f"/tmp/{uuid.uuid4().hex}.wav"
-        with open(audio_path, "wb") as f:
+        path = f"/tmp/{uuid.uuid4().hex}.wav"
+        with open(path, "wb") as f:
             f.write(await audio.read())
-        # Transcribe
-        result = whisper_model.transcribe(audio_path)
-        question = result["text"].strip()
+        question = whisper_model.transcribe(path)["text"].strip()
 
     if not question:
-        return {"error": "No question provided"}
+        return JSONResponse({"error": "No question"})
 
-    # Get answer from your agent
-    full_answer = agent.run(f"Use the YouTubeTranscriptQA tool: {question}")
-    short_answer = shorten_answer(full_answer)
-    audio_url = generate_speech(short_answer)
+    full = get_answer(question)
+    short = shorten(full)
+
+    filename = f"{uuid.uuid4().hex}.mp3"
+    filepath = f"public/{filename}"
+    gTTS(short, lang="en").save(filepath)
 
     return {
         "question": question,
-        "answer": short_answer,
-        "full_answer": full_answer,
-        "audio_url": audio_url
+        "answer": short,
+        "audio_url": f"http://localhost:8000/static/{filename}"
     }
-
-# Serve audio files
-from fastapi.staticfiles import StaticFiles
-app.mount("/static", StaticFiles(directory="public"), name="static")
