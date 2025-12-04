@@ -1,10 +1,14 @@
+---
 title: YouTube Transcript ChatBot
+emoji: 🎧
 colorFrom: blue
 colorTo: purple
 sdk: gradio
 sdk_version: "4.0"
 app_file: server.py
 pinned: false
+---
+
 
 # 🎥 YouTube Transcript RAG Agent
 
