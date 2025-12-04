@@ -3,8 +3,9 @@ from pinecone import Pinecone  # ← NEW: Import the Pinecone class
 print("Success! Pinecone v5+ and langchain_openai are working")
 
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-# from langchain.chains import RetrievalQA
-from langchain_community.chains import RetrievalQA
+from langchain.chains import create_retrieval_chain
+from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain_core.prompts import ChatPromptTemplate
 from langchain.memory import ConversationBufferMemory
 from langchain.agents import Tool, initialize_agent, AgentType
 from dotenv import load_dotenv
@@ -36,22 +37,21 @@ chat_model = ChatOpenAI(
 # Conversation memory
 memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
 
-def init_qa_chain():
-    """Initialize a RetrievalQA chain using Pinecone and OpenAI embeddings."""
-    from langchain_pinecone import PineconeVectorStore  # ← Use langchain_pinecone's wrapper (modern way)
+def init_qa_chain(llm, retriever):  # Pass your llm and retriever here
+    # Step 1: Document combiner (like old "stuff" chain_type)
+    prompt = ChatPromptTemplate.from_template("""
+    Answer the question based only on the following context:
+    {context}
+    
+    Question: {input}
+    Answer: """)  # Customize this prompt as needed
 
-    # Create vectorstore using langchain_pinecone (handles the client/index for you)
-    vectorstore = PineconeVectorStore(
-        index_name=index_name,
-        embedding=embeddings  # ← Pass the full embeddings object
-    )
+    document_chain = create_stuff_documents_chain(llm, prompt)
 
-    qa = RetrievalQA.from_chain_type(
-        llm=chat_model,
-        chain_type="stuff",
-        retriever=vectorstore.as_retriever(search_kwargs={"k": 4})  # ← Optional: Tune retrieval (top 4 docs)
-    )
-    return qa
+    # Step 2: Full retrieval chain (replaces RetrievalQA)
+    retrieval_chain = create_retrieval_chain(retriever, document_chain)
+
+    return retrieval_chain
 
 def get_agent(tools: list):
     """
