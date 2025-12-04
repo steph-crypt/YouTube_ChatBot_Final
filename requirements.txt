@@ -3,13 +3,13 @@ fastapi>=0.115.2,<1.0
 uvicorn[standard]==0.23.2
 gradio>=5.49.1,<6.0
 
-# LangChain stack (modern versions compatible with LangGraph)
+# LangChain stack
 langchain>=1.0.0
 langchain-openai
 langchain-pinecone
 langchain-community
 
-# LangGraph (checkpoint + prebuilt)
+# LangGraph
 langgraph-checkpoint>=3.0.1
 langgraph-prebuilt>=1.0.4
 
