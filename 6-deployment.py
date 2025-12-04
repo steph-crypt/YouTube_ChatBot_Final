@@ -107,6 +107,7 @@ with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
 
     gr.HTML(f"""
         <div style="text-align:center; padding:2rem;">
+
             <h1>Chat DeGrasse Tyson</h1>
             <p style="font-size:1.5rem; color:#00ff88;">
                 Ask me anything about the universe — with your voice
