@@ -4,11 +4,10 @@ emoji: 🎧
 colorFrom: blue
 colorTo: purple
 sdk: gradio
-sdk_version: "4.0"
+sdk_version: "4.31.3"
 app_file: server.py
 pinned: false
 ---
-
 
 # 🎥 YouTube Transcript RAG Agent
 
