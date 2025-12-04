@@ -174,10 +174,4 @@ with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
 # Launch with theme (Gradio 6.x way)
 # ──────────────────────
 if __name__ == "__main__":
-    demo.launch(
-        theme="soft",        
-        share=True,        
-        server_name="0.0.0.0",
-        server_port=7860,
-        allowed_paths=[image_path.parent.as_posix()]
-    )
+    demo.launch()

@@ -1,3 +1,11 @@
+title: YouTube Transcript ChatBot
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.0"
+app_file: server.py
+pinned: false
+
 # 🎥 YouTube Transcript RAG Agent
 
 This project implements a voice-interactive RAG (Retrieval-Augmented Generation) system that enables users to query YouTube video transcripts from the Niel Degrass Tyson Startalk channel using natural language. It leverages LangChain, Pinecone, OpenAI, and Whisper to retrieve, embed, and answer questions based on real video content.
