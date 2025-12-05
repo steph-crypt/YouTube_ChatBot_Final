@@ -1,5 +1,6 @@
 # Core Web & UI (HF Spaces compatible)
 gradio==4.44.0
+huggingface_hub>=0.25.0,<1.0.0
 
 # LangChain Stack (compatible 0.3.x)
 langchain==0.3.1
