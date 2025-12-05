@@ -1,12 +1,13 @@
 # Web framework
 fastapi>=0.115.2,<1.0
 uvicorn[standard]==0.23.2
-gradio>=5.49.1,<6.0
+gradio>=4.0
 
 # LangChain stack
 langchain
 langchain-openai
 langchain-pinecone
+langchain-community
 
 # LangGraph
 langgraph-checkpoint>=3.0.1
