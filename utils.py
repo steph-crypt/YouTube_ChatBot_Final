@@ -67,6 +67,17 @@ rag_chain = (
 )
 
 def rag_chain_with_sources(question: str):
+    """Answer a question about YouTube transcripts using RAG retrieval from Pinecone.
+    
+    This tool retrieves relevant transcript chunks, generates an answer based on them,
+    and returns the answer along with source documents for citation.
+    
+    Args:
+        question: A natural language question about video content (e.g., "What did the speaker say about AI?").
+    
+    Returns:
+        A dict with 'answer' (str) and 'source_documents' (list of Document objects).
+    """
     docs = retriever.invoke(question)
     answer = rag_chain.invoke(question)
     return {"answer": answer, "source_documents": docs}
