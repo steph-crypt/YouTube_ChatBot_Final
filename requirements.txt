@@ -1,25 +1,27 @@
-# === Core Web & UI (HF Spaces compatible) ===
-gradio==4.44.0                  
+# Core Web & UI (HF Spaces compatible)
+gradio==4.44.0
 
-# === LangChain & LangGraph ===
+# LangChain Stack (compatible 0.3.x)
 langchain==0.3.1
 langchain-openai==0.2.2
 langchain-pinecone==0.2.0
 langchain-community==0.3.1
-langgraph==0.2.5               
 
-# === Pinecone ===
-pinecone-client>=5.0.0          
+# LangGraph (updated to avoid core conflict)
+langgraph==0.3.5
 
-# === OpenAI ===
-openai>=1.109.1                 #
+# Pinecone (v5+ client)
+pinecone-client>=5.0.0
 
-# === Utilities ===
+# OpenAI
+openai>=1.109.1
+
+# Utilities
 python-dotenv==1.0.1
-pydantic==2.8.2                 
+pydantic==2.8.2
 
-# === Optional but useful for future expansion ===
-yt-dlp>=2025.11.12              
-webvtt-py>=0.5.1               
-gTTS>=2.5.4                
-tiktoken                    
+# YouTube/Media Extras (for ingestion/TTS)
+yt-dlp>=2025.11.12
+webvtt-py>=0.5.1
+gTTS>=2.5.4
+tiktoken
