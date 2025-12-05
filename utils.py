@@ -8,8 +8,10 @@ from langchain_pinecone import PineconeVectorStore
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
-from langchain_community.memory import ConversationBufferMemory   # ← FIXED
-from langchain.agents import Tool, initialize_agent, AgentType
+from langchain_core.messages import HumanMessage, AIMessage
+from langgraph.graph import StateGraph, END
+from langgraph.checkpoint.memory import MemorySaver  # Modern memory
+from langgraph.prebuilt import create_react_agent  # Modern agent builder
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -36,13 +38,10 @@ chat_model = ChatOpenAI(
 vectorstore = PineconeVectorStore(
     index=index,
     embedding=embeddings,
-    text_key="text"               # change if your field is "content"
+    text_key="text"  # Adjust if needed
 )
 
 retriever = vectorstore.as_retriever(search_kwargs={"k": 6})
-
-# ==================== Memory ====================
-memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
 
 # ==================== Pure LCEL RAG Chain ====================
 def format_docs(docs):
@@ -74,28 +73,48 @@ def rag_chain_with_sources(question: str):
 
 rag_chain_with_sources_func = RunnableLambda(rag_chain_with_sources)
 
-# ==================== Agent Tool ====================
-qa_tool = Tool(
-    name="YouTubeTranscriptQA",
-    description="Useful for answering any question about YouTube video transcripts. Input must be a full question.",
-    func=rag_chain_with_sources
-)
+# ==================== Modern LangGraph Agent with Memory ====================
+# Define state (tracks messages)
+class AgentState(dict):
+    messages: list
 
-# ==================== Initialize Conversational Agent ====================
-def get_agent():
-    import warnings
-    warnings.filterwarnings("ignore", category=DeprecationWarning)
+# Tool for RAG (same as before)
+def qa_tool(state: AgentState):
+    question = state["messages"][-1].content
+    result = rag_chain_with_sources(question)
+    return {
+        "messages": state["messages"] + [AIMessage(content=result["answer"])]
+    }
 
-    agent = initialize_agent(
-        tools=[qa_tool],
-        llm=chat_model,
-        agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,
-        memory=memory,
-        verbose=True,
-        max_iterations=4,
-        handle_parsing_errors=True,
+tools = [qa_tool]  # Wrap RAG as a tool
+
+# Build the graph
+def build_agent():
+    graph = StateGraph(state_schema=AgentState)
+    
+    # Add nodes
+    graph.add_node("agent", create_react_agent(chat_model, tools))
+    graph.add_node("qa_tool", qa_tool)
+    
+    # Edges (agent decides to call tool or end)
+    graph.add_conditional_edges(
+        "agent",
+        lambda state: "qa_tool" if "tool" in state else END,
+        {"qa_tool": "agent", END: END}
     )
-    return agent
+    
+    # Set entry point
+    graph.set_entry_point("agent")
+    
+    # Add memory checkpoint
+    memory = MemorySaver()
+    app = graph.compile(checkpointer=memory)
+    
+    return app
+
+# ==================== Initialize Agent ====================
+def get_agent():
+    return build_agent()
 
 # ==================== Optional: Direct QA ====================
 get_qa_chain = lambda: rag_chain_with_sources_func
