@@ -47,7 +47,7 @@ with gr.Blocks(title="YouTube Transcript ChatBot", theme=gr.themes.Soft()) as de
     clear = gr.Button("Clear conversation")
 
     # Connect the agent version (recommended)
-    msg.submit(chat_with_agent, [msg, chatbot], chatbot], [chatbot])
+    msg.submit(chat_with_agent, [msg, chatbot], [chatbot], [chatbot])
     send_btn.click(chat_with_agent, [msg, chatbot], [chatbot])
     clear.click(lambda: None, None, chatbot, queue=False)
 
