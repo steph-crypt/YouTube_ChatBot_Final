@@ -1,40 +1,40 @@
 # server.py
 import gradio as gr
+from langchain_core.messages import HumanMessage
 from utils import get_agent
 
-# Create agent once at startup
+# Create agent once
 agent_executor = get_agent()
 
 def chat(message, history):
     if not message.strip():
         return history, ""
 
-    config = {"configurable": {"thread_id": "youtube_chat_session"}}
+    config = {"configurable": {"thread_id": "hf_space_session"}}
 
-    # LangGraph expects a list of messages
     result = agent_executor.invoke(
-        {"messages": [{"role": "user", "content": message}]},
+        {"messages": [HumanMessage(content=message)]},
         config=config
     )
-    answer = result["messages"][-1]["content"]
+    answer = result["messages"][-1].content
 
     history.append([message, answer])
-    return history, ""   # also clears the textbox
+    return history, ""
 
-with gr.Blocks(theme=gr.themes.Soft(), title="YouTube Transcript ChatBot") as demo:
+# Gradio UI
+with gr.Blocks(theme=gr.themes.Soft()) as demo:
     gr.Markdown("# YouTube Transcript ChatBot")
-    chatbot = gr.Chatbot(height=600)
+    gr.Markdown("Ask anything about the videos in your Pinecone index!")
+
+    chatbot = gr.Chatbot(height=620)
     msg = gr.Textbox(
-        placeholder="Ask anything about the videos...",
-        label="Your question",
-        scale=7
+        placeholder="e.g. What did Lex say about AI safety?",
+        label="Your Question"
     )
-    clear = gr.Button("Clear")
+    clear = gr.Button("Clear Chat")
 
     msg.submit(chat, [msg, chatbot], [chatbot, msg])
     clear.click(lambda: None, None, chatbot, queue=False)
 
-
-if __name__ == "__main__":
-    demo.launch()
-
+demo.queue()
+demo.launch()

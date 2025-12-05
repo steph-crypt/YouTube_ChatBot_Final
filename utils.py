@@ -15,40 +15,30 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ==================== Pinecone ====================
+# Pinecone
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 index_name = "youtube-transcripts"
 
 if index_name not in pc.list_indexes().names():
-    raise ValueError(f"Index '{index_name}' not found!")
+    raise ValueError(f"Index '{index_name}' not found in your Pinecone account!")
 
 index = pc.Index(index_name)
 
-# ==================== Models ====================
+# Models
 embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
+chat_model = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
-chat_model = ChatOpenAI(
-    model="gpt-4o-mini",          # or gpt-4-turbo
-    temperature=0,
-    openai_api_key=os.getenv("OPENAI_API_KEY")
-)
-
-# ==================== Retriever ====================
-vectorstore = PineconeVectorStore(
-    index=index,
-    embedding=embeddings,
-    text_key="text"               # change if your field is called "content"
-)
+# Retriever
+vectorstore = PineconeVectorStore(index=index, embedding=embeddings, text_key="text")
 retriever = vectorstore.as_retriever(search_kwargs={"k": 6})
 
-# ==================== RAG Chain ====================
+# RAG chain
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
 rag_prompt = ChatPromptTemplate.from_template("""
 You are an expert on YouTube video transcripts.
-Answer ONLY using ONLY the context below. 
-If you don't know, say "I don't know based on the available transcripts."
+Answer using ONLY the context below. If unsure, say "I don't know."
 
 Context:
 {context}
@@ -63,21 +53,17 @@ rag_chain = (
     | StrOutputParser()
 )
 
-# ==================== Tool (with proper docstring) ====================
+# Tool
 @tool
 def youtube_transcript_qa(question: str) -> str:
-    """Answer any question about YouTube video transcripts stored in the Pinecone index.
-    
-    Use this for questions about topics, guests, quotes, summaries, timestamps, etc.
-    """
+    """Answer questions about YouTube video transcripts stored in Pinecone."""
     return rag_chain.invoke(question)
 
-# ==================== Agent with Memory ====================
+# Agent with memory
 def get_agent():
     memory = MemorySaver()
-    agent = create_react_agent(
+    return create_react_agent(
         model=chat_model,
         tools=[youtube_transcript_qa],
         checkpointer=memory,
     )
-    return agent

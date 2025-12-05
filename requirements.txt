@@ -2,18 +2,19 @@
 fastapi>=0.115.2,<1.0
 uvicorn[standard]==0.23.2
 gradio>=4.44
+gradio-client==1.2.1  
 
 # LangChain stack
-langchain
-langchain-openai
-langchain-pinecone
-langchain-community
 langchain-classic>=0.1.0
+langchain==0.3.1
+langchain-openai==0.2.2
+langchain-pinecone==0.2.0
+langchain-community==0.3.1
 
 # LangGraph
 langgraph-checkpoint>=3.0.1
 langgraph-prebuilt>=1.0.4
-langgraph>=0.2.0
+langgraph==0.2.5
 
 # Pinecone SDK & plugins
 pinecone>=7.0.1
@@ -42,5 +43,6 @@ webvtt-py>=0.5.1
 gTTS>=2.5.4
 
 # Environment / utils
-python-dotenv>=1.0.0
+python-dotenv==1.0.1
 python-dotenv
+pydantic==2.8.2
