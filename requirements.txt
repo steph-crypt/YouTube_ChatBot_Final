@@ -1,48 +1,25 @@
-# Web framework
-fastapi>=0.115.2,<1.0
-uvicorn[standard]==0.23.2
-gradio>=4.44
-gradio-client==1.2.1  
+# === Core Web & UI (HF Spaces compatible) ===
+gradio==4.44.0                  
 
-# LangChain stack
-langchain-classic>=0.1.0
+# === LangChain & LangGraph ===
 langchain==0.3.1
 langchain-openai==0.2.2
 langchain-pinecone==0.2.0
 langchain-community==0.3.1
+langgraph==0.2.5               
 
-# LangGraph
-langgraph-checkpoint>=3.0.1
-langgraph-prebuilt>=1.0.4
-langgraph==0.2.5
+# === Pinecone ===
+pinecone-client>=5.0.0          
 
-# Pinecone SDK & plugins
-pinecone>=7.0.1
-pinecone-client>=5.0.0
-pinecone-plugin-assistant>=1.8.0
+# === OpenAI ===
+openai>=1.109.1                 #
 
-# OpenAI
-openai>=1.109.1
-
-# ML / AI libraries
-torch>=2.0.0
-transformers>=4.57.1
-openai-whisper>=20250625
-tiktoken
-evaluate
-
-# Data processing
-pandas>=2.0.0
-numpy>=1.25.0
-datasets>=4.4.1
-nltk>=3.9.2
-
-# YouTube / media
-yt-dlp>=2025.11.12
-webvtt-py>=0.5.1
-gTTS>=2.5.4
-
-# Environment / utils
+# === Utilities ===
 python-dotenv==1.0.1
-python-dotenv
-pydantic==2.8.2
+pydantic==2.8.2                 
+
+# === Optional but useful for future expansion ===
+yt-dlp>=2025.11.12              
+webvtt-py>=0.5.1               
+gTTS>=2.5.4                
+tiktoken                    
