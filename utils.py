@@ -8,7 +8,7 @@ from langchain_pinecone import PineconeVectorStore
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
-from langchain.memory import ConversationBufferMemory
+from langchain_community.memory import ConversationBufferMemory   # ← FIXED
 from langchain.agents import Tool, initialize_agent, AgentType
 from dotenv import load_dotenv
 
@@ -27,7 +27,7 @@ index = pc.Index(index_name)
 embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
 
 chat_model = ChatOpenAI(
-    model="gpt-4o-mini",          # change if you want gpt-4-turbo → "gpt-4-turbo"
+    model="gpt-4o-mini",
     temperature=0,
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
@@ -36,7 +36,7 @@ chat_model = ChatOpenAI(
 vectorstore = PineconeVectorStore(
     index=index,
     embedding=embeddings,
-    text_key="text"               # change to "content" or whatever your field is called
+    text_key="text"               # change if your field is "content"
 )
 
 retriever = vectorstore.as_retriever(search_kwargs={"k": 6})
@@ -67,13 +67,11 @@ rag_chain = (
     | StrOutputParser()
 )
 
-# Fixed: proper function, not broken lambda syntax
 def rag_chain_with_sources(question: str):
     docs = retriever.invoke(question)
     answer = rag_chain.invoke(question)
     return {"answer": answer, "source_documents": docs}
 
-# Make it callable exactly like a normal chain
 rag_chain_with_sources_func = RunnableLambda(rag_chain_with_sources)
 
 # ==================== Agent Tool ====================
@@ -99,6 +97,5 @@ def get_agent():
     )
     return agent
 
-# ==================== Optional: Direct QA (no agent) ====================
-# Use this if you ever want a simple stateless chain
-get_qa_chain = lambda: rag_chain_with_sources_func   # now correct syntax
+# ==================== Optional: Direct QA ====================
+get_qa_chain = lambda: rag_chain_with_sources_func
