@@ -1,40 +1,27 @@
-# server.py
 import gradio as gr
-from langchain_core.messages import HumanMessage
-from utils import get_agent
+from utils import init_qa_chain
+from fastapi import FastAPI
 
-# Create agent once
-agent_executor = get_agent()
+# Initialize QA chain
+qa_chain = init_qa_chain()
 
-def chat(message, history):
-    if not message.strip():
-        return history, ""
-
-    config = {"configurable": {"thread_id": "hf_space_session"}}
-
-    result = agent_executor.invoke(
-        {"messages": [HumanMessage(content=message)]},
-        config=config
-    )
-    answer = result["messages"][-1].content
-
-    history.append([message, answer])
-    return history, ""
+def answer_question(question: str):
+    """Return answer from QA chain."""
+    if not question.strip():
+        return "Please ask a question."
+    result = qa_chain.run(question)
+    return result
 
 # Gradio UI
-with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("# YouTube Transcript ChatBot")
-    gr.Markdown("Ask anything about the videos in your Pinecone index!")
+with gr.Blocks() as demo:
+    gr.Markdown("## YouTube Transcript ChatBot")
+    question_input = gr.Textbox(label="Ask a question")
+    answer_output = gr.Textbox(label="Answer")
+    question_input.submit(answer_question, inputs=question_input, outputs=answer_output)
 
-    chatbot = gr.Chatbot(height=620)
-    msg = gr.Textbox(
-        placeholder="e.g. What did Lex say about AI safety?",
-        label="Your Question"
-    )
-    clear = gr.Button("Clear Chat")
+# if __name__ == "__main__":
+#     demo.launch()
 
-    msg.submit(chat, [msg, chatbot], [chatbot, msg])
-    clear.click(lambda: None, None, chatbot, queue=False)
 
-demo.queue()
-demo.launch()
+app = FastAPI()
+app = gr.mount_gradio_app(app, demo, path="/")

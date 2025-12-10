@@ -1,6 +1,5 @@
 ---
-title: YouTube Transcript ChatBot
-emoji: 🎧
+title: Chat DegrassTyson
 colorFrom: blue
 colorTo: purple
 sdk: gradio

@@ -1,28 +1,42 @@
-# Core Web & UI (HF Spaces compatible)
-gradio==4.44.0
-huggingface_hub>=0.25.0,<1.0.0
+# Web framework
+fastapi>=0.115.2,<1.0
+uvicorn[standard]==0.23.2
+gradio>=5.49.1,<6.0
 
-# LangChain Stack (compatible 0.3.x)
-langchain==0.3.1
-langchain-openai==0.2.2
-langchain-pinecone==0.2.0
-langchain-community==0.3.1
+# LangChain stack
+langchain>=1.0.0
+langchain-openai
+langchain-pinecone
+langchain-community
 
-# LangGraph (updated to avoid core conflict)
-langgraph==0.3.5
+# LangGraph
+langgraph-checkpoint>=3.0.1
+langgraph-prebuilt>=1.0.4
 
-# Pinecone (v5+ client)
-pinecone-client>=5.0.0
+# Pinecone SDK & plugins
+pinecone>=7.0.1
+pinecone-plugin-assistant>=1.8.0
 
 # OpenAI
 openai>=1.109.1
 
-# Utilities
-python-dotenv==1.0.1
-pydantic==2.8.2
+# ML / AI libraries
+torch>=2.0.0
+transformers>=4.57.1
+openai-whisper>=20250625
+tiktoken
+evaluate
 
-# YouTube/Media Extras (for ingestion/TTS)
+# Data processing
+pandas>=2.0.0
+numpy>=1.25.0
+datasets>=4.4.1
+nltk>=3.9.2
+
+# YouTube / media
 yt-dlp>=2025.11.12
 webvtt-py>=0.5.1
 gTTS>=2.5.4
-tiktoken
+
+# Environment / utils
+python-dotenv>=1.0.0
