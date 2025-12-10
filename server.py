@@ -1,6 +1,5 @@
 import gradio as gr
 from utils import init_qa_chain
-from fastapi import FastAPI
 
 # Initialize QA chain
 qa_chain = init_qa_chain()
@@ -19,9 +18,5 @@ with gr.Blocks() as demo:
     answer_output = gr.Textbox(label="Answer")
     question_input.submit(answer_question, inputs=question_input, outputs=answer_output)
 
-# if __name__ == "__main__":
-#     demo.launch()
-
-
-app = FastAPI()
-app = gr.mount_gradio_app(app, demo, path="/")
+# WSGI callable for PythonAnywhere
+app = demo.launch(prevent_thread_lock=True, inline_templates=True)
