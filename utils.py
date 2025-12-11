@@ -3,8 +3,8 @@ from pinecone import Pinecone  # ← NEW: Import the Pinecone class
 print("Success! Pinecone v5+ and langchain_openai are working")
 
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-# from langchain.chains import RetrievalQA
-from langchain.chains.retrieval_qa.base import RetrievalQA
+from langchain.chains import RetrievalQA
+# from langchain.chains.retrieval_qa.base import RetrievalQA
 from langchain.memory import ConversationBufferMemory
 from langchain.agents import Tool, initialize_agent, AgentType
 from dotenv import load_dotenv
