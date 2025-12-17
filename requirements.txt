@@ -8,6 +8,7 @@ langchain>=1.0.0
 langchain-openai
 langchain-pinecone
 langchain-community
+langchain-classic
 
 # LangGraph
 langgraph-checkpoint>=3.0.1
@@ -16,6 +17,7 @@ langgraph-prebuilt>=1.0.4
 # Pinecone SDK & plugins
 pinecone>=7.0.1
 pinecone-plugin-assistant>=1.8.0
+pinecone-client
 
 # OpenAI
 openai>=1.109.1
@@ -26,6 +28,10 @@ transformers>=4.57.1
 openai-whisper>=20250625
 tiktoken
 evaluate
+whisper
+gtts
+openai
+ffmpeg-python
 
 # Data processing
 pandas>=2.0.0

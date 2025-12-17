@@ -10,10 +10,10 @@ def answer_question(question: str) -> str:
     return result["result"]
 
 with gr.Blocks() as demo:
-    gr.Markdown("## 🎥 YouTube Transcript ChatBot")
+    gr.Markdown("## ChatDegrassTyson")
     question_input = gr.Textbox(
         label="Ask a question",
-        placeholder="Ask something about the YouTube transcripts..."
+        placeholder="Ask me about the universe"
     )
     answer_output = gr.Textbox(
         label="Answer",

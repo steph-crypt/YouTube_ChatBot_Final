@@ -16,6 +16,8 @@ from utils import init_qa_chain, get_agent
 
 load_dotenv()
 
+image_path = "neil_planets12b_dj1_custom-e9a1db0895b141221d00733a2d5e182dc77a312e.jpg"
+
 # One-time init
 qa_chain = init_qa_chain()
 agent = get_agent([qa_chain])
@@ -100,7 +102,7 @@ embedded_css = """
 """
 
 with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
-    image_path = Path("neil_planets12b_dj1_custom-e9a1db0895b141221d00733a2d5e182dc77a312e.jpg")
+    neil_image_path = image_path if os.path.exists(image_path) else None
     neil_image_path = image_path.as_posix()
 
     gr.HTML(f"<style>/* refreshed at {time.time()} */ {embedded_css}</style>")
@@ -173,5 +175,4 @@ with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
 # ──────────────────────
 # Launch with theme (Gradio 6.x way)
 # ──────────────────────
-if __name__ == "__main__":
-    demo.launch()
+load_dotenv()
