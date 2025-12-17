@@ -5,32 +5,34 @@ import os
 from gtts import gTTS
 from dotenv import load_dotenv
 import warnings
-from pathlib import Path
 import time
+
 warnings.filterwarnings("ignore")
 
-import utils, importlib
-importlib.reload(utils)
-from utils import init_qa_chain, get_agent
-
-
+# Load environment variables (HF Spaces supports .env or Secrets)
 load_dotenv()
 
-image_path = "neil_planets12b_dj1_custom-e9a1db0895b141221d00733a2d5e182dc77a312e.jpg"
-
 # One-time init
+from utils import init_qa_chain, get_agent 
 qa_chain = init_qa_chain()
 agent = get_agent([qa_chain])
-whisper_model = whisper.load_model("tiny")  # tiny = fast, base = accurate
+
+# Use a smaller/faster Whisper model for HF (free tier has limited RAM/CPU)
+whisper_model = whisper.load_model("tiny")  
+
 os.makedirs("outputs", exist_ok=True)
 
 # ──────────────────────
 # Core functions
 # ──────────────────────
 def transcribe(audio_path):
+    if audio_path is None:
+        return ""
     return whisper_model.transcribe(audio_path)["text"].strip()
 
 def speak(text):
+    if not text.strip():
+        return None
     file = f"outputs/{uuid.uuid4().hex}.mp3"
     gTTS(text=text, lang="en").save(file)
     return file
@@ -38,7 +40,8 @@ def speak(text):
 def answer(question):
     try:
         return agent.run(question)
-    except:
+    except Exception as e:
+        print(f"Agent failed: {e}")
         return qa_chain.run(question)
 
 def gradio_qa(text=None, audio=None):
@@ -49,17 +52,18 @@ def gradio_qa(text=None, audio=None):
     else:
         return "Please speak or type a question…", "", None
 
+    if not question:
+        return "I didn't catch that. Try again?", "", None
+
     resp = answer(question)
-    # Keep spoken answer short & clear
     short = resp[:450] + "…" if len(resp) > 450 else resp
     audio_file = speak(short)
 
     return question, resp, audio_file
 
 # ──────────────────────
-# EMBEDDED CSS (Gradio 5.x/6.x way – no 'css' or 'theme' in Blocks)
+# Embedded CSS
 # ──────────────────────
-
 embedded_css = """
 <style>
     body {
@@ -68,7 +72,6 @@ embedded_css = """
         min-height: 100vh;
         margin: 0;
     }
-
     h1 {
         font-size: 6.2rem;
         text-align: center;
@@ -78,10 +81,7 @@ embedded_css = """
         margin: 0.5em 0;
         text-shadow: 0 0 30px rgba(0,255,136,0.5);
     }
-
     footer { display: none !important; }
-
-    /* Style for the logo/image at the top */
     .cosmic-logo {
         display: block;
         width: 180px;
@@ -92,7 +92,6 @@ embedded_css = """
         box-shadow: 0 0 40px rgba(0, 255, 136, 0.8);
         object-fit: cover;
     }
-
     .about-img {
         border-radius: 16px;
         border: 4px solid #00ffff;
@@ -101,15 +100,12 @@ embedded_css = """
 </style>
 """
 
-with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
-    neil_image_path = image_path if os.path.exists(image_path) else None
-    neil_image_path = image_path.as_posix()
-
-    gr.HTML(f"<style>/* refreshed at {time.time()} */ {embedded_css}</style>")
-
+# ──────────────────────
+# Gradio Interface
+# ──────────────────────
+with gr.Blocks(title="Chat DeGrasse Tyson", css=embedded_css) as demo: 
     gr.HTML(f"""
         <div style="text-align:center; padding:2rem;">
-
             <h1>Chat DeGrasse Tyson</h1>
             <p style="font-size:1.5rem; color:#00ff88;">
                 Ask me anything about the universe — with your voice
@@ -119,17 +115,16 @@ with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
 
     with gr.Row():
         textbox = gr.Textbox(
-            placeholder="Type here or click the mic…", 
-            lines=3, 
+            placeholder="Type here or click the mic…",
+            lines=3,
             label="Your Question"
         )
-        
         mic = gr.Audio(
-            sources=["microphone"],    
-            type="filepath", 
+            sources=["microphone"],
+            type="filepath",
             label="Click & Speak",
-            waveform_options=False 
-        ) 
+            waveform_options=False
+        )
 
     send_btn = gr.Button("Ask the Universe", variant="primary", size="lg")
 
@@ -148,7 +143,7 @@ with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
         inputs=textbox
     )
 
-    # ABOUT SECTION
+    # About Section
     with gr.Accordion("About This App", open=False):
         gr.Markdown("""
         ## Chat DeGrasse Tyson
@@ -159,20 +154,23 @@ with gr.Blocks(title="Chat DeGrasse Tyson") as demo:
 
         ### How it works:
         - **You speak or type** → Whisper converts speech to text  
-        - **Llama-3 70B** (via Groq) generates Neil-style answers  
+        - **Llama-3 70B** (via Groq) or fallback to RetrievalQA generates answers  
         - **gTTS** turns the answer into audio so you can *hear* the cosmos speak  
 
         Built with love for science, wonder, and exploration.
 
         *Made by a fan of the universe — for fans of the universe.*
         """)
-        gr.Image(neil_image_path, label="Neil among the planets", height=420, elem_classes="about-img")
 
-    # Connect everything
+        # Safe image loading
+        image_path = "neil_planets12b_dj1_custom-e9a1db0895b141221d00733a2d5e182dc77a312e.jpg"
+        if os.path.exists(image_path):
+            gr.Image(image_path, label="Neil among the planets", height=420, elem_classes="about-img")
+        else:
+            gr.Markdown("_Image not available in this deployment_")
+
+    # Events
     send_btn.click(gradio_qa, inputs=[textbox, mic], outputs=[question_out, answer_box, audio_out])
     textbox.submit(gradio_qa, inputs=[textbox, mic], outputs=[question_out, answer_box, audio_out])
+    mic.change(gradio_qa, inputs=[textbox, mic], outputs=[question_out, answer_box, audio_out])  
 
-# ──────────────────────
-# Launch with theme (Gradio 6.x way)
-# ──────────────────────
-load_dotenv()
