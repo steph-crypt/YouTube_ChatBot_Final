@@ -1,22 +1,34 @@
 import gradio as gr
 from utils import init_qa_chain
 
-# Initialize QA chain
 qa_chain = init_qa_chain()
 
-def answer_question(question: str):
-    """Return answer from QA chain."""
+def answer_question(question: str) -> str:
     if not question.strip():
         return "Please ask a question."
-    result = qa_chain.run(question)
-    return result
+    result = qa_chain.invoke({"query": question})
+    return result["result"]
 
-# Gradio UI
 with gr.Blocks() as demo:
-    gr.Markdown("## YouTube Transcript ChatBot")
-    question_input = gr.Textbox(label="Ask a question")
-    answer_output = gr.Textbox(label="Answer")
-    question_input.submit(answer_question, inputs=question_input, outputs=answer_output)
+    gr.Markdown("## 🎥 YouTube Transcript ChatBot")
+    question_input = gr.Textbox(
+        label="Ask a question",
+        placeholder="Ask something about the YouTube transcripts..."
+    )
+    answer_output = gr.Textbox(
+        label="Answer",
+        lines=6
+    )
+    question_input.submit(
+        answer_question,
+        inputs=question_input,
+        outputs=answer_output
+    )
 
-# WSGI callable for PythonAnywhere
-app = demo.launch(prevent_thread_lock=True, inline_templates=True)
+demo.launch(
+    server_name="0.0.0.0",
+    server_port=8000,
+    share=False
+)
+
+app = demo
