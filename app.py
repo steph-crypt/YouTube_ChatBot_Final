@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 import warnings
 import time
 
+
+
 warnings.filterwarnings("ignore")
 
 # Load environment variables (HF Spaces supports .env or Secrets)
@@ -61,48 +63,11 @@ def gradio_qa(text=None, audio=None):
 
     return question, resp, audio_file
 
-# ──────────────────────
-# Embedded CSS
-# ──────────────────────
-embedded_css = """
-<style>
-    .gradio-container {
-        background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85)) !important;
-        color: #e0e0e0 !important;
-        min-height: 100vh !important;
-    }
-    h1 {
-        font-size: 6.2rem !important;
-        text-align: center;
-        background: linear-gradient(90deg, #00ff88, #00ffff);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin: 0.5em 0;
-        text-shadow: 0 0 30px rgba(0,255,136,0.5);
-    }
-    footer { display: none !important; }
-    .cosmic-logo {
-        display: block;
-        width: 180px;
-        height: 180px;
-        margin: 0 auto 1rem;
-        border-radius: 50%;
-        border: 4px solid #00ff88;
-        box-shadow: 0 0 40px rgba(0, 255, 136, 0.8);
-        object-fit: cover;
-    }
-    .about-img {
-        border-radius: 16px;
-        border: 4px solid #00ffff;
-        box-shadow: 0 0 40px rgba(0,255,255,0.7);
-    }
-</style>
-"""
 
 # ──────────────────────
 # Gradio Interface
 # ──────────────────────
-with gr.Blocks(title="Chat DeGrasse Tyson", css=embedded_css) as demo: 
+with gr.Blocks(css="style.css", title="Chat DeGrasse Tyson") as demo:
     gr.HTML(f"""
         <div style="text-align:center; padding:2rem;">
             <h1>Chat DeGrasse Tyson</h1>
