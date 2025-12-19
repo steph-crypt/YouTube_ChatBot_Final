@@ -67,19 +67,19 @@ def gradio_qa(text=None, audio=None):
 embedded_css = """
 <style>
     body {
-        background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85));
-        color: #e0e0e0;
-        min-height: 100vh;
-        margin: 0;
+        background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85)) !important;
+        color: #e0e0e0 !important;
+        min-height: 100vh !important;
+        margin: 0 !important;
     }
     h1 {
-        font-size: 6.2rem;
-        text-align: center;
-        background: linear-gradient(90deg, #00ff88, #00ffff);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin: 0.5em 0;
-        text-shadow: 0 0 30px rgba(0,255,136,0.5);
+        font-size: 6.2rem !important;
+        text-align: center !important;
+        background: linear-gradient(90deg, #00ff88, #00ffff) !important;
+        -webkit-background-clip: text !important;
+        -webkit-text-fill-color: transparent !important;
+        margin: 0.5em 0 !important;
+        text-shadow: 0 0 30px rgba(0,255,136,0.5) !important;
     }
     footer { display: none !important; }
     .cosmic-logo {
