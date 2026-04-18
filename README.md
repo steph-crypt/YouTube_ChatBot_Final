@@ -1,16 +1,16 @@
 ---
 title: Chat DegrassTyson
 colorFrom: blue
-colorTo: purple
+colorTo: indigo
 sdk: gradio
-sdk_version: "4.31.3"
-app_file: server.py
+sdk_version: 5.50.0
+app_file: app.py
 pinned: false
 ---
 
 # 🎥 YouTube Transcript RAG Agent
 
-This project implements a voice-interactive RAG (Retrieval-Augmented Generation) system that enables users to query YouTube video transcripts from the Niel Degrass Tyson Startalk channel using natural language. It leverages LangChain, Pinecone, OpenAI, and Whisper to retrieve, embed, and answer questions based on real video content.
+This project implements a voice-interactive RAG (Retrieval-Augmented Generation) system that enables users to query YouTube video transcripts from the Niel Degrass Tyson Startalk channel using natural language. It leverages LangChain, Pinecone, AnthropicAI, and Whisper to retrieve, embed, and answer questions based on real video content.
 
 ---
 
@@ -21,7 +21,7 @@ The project is organized into six main Jupyter notebooks:
 | Notebook | Title                      | Description |
 |----------|---------------------------|-------------|
 | `1_data_retrieval.ipynb` | Data Retrieval | Downloads transcripts from a YouTube playlist, cleans them, and stores them in a structured format. |
-| `2_embeddings.ipynb`     | Embedding Pipeline | Splits the transcript data, generates OpenAI embeddings, and uploads to Pinecone. |
+| `2_embeddings.ipynb`     | Embedding Pipeline | Splits the transcript data, generates AnthropicAI embeddings, and uploads to Pinecone. |
 | `3_agent_retrieval.ipynb`| Agent Setup & Retrieval | Initializes a LangChain agent with memory and tools for intelligent document retrieval and question-answering. |
 | `4_evaluation.ipynb`     | Evaluation | Evaluates QA responses using ROUGE metrics against reference answers. |
 | `5_voice_implementation.ipynb` | Voice Interaction | Integrates Whisper ASR and text-to-speech for a voice-based Q&A interface. |
@@ -42,7 +42,7 @@ The project is organized into six main Jupyter notebooks:
 - Loads the cleaned transcript dataset.
 - Converts each line of text into `Document` objects with metadata.
 - Splits text into overlapping chunks (400 chars, 200 overlap).
-- Generates embeddings using `OpenAIEmbeddings`.
+- Generates embeddings using `AnthropicAIEmbeddings`.
 - Stores embeddings in Pinecone (with optional batch uploading for robustness).
 
 ### 📘 3. `3_agent_retrieval.ipynb` — *Agent Setup & Retrieval*
@@ -59,7 +59,7 @@ The project is organized into six main Jupyter notebooks:
 
 ### 📘 5. `5_voice_implementation.ipynb` — *Voice Interaction*
 - Records audio using `sounddevice` and saves it locally.
-- Uses OpenAI's Whisper to transcribe the audio to text.
+- Uses AnthropicAI's Whisper to transcribe the audio to text.
 - Answers questions using the agent and shortens the responses using summarization prompts.
 - Converts answers to speech with `gTTS` and plays them back.
 - Enables fully voice-based RAG interaction loop.
@@ -74,7 +74,7 @@ The project is organized into six main Jupyter notebooks:
 ## 🧠 Tech Stack
 
 - **LangChain** — Agent-based orchestration and retrieval.
-- **OpenAI GPT-4** — Language model for QA and summarization.
+- **AnthropicAI** — Language model for QA and summarization.
 - **Pinecone** — Vector database for storing and retrieving embeddings.
 - **Whisper** — Speech-to-text transcription.
 - **gTTS** — Text-to-speech generation.
@@ -86,7 +86,7 @@ The project is organized into six main Jupyter notebooks:
 ## 🚀 Getting Started
 
 1. **Set environment variables**:
-   - `OPENAI_API_KEY`
+   - `ANTHROPIC_API_KEY`
    - `PINECONE_API_KEY`
    - (Optional) `LANGCHAIN_API_KEY` for LangSmith tracing
 
@@ -133,5 +133,5 @@ Store user chat history in database for personalization.
 MIT License. Use responsibly. Attribution appreciated.
 
 👨‍💻 Author
-Developed by steph-crypt with ❤️ using LangChain, OpenAI, and Pinecone.
+Developed by steph-crypt with ❤️ using LangChain, AnthropicAI, and Pinecone.
 
