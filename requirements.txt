@@ -6,9 +6,13 @@ gradio>=5.49.1,<6.0
 # LangChain stack
 langchain>=1.0.0
 langchain-openai
+langchain-anthropic
 langchain-pinecone
 langchain-community
+langchain-huggingface
 langchain-classic
+langchain-text-splitters
+langchain-core
 
 # LangGraph
 langgraph-checkpoint>=3.0.1
@@ -19,8 +23,13 @@ pinecone>=7.0.1
 pinecone-plugin-assistant>=1.8.0
 pinecone-client
 
-# OpenAI
+# LLM + optional legacy notebooks
 openai>=1.109.1
+anthropic>=0.40.0
+
+# Local embeddings (reindex + query; no OpenAI required)
+sentence-transformers>=3.0.0
+dill>=0.3.8
 
 # ML / AI libraries
 torch>=2.0.0
@@ -30,7 +39,6 @@ tiktoken
 evaluate
 whisper
 gtts
-openai
 ffmpeg-python
 
 # Data processing
@@ -43,6 +51,7 @@ nltk>=3.9.2
 yt-dlp>=2025.11.12
 webvtt-py>=0.5.1
 gTTS>=2.5.4
+soundfile>=0.12.1
 
 # Environment / utils
 python-dotenv>=1.0.0
