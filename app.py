@@ -115,15 +115,23 @@ def gradio_qa(text=None, audio=None):
 
 
 # ──────────────────────
-# Gradio Interface
+# Gradio Interface (light theme)
 # ──────────────────────
-with gr.Blocks(css="style.css", title="Chat DeGrasse Tyson") as demo:
+_light_theme = gr.themes.Soft(
+    primary_hue="sky",
+    secondary_hue="blue",
+    neutral_hue="slate",
+)
+
+with gr.Blocks(
+    theme=_light_theme,
+    css="style.css",
+    title="Chat DeGrasse Tyson",
+) as demo:
     gr.HTML("""
-        <div style="text-align:center; padding:2rem;">
-            <h1>Chat DeGrasse Tyson</h1>
-            <p style="font-size:1.5rem; color:#00ff88;">
-                Ask me anything about the universe — with your voice
-            </p>
+        <div class="hero">
+            <h1 class="hero-title">Chat DeGrasse Tyson</h1>
+            <p class="hero-tagline">Ask me anything about the universe — with your voice</p>
         </div>
     """)
 
@@ -151,9 +159,9 @@ with gr.Blocks(css="style.css", title="Chat DeGrasse Tyson") as demo:
         )
 
     gr.Markdown(
-        "*Tip: allow microphone access in your browser. After recording, click **Ask the Universe** "
-        "(or stop recording first if your browser shows a “Stop” control). Use the speaker control "
-        "to play the spoken summary.*"
+        '<p class="tip-line">Tip: allow microphone access in your browser. After recording, click '
+        "<strong>Ask the Universe</strong> (or stop recording first if your browser shows a Stop control). "
+        "Use the speaker control to play the spoken summary.</p>"
     )
 
     gr.Examples(
